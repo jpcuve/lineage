@@ -1,9 +1,13 @@
 package com.messio.lineage.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 import javax.persistence.*;
+import java.util.List;
 
 @Table(name = "extracts")
 @Entity
+@JsonIgnoreProperties("companies")
 public class Extract {
     @Id
     @Column(name = "id", nullable = false)
@@ -20,6 +24,13 @@ public class Extract {
     @Basic
     @Column(name = "sentences")
     private String sentences;
+    @ManyToMany
+    @JoinTable(
+            name = "extract_companies",
+            joinColumns = @JoinColumn(name = "extract_id"),
+            inverseJoinColumns = @JoinColumn(name = "company_id")
+    )
+    private List<Company> companies;
 
     public Long getId() {
         return id;
@@ -59,5 +70,13 @@ public class Extract {
 
     public void setSentences(String sentences) {
         this.sentences = sentences;
+    }
+
+    public List<Company> getCompanies() {
+        return companies;
+    }
+
+    public void setCompanies(List<Company> companies) {
+        this.companies = companies;
     }
 }

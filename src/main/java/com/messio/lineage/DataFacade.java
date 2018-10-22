@@ -9,6 +9,7 @@ import javax.persistence.PersistenceContext;
 import java.io.Serializable;
 import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
 
 @Repository
 @Transactional
@@ -24,9 +25,9 @@ public class DataFacade {
         return t;
     }
 
-    public <T, ID extends Serializable> T findOne(Class<T> clazz, ID pk){
+    public <T, ID extends Serializable> Optional<T> findOne(Class<T> clazz, ID pk){
         Objects.requireNonNull(pk);
-        return em.find(clazz, pk);
+        return Optional.ofNullable(em.find(clazz, pk));
     }
 
     public <T> T update(T t){

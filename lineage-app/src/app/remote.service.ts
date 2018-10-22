@@ -13,13 +13,14 @@ export class RemoteService {
 
   constructor(private httpClient: HttpClient){
     let w: Window = <Window> window;
-    let cs: string[] = (parseInt(w.location.port) < 8080 ? ['http://', w.location.hostname, ':8080'] : [])
-    this.base = cs.concat(['/api']).join('')
-    console.info('base:', this.base)
+    this.base = '/api';
+    if (parseInt(w.location.port) < 8080){
+      this.base = `http://${w.location.hostname}:8080${this.base}`;
+    }
   }
 
   public hello(): Observable<Hello> {
-    return this.httpClient.get<Hello>(this.base + '/hello');
+    return this.httpClient.get<Hello>(`${this.base}/hello`);
   }
 
 }
