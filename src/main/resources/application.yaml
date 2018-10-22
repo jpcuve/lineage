@@ -1,16 +1,15 @@
 spring:
+  datasource:
+    url: jdbc:mysql://10.0.0.20/lineage
+    username: darts
+    password: target
+    driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: none
-  h2:
-    console:
-      enabled: true
 
 logging:
   level:
     org:
       hibernate:
         SQL: debug
-
-server:
-  port: 8080

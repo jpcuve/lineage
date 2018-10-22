@@ -1,11 +1,13 @@
 package com.messio.lineage;
 
+import com.messio.lineage.domain.Company;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import java.io.Serializable;
+import java.util.List;
 import java.util.Objects;
 
 @Repository
@@ -35,5 +37,9 @@ public class DataFacade {
     public <T, ID extends Serializable> void delete(Class<T> clazz, ID pk){
         Objects.requireNonNull(pk);
         em.remove(em.getReference(clazz, pk));
+    }
+
+    public List<Company> findCompanies(){
+        return em.createNamedQuery(Company.COMPANY_ALL, Company.class).getResultList();
     }
 }
