@@ -1,5 +1,5 @@
-import {Component, Input, OnInit} from '@angular/core';
-import {ExtractValue, Company, Hello, RemoteService} from "./remote.service";
+import {Component, OnInit} from '@angular/core';
+import {ExtractValue, RemoteService} from "./remote.service";
 
 @Component({
   selector: 'app-root',
@@ -12,10 +12,6 @@ export class AppComponent implements OnInit {
   appModel: ExtractValue;
   parentId: number = 0;
   childId: number = 0;
-
-  hello: Hello = new class implements Hello {
-    title: string = '';
-  };
 
   constructor(private remoteService: RemoteService) {
   }
@@ -59,6 +55,5 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.remoteService.hello().subscribe(h => this.hello = h)
   }
 }

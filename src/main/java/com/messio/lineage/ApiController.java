@@ -2,14 +2,12 @@ package com.messio.lineage;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.messio.lineage.domain.Company;
 import com.messio.lineage.domain.Extract;
 import com.messio.lineage.domain.Relation;
 import com.messio.lineage.transfer.ExtractValue;
 import com.messio.lineage.transfer.SaveValue;
-import com.mysql.cj.xdevapi.JsonArray;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -67,7 +65,6 @@ public class ApiController {
 
                     }
                 });
-        System.out.println(saveValue);
         return saveValue;
     }
 

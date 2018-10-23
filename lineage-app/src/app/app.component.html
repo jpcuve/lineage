@@ -13,13 +13,11 @@
   </div>
   <div *ngIf="appModel">
     <pre>{{appModel.extract.sentences}}</pre>
-    <ul>
-      <li *ngFor="let company of appModel.companies">{{company.name}}</li>
-    </ul>
     <span>
       <span *ngFor="let company of appModel.companies">
         <br/>
-        <input type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>{{company.name}}
+        <input type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>
+        {{company.name}}
       </span>
     </span>
     <br/>
@@ -28,7 +26,8 @@
     <span>
       <span *ngFor="let company of appModel.companies">
         <br/>
-        <input type="radio" name="child" [(ngModel)]="childId" value="{{company.id}}"/>{{company.name}}
+        <input type="radio" name="child" [(ngModel)]="childId" value="{{company.id}}"/>
+        {{company.name}}
       </span>
     </span>
   </div>
