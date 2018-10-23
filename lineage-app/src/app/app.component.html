@@ -1,6 +1,36 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div>
-  <h1>{{hello.title}}</h1>
-  <pre>zaza</pre>
+  <div>
+    <label for="query">Query</label>
+    <input #query id="query" value="subsidiary"/>
+    <button (click)="fetch(query.value)" (keyup.enter)="fetch(query.value)">Fetch</button>
+    <span *ngIf="extractIds">({{extractIds.length}} results)</span>
+  </div>
+  <span *ngIf="currentIndex >= 0">{{extractIds[currentIndex]}} ({{currentIndex}})</span>
+  <div>
+    <button (click)="prev()">Prev</button>
+    <button (click)="next()">Next</button>
+  </div>
+  <div *ngIf="appModel">
+    <pre>{{appModel.extract.sentences}}</pre>
+    <ul>
+      <li *ngFor="let company of appModel.companies">{{company.name}}</li>
+    </ul>
+    <span>
+      <span *ngFor="let company of appModel.companies">
+        <br/>
+        <input type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>{{company.name}}
+      </span>
+    </span>
+    <br/>
+    <span style="font-size: 2em;">&gt;is parent of&gt;</span>
+    <br/>
+    <span>
+      <span *ngFor="let company of appModel.companies">
+        <br/>
+        <input type="radio" name="child" [(ngModel)]="childId" value="{{company.id}}"/>{{company.name}}
+      </span>
+    </span>
+  </div>
 </div>
 <router-outlet></router-outlet>

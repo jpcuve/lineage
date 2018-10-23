@@ -1,6 +1,7 @@
 package com.messio.lineage;
 
 import com.messio.lineage.domain.Company;
+import com.messio.lineage.domain.Extract;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -41,6 +42,15 @@ public class DataFacade {
     }
 
     public List<Company> findCompanies(){
-        return em.createNamedQuery(Company.COMPANY_ALL, Company.class).getResultList();
+        return em
+                .createNamedQuery(Company.COMPANY_ALL, Company.class)
+                .getResultList();
+    }
+
+    public List<Long> findExtractsContainingText(String text){
+        return em
+                .createNamedQuery(Extract.EXTRACT_IDS_LIKE, Long.class)
+                .setParameter(1, String.format("%%%s%%", text))
+                .getResultList();
     }
 }

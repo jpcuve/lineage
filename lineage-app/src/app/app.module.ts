@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {HttpClientModule} from "@angular/common/http";
 import {RemoteService} from "./remote.service";
+import {FormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import {RemoteService} from "./remote.service";
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    FormsModule,
   ],
   providers: [
     RemoteService,

@@ -11,6 +11,7 @@ public class Company {
     public static final String COMPANY_ALL = "company.all";
     @Id
     @Column(name = "id", nullable = false)
+    @GeneratedValue
     private Long id;
     @Basic
     @Column(name = "name")

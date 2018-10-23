@@ -7,10 +7,18 @@ import java.util.List;
 
 @Table(name = "extracts")
 @Entity
+@NamedQueries({
+        @NamedQuery(
+                name = Extract.EXTRACT_IDS_LIKE,
+                query = "select e.id from Extract e where e.processed=false and e.sentences like ?1 order by id"
+        )
+})
 @JsonIgnoreProperties("companies")
 public class Extract {
+    public static final String EXTRACT_IDS_LIKE = "extract.idsLike";
     @Id
     @Column(name = "id", nullable = false)
+    @GeneratedValue
     private Long id;
     @Basic
     @Column(name = "decision_id")
@@ -24,6 +32,9 @@ public class Extract {
     @Basic
     @Column(name = "sentences")
     private String sentences;
+    @Basic
+    @Column(name = "processed")
+    private boolean processed;
     @ManyToMany
     @JoinTable(
             name = "extract_companies",
@@ -70,6 +81,14 @@ public class Extract {
 
     public void setSentences(String sentences) {
         this.sentences = sentences;
+    }
+
+    public boolean isProcessed() {
+        return processed;
+    }
+
+    public void setProcessed(boolean processed) {
+        this.processed = processed;
     }
 
     public List<Company> getCompanies() {
