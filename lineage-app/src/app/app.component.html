@@ -11,10 +11,10 @@
     <button (click)="prev()">Prev</button>
     <button (click)="next()">Next</button>
   </div>
-  <div *ngIf="appModel">
-    <pre>{{appModel.extract.sentences}}</pre>
+  <div *ngIf="extractValue">
+    <pre>{{extractValue.extract.sentences}}</pre>
     <span>
-      <span *ngFor="let company of appModel.companies">
+      <span *ngFor="let company of extractValue.companies">
         <br/>
         <input type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>
         {{company.name}}
@@ -24,7 +24,7 @@
     <span style="font-size: 2em;">&gt;is parent of&gt;</span>
     <br/>
     <span>
-      <span *ngFor="let company of appModel.companies">
+      <span *ngFor="let company of extractValue.companies">
         <br/>
         <input type="radio" name="child" [(ngModel)]="childId" value="{{company.id}}"/>
         {{company.name}}

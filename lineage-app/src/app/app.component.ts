@@ -9,7 +9,7 @@ import {ExtractValue, RemoteService} from "./remote.service";
 export class AppComponent implements OnInit {
   extractIds: number[];
   currentIndex: number = -1;
-  appModel: ExtractValue;
+  extractValue: ExtractValue;
   parentId: number = 0;
   childId: number = 0;
 
@@ -23,7 +23,7 @@ export class AppComponent implements OnInit {
   private getModel(): void {
     this.parentId = this.childId = 0;
     if (this.currentIndex >= 0){
-      this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => this.appModel = m)
+      this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => this.extractValue = m)
     }
   }
 
@@ -31,6 +31,7 @@ export class AppComponent implements OnInit {
     this.currentIndex = -1;
     this.remoteService.query(query).subscribe(extractIds => {
       this.extractIds = extractIds;
+      this.extractValue = undefined;
       if (extractIds.length > 0){
         this.currentIndex = 0;
         this.getModel();
