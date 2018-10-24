@@ -1,18 +1,7 @@
 import {Injectable} from "@angular/core";
 import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs";
-
-export interface Company {
-  id: number;
-  name: string;
-}
-
-export interface Extract {
-  id: number;
-  decisionId: number;
-  lang: string;
-  sentences: string;
-}
+import {Company, Extract} from "./domain";
 
 export interface ExtractValue {
   extract: Extract;
