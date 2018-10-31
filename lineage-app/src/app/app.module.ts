@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import {HttpClientModule} from "@angular/common/http";
 import {RemoteService} from "./remote.service";
 import {FormsModule} from "@angular/forms";
+import {ButtonModule, InputTextModule} from "primeng/primeng";
+import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 
 @NgModule({
   declarations: [
@@ -13,9 +15,12 @@ import {FormsModule} from "@angular/forms";
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
+    InputTextModule,
+    ButtonModule,
   ],
   providers: [
     RemoteService,

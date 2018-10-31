@@ -1,15 +1,14 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div>
-  <div>
-    <label for="query">Query</label>
-    <input #query id="query" value="subsidiary"/>
-    <button (click)="fetch(query.value)" (keyup.enter)="fetch(query.value)">Fetch</button>
-    <span *ngIf="extractIds">({{extractIds.length}} results)</span>
+  <div class="ui-inputgroup">
+    <input pInputText #query id="query" type="text" size="30" placeholder="Search">
+    <button pButton type="button" class="ui-button-warning" icon="fa-close" (click)="fetch(query.value)" (keyup.enter)="fetch(query.value)"></button>
   </div>
+  <span *ngIf="extractIds">({{extractIds.length}} results)</span>
   <span *ngIf="currentIndex >= 0">{{extractIds[currentIndex]}} ({{currentIndex}})</span>
   <div>
-    <button (click)="prev()">Prev</button>
-    <button (click)="next()">Next</button>
+    <button pButton (click)="prev()">Prev</button>
+    <button pButton (click)="next()">Next</button>
   </div>
   <div *ngIf="extractValue">
     <pre>{{extractValue.extract.sentences}}</pre>
