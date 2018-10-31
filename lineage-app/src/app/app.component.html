@@ -1,21 +1,22 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div>
+  <i class="fa fa-user"></i>
   <div class="ui-inputgroup">
     <input pInputText #query id="query" type="text" size="30" placeholder="Search">
-    <button pButton type="button" class="ui-button-warning" icon="fa-close" (click)="fetch(query.value)" (keyup.enter)="fetch(query.value)"></button>
+    <button pButton type="button" icon="pi pi-eye" (click)="fetch(query.value)" (keyup.enter)="fetch(query.value)"></button>
   </div>
   <span *ngIf="extractIds">({{extractIds.length}} results)</span>
   <span *ngIf="currentIndex >= 0">{{extractIds[currentIndex]}} ({{currentIndex}})</span>
   <div>
-    <button pButton (click)="prev()">Prev</button>
-    <button pButton (click)="next()">Next</button>
+    <button pButton (click)="prev()" icon="pi pi-arrow-left"></button>
+    <button pButton (click)="next()" icon="pi pi-arrow-right"></button>
   </div>
   <div *ngIf="extractValue">
     <pre>{{extractValue.extract.sentences}}</pre>
     <span>
       <span *ngFor="let company of extractValue.companies">
         <br/>
-        <input type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>
+        <input pRadioButton type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>
         {{company.name}}
       </span>
     </span>
@@ -30,5 +31,6 @@
       </span>
     </span>
   </div>
+  <i class="pi pi-user">zzz</i>
 </div>
 <router-outlet></router-outlet>

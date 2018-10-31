@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import {HttpClientModule} from "@angular/common/http";
 import {RemoteService} from "./remote.service";
 import {FormsModule} from "@angular/forms";
-import {ButtonModule, InputTextModule} from "primeng/primeng";
+import {ButtonModule, InputTextModule, RadioButtonModule} from "primeng/primeng";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 
 @NgModule({
@@ -21,6 +21,7 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
     FormsModule,
     InputTextModule,
     ButtonModule,
+    RadioButtonModule,
   ],
   providers: [
     RemoteService,
