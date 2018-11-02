@@ -52,8 +52,8 @@ public class ExtractionTest {
                                             NERMention men1 = ent1.getMentions()[l];
                                             int distance = Math.abs(men0.getOffset() - men1.getOffset());
                                             if (distance > 0 && distance < DISTANCE && men0.getOffset() < men1.getOffset() && !ent0.getName().equals(ent1.getName())){
-                                                int from = Math.max(0, men0.getOffset() / 4 - DISTANCE);
-                                                int to = Math.min(men1.getOffset() / 4 + DISTANCE, text.length());
+                                                int from = Math.max(0, men0.getOffset() - DISTANCE);
+                                                int to = Math.min(men1.getOffset() + DISTANCE, text.length());
                                                 System.out.println("---------------------------------------------------------------");
                                                 System.out.println(String.format("%s: %s (%s) | %s (%s)", distance, ent0.getName(), men0.getOffset(), ent1.getName(), men1.getOffset()));
                                                 System.out.println(text.substring(from, to));
