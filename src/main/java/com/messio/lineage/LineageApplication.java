@@ -44,7 +44,7 @@ public class LineageApplication extends SpringBootServletInitializer {
                                 !ent0.getName().equals(ent1.getName())
                         ){
                             int from = Math.max(men0.getOffset() - maximumDistance, 0);
-                            while (from >= 0 && !Character.isWhitespace(text.charAt(from))){
+                            while (from > 0 && !Character.isWhitespace(text.charAt(from))){
                                 from--;
                             }
                             int to = Math.min(men1.getOffset() + maximumDistance, text.length() - 1);

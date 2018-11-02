@@ -10,7 +10,7 @@ import java.util.List;
 @NamedQueries({
         @NamedQuery(
                 name = Extract.EXTRACT_IDS_LIKE,
-                query = "select e.id from Extract e where e.processed=false and e.sentences like ?1 order by id"
+                query = "select e.id from Extract e where e.relation is null and e.sentences like ?1 order by e.id"
         )
 })
 @JsonIgnoreProperties("companies")
@@ -30,11 +30,8 @@ public class Extract {
     @Column(name = "sentences")
     private String sentences;
     @Basic
-    @Column(name = "processed")
-    private boolean processed;
-    @Basic
     @Column
-    private int relation;
+    private Integer relation;
     @ManyToOne
     @JoinColumn(name = "one_company_id")
     private Company one;
@@ -74,19 +71,11 @@ public class Extract {
         this.sentences = sentences;
     }
 
-    public boolean isProcessed() {
-        return processed;
-    }
-
-    public void setProcessed(boolean processed) {
-        this.processed = processed;
-    }
-
-    public int getRelation() {
+    public Integer getRelation() {
         return relation;
     }
 
-    public void setRelation(int relation) {
+    public void setRelation(Integer relation) {
         this.relation = relation;
     }
 

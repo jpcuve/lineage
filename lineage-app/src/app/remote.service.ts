@@ -34,11 +34,8 @@ export class RemoteService {
     return this.httpClient.post<number[]>(`${this.base}/query`, query);
   }
 
-  save(extractId: number, relation: number): Observable<SaveValue> {
-    return this.httpClient.post<SaveValue>(`${this.base}/save`, new class implements SaveValue {
-      extractId: number = extractId;
-      relation: number = relation;
-    });
+  save(extractValue: ExtractValue): Observable<ExtractValue> {
+    return this.httpClient.post<ExtractValue>(`${this.base}/save`, extractValue);
   }
 
 }

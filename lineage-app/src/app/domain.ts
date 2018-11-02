@@ -8,4 +8,5 @@ export interface Extract {
   decisionId: number;
   lang: string;
   sentences: string;
+  relation: number;
 }
