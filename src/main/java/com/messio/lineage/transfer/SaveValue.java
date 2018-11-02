@@ -2,13 +2,11 @@ package com.messio.lineage.transfer;
 
 public class SaveValue {
     private Long extractId;
-    private Long parentId;
-    private Long childId;
+    private int relation;
 
-    public SaveValue(Long extractId, Long parentId, Long childId) {
+    public SaveValue(Long extractId, int relation) {
         this.extractId = extractId;
-        this.parentId = parentId;
-        this.childId = childId;
+        this.relation = relation;
     }
 
     public SaveValue() {
@@ -22,19 +20,11 @@ public class SaveValue {
         this.extractId = extractId;
     }
 
-    public Long getParentId() {
-        return parentId;
+    public int getRelation() {
+        return relation;
     }
 
-    public void setParentId(Long parentId) {
-        this.parentId = parentId;
-    }
-
-    public Long getChildId() {
-        return childId;
-    }
-
-    public void setChildId(Long childId) {
-        this.childId = childId;
+    public void setRelation(int relation) {
+        this.relation = relation;
     }
 }

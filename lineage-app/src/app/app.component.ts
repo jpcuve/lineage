@@ -10,18 +10,17 @@ export class AppComponent implements OnInit {
   extractIds: number[];
   currentIndex: number = -1;
   extractValue: ExtractValue;
-  parentId: number = 0;
-  childId: number = 0;
+  relation: number = 0;
 
   constructor(private remoteService: RemoteService) {
   }
 
   private save(): void {
-    this.remoteService.save(this.extractIds[this.currentIndex], this.parentId, this.childId).subscribe(m => m);
+    this.remoteService.save(this.extractIds[this.currentIndex], this.relation).subscribe(m => m);
   }
 
   private getModel(): void {
-    this.parentId = this.childId = 0;
+    this.relation = 0;
     if (this.currentIndex >= 0){
       this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => this.extractValue = m)
     }

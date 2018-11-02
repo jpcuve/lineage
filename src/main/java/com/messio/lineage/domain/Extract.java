@@ -32,13 +32,15 @@ public class Extract {
     @Basic
     @Column(name = "processed")
     private boolean processed;
-    @ManyToMany
-    @JoinTable(
-            name = "extract_companies",
-            joinColumns = @JoinColumn(name = "extract_id"),
-            inverseJoinColumns = @JoinColumn(name = "company_id")
-    )
-    private List<Company> companies;
+    @Basic
+    @Column
+    private int relation;
+    @ManyToOne
+    @JoinColumn(name = "one_company_id")
+    private Company one;
+    @ManyToOne
+    @JoinColumn(name = "two_company_id")
+    private Company two;
 
     public Long getId() {
         return id;
@@ -80,11 +82,27 @@ public class Extract {
         this.processed = processed;
     }
 
-    public List<Company> getCompanies() {
-        return companies;
+    public int getRelation() {
+        return relation;
     }
 
-    public void setCompanies(List<Company> companies) {
-        this.companies = companies;
+    public void setRelation(int relation) {
+        this.relation = relation;
+    }
+
+    public Company getOne() {
+        return one;
+    }
+
+    public void setOne(Company one) {
+        this.one = one;
+    }
+
+    public Company getTwo() {
+        return two;
+    }
+
+    public void setTwo(Company two) {
+        this.two = two;
     }
 }

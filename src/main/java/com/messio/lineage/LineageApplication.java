@@ -1,7 +1,6 @@
 package com.messio.lineage;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.messio.lineage.domain.Company;
 import com.messio.lineage.domain.Extract;
 import com.messio.lineage.transfer.NEREntity;
 import com.messio.lineage.transfer.NERMention;
@@ -27,21 +26,11 @@ public class LineageApplication extends SpringBootServletInitializer {
 	private final ObjectMapper mapper = new ObjectMapper();
 	private final DataFacade facade;
 
-	private void process(long decisionId, String text, NEREntity[] entities, int maximumDistance){
+	private void process(long decisionId, String language, String text, NEREntity[] entities, int maximumDistance){
         for (int i = 0; i < entities.length; i++){
             NEREntity ent0 = entities[i];
-            Company company0 = facade.findCompanyByName(ent0.getName()).orElseGet(() -> {
-                Company c = new Company();
-                c.setName(ent0.getName());
-                return facade.create(c);
-            });
             for (int j = i; j < entities.length; j++){
                 NEREntity ent1 = entities[j];
-                Company company1 = facade.findCompanyByName(ent1.getName()).orElseGet(() -> {
-                    Company c = new Company();
-                    c.setName(ent1.getName());
-                    return facade.create(c);
-                });
                 // now check distances between mentions
                 for (int k = 0; k < ent0.getMentions().length; k++){
                     NERMention men0 = ent0.getMentions()[k];
@@ -54,15 +43,20 @@ public class LineageApplication extends SpringBootServletInitializer {
                                 men0.getOffset() < men1.getOffset() &&
                                 !ent0.getName().equals(ent1.getName())
                         ){
-                            int from = Math.max(0, men0.getOffset() - maximumDistance);
-                            int to = Math.min(men1.getOffset() + maximumDistance, text.length());
+                            int from = Math.max(men0.getOffset() - maximumDistance, 0);
+                            while (from >= 0 && !Character.isWhitespace(text.charAt(from))){
+                                from--;
+                            }
+                            int to = Math.min(men1.getOffset() + maximumDistance, text.length() - 1);
+                            while (to < text.length() && !Character.isWhitespace(text.charAt(to))){
+                                to++;
+                            }
                             String sentences = text.substring(from, to);
                             Extract extract = new Extract();
                             extract.setDecisionId(decisionId);
-                            extract.setLang("en");
+                            extract.setLang(language);
                             extract.setSentences(sentences);
-                            extract.setCompanies(Arrays.asList(company0, company1));
-                            facade.create(extract);
+                            facade.createExtract(extract, ent0.getName(), ent1.getName());
                         }
                     }
                 }
@@ -92,7 +86,7 @@ public class LineageApplication extends SpringBootServletInitializer {
                                             Files.readAllBytes(textFile.toPath()), Charset.forName("UTF-8")
                                     ).replace("\r\n", "\n");
                                     NEREntity[] entities = mapper.readValue(p.toFile(), NEREntity[].class);
-                                    process(decisionId, text, entities, 100);
+                                    process(decisionId, "en", text, entities, 100);
                                 } catch(IOException e){
                                     LOGGER.error("Cannot read file", e);
                                 }

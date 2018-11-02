@@ -3,9 +3,7 @@ package com.messio.lineage;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import com.messio.lineage.domain.Company;
 import com.messio.lineage.domain.Extract;
-import com.messio.lineage.domain.Relation;
 import com.messio.lineage.transfer.ExtractValue;
 import com.messio.lineage.transfer.SaveValue;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,7 +37,7 @@ public class ApiController {
     public ExtractValue extract(@PathVariable("id") long id){
         return facade
                 .findOne(Extract.class, id)
-                .map(extract -> new ExtractValue(extract, extract.getCompanies()))
+                .map(extract -> new ExtractValue(extract, extract.getOne(), extract.getTwo()))
                 .orElseThrow(() -> new ResourceNotFoundException("Extract not found: %s", id));
     }
 
@@ -49,21 +47,8 @@ public class ApiController {
                 .findOne(Extract.class, saveValue.getExtractId())
                 .ifPresent(extract ->{
                     extract.setProcessed(true);
+                    extract.setRelation(saveValue.getRelation());
                     facade.update(extract);
-                    if (saveValue.getParentId() > 0 && saveValue.getChildId() > 0){
-                        facade
-                                .findOne(Company.class, saveValue.getParentId())
-                                .ifPresent(parent -> facade.
-                                        findOne(Company.class, saveValue.getChildId())
-                                        .ifPresent(child -> {
-                                            Relation relation = new Relation();
-                                            relation.setExtract(extract);
-                                            relation.setParent(parent);
-                                            relation.setChild(child);
-                                            facade.create(relation);
-                                        }));
-
-                    }
                 });
         return saveValue;
     }

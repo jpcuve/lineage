@@ -56,6 +56,20 @@ public class DataFacade {
                 .findFirst();
     }
 
+    public Extract createExtract(Extract extract, String oneName, String twoName){
+        extract.setOne(loadCompany(oneName));
+        extract.setTwo(loadCompany(twoName));
+        return create(extract);
+    }
+
+    public Company loadCompany(String name){
+        return findCompanyByName(name).orElseGet(() -> {
+            Company company = new Company();
+            company.setName(name);
+            return create(company);
+        });
+    }
+
     public List<Long> findExtractsContainingText(String text){
         return em
                 .createNamedQuery(Extract.EXTRACT_IDS_LIKE, Long.class)

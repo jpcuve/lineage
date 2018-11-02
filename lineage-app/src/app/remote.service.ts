@@ -5,13 +5,13 @@ import {Company, Extract} from "./domain";
 
 export interface ExtractValue {
   extract: Extract;
-  companies: Company[];
+  one: Company;
+  two: Company;
 }
 
 export interface SaveValue {
   extractId: number;
-  parentId: number;
-  childId: number;
+  relation: number;
 }
 
 @Injectable()
@@ -34,11 +34,10 @@ export class RemoteService {
     return this.httpClient.post<number[]>(`${this.base}/query`, query);
   }
 
-  save(extractId: number, parentId: number, childId: number): Observable<SaveValue> {
+  save(extractId: number, relation: number): Observable<SaveValue> {
     return this.httpClient.post<SaveValue>(`${this.base}/save`, new class implements SaveValue {
-      childId: number = childId;
       extractId: number = extractId;
-      parentId: number = parentId;
+      relation: number = relation;
     });
   }
 

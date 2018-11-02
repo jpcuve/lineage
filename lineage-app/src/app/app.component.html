@@ -13,23 +13,14 @@
   </div>
   <div *ngIf="extractValue">
     <pre>{{extractValue.extract.sentences}}</pre>
-    <span>
-      <span *ngFor="let company of extractValue.companies">
-        <br/>
-        <input pRadioButton type="radio" name="parent" [(ngModel)]="parentId" value="{{company.id}}"/>
-        {{company.name}}
-      </span>
-    </span>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" value="0"/>
+    <span>No relation</span>
     <br/>
-    <span style="font-size: 2em;">&gt;is parent of&gt;</span>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" value="1"/>
+    <span>{{extractValue.one.name}} is parent of {{extractValue.two.name}}</span>
     <br/>
-    <span>
-      <span *ngFor="let company of extractValue.companies">
-        <br/>
-        <input type="radio" name="child" [(ngModel)]="childId" value="{{company.id}}"/>
-        {{company.name}}
-      </span>
-    </span>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" value="2"/>
+    <span>{{extractValue.two.name}} is parent of {{extractValue.one.name}}</span>
   </div>
   <i class="pi pi-user">zzz</i>
 </div>

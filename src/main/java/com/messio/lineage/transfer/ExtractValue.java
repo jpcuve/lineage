@@ -3,15 +3,15 @@ package com.messio.lineage.transfer;
 import com.messio.lineage.domain.Company;
 import com.messio.lineage.domain.Extract;
 
-import java.util.List;
-
 public class ExtractValue {
     private Extract extract;
-    private List<Company> companies;
+    private Company one;
+    private Company two;
 
-    public ExtractValue(Extract extract, List<Company> companies) {
+    public ExtractValue(Extract extract, Company one, Company two) {
         this.extract = extract;
-        this.companies = companies;
+        this.one = one;
+        this.two = two;
     }
 
     public ExtractValue() {
@@ -25,11 +25,19 @@ public class ExtractValue {
         this.extract = extract;
     }
 
-    public List<Company> getCompanies() {
-        return companies;
+    public Company getOne() {
+        return one;
     }
 
-    public void setCompanies(List<Company> companies) {
-        this.companies = companies;
+    public void setOne(Company one) {
+        this.one = one;
+    }
+
+    public Company getTwo() {
+        return two;
+    }
+
+    public void setTwo(Company two) {
+        this.two = two;
     }
 }
