@@ -1,0 +1,243 @@
+1 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+MARSHALL DIVISION 
+ 
+BETTER MOUSE COMPANY, LLC, 
+ 
+Plaintiff, 
+ 
+v. 
+ 
+RAZER (ASIA-PACIFIC) PTE. LTD.,  
+ 
+Defendant. 
+ 
+ 
+       CIVIL ACTION NO. 2:17-cv-634 
+ 
+ORIGINAL COMPLAINT 
+FOR PATENT INFRINGEMENT 
+ 
+JURY TRIAL DEMANDED 
+ 
+Plaintiff Better Mouse Company, LLC (“Better Mouse” or “BMC”) files this original 
+complaint against Razer (Asia-Pacific) Pte. Ltd. (“Razer AP” or “Defendant”), alleging, based on 
+its own knowledge as to itself and its own actions, and based on information and belief as to all 
+other matters, as follows: 
+PARTIES 
+1. Better Mouse is a limited liability company formed under the laws of the State of 
+Texas, with a principal place of business in Tyler, Texas. 
+2. Defendant Razer AP is a private limited company formed under the laws of 
+Singapore, and located at 514, Chai Chee Lane, #07-05, Singapore 469029.   
+3. Razer AP is the parent of Razer USA Ltd. d/b/a Razer, Inc. (“Razer USA”).  
+Better Mouse has asserted a claim for patent infringement against Razer USA in C.A. No. 2:17-
+cv-317 (the “Razer USA action”), which is also pending before this Court. 
+4. Razer and Razer AP are collectively referred to herein as “Razer.” 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 1 of 11 PageID #:  1
+2 
+ 
+JURISDICTION AND VENUE 
+5. This is an action for infringement of a United States patent arising under 35 
+U.S.C. §§ 271, 281, and 284–85, among others.  This Court has subject matter jurisdiction of the 
+action under 28 U.S.C. § 1331 and § 1338(a). 
+6. In the Razer USA action, Razer USA supported its Reply to its Motion to Dismiss 
+for Improper Venue with a declaration from Lionel Ser.  (Dkt. 22-1.)  Mr. Ser is a Senior Patent 
+Counsel at Razer AP.  (Id. at ¶ 1.)  Razer AP has been actively involved in Razer USA’s defense 
+in the Razer USA action. 
+7. Razer AP owns the website RAZERZONE.COM.  Razer AP created this website 
+on April 15, 1999, and has owned it ever since.   
+8. Razer AP has sold computer mice through its website RAZERZONE.COM to 
+customers in this District and elsewhere in Texas.    
+9. Razer AP has directed Razer USA’s marketing and sale of computer mice in the 
+United States. 
+10. Razer AP has imported computer mice into the United States, with Razer USA as 
+the receiver for these shipments.   
+11. Razer has operated a research and development laboratory in Cedar Park, Texas. 
+That laboratory is located at 1460 E. Whitestone Blvd. #101, Cedar Park, TX 78613, property 
+which is owned by Razer USA.   
+12. Venue is proper in this district under 28 U.S.C. § 1391(c)(3) because Razer AP is 
+Singaporean company not resident in the United States.  See Brunette Machine Works v. Kockum 
+Indus., 406 U.S. 706 (1972). 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 2 of 11 PageID #:  2
+3 
+ 
+13. Razer AP is subject to this Court’s specific and general personal jurisdiction 
+under due process and/or the Texas Long Arm Statute due at least to Razer AP’s substantial 
+business in this forum, including: (i) at least a portion of the infringements alleged herein; and 
+(ii) regularly doing or soliciting business, engaging in other persistent courses of conduct, and/or 
+deriving substantial revenue from goods and services provided to individuals in this District and 
+elsewhere in Texas. 
+THE TECHNOLOGY 
+14. The patent-in-suit, U.S. Patent No. 7,532,200 (“the ‘200 Patent”), titled 
+“Apparatus for Setting Multi-Stage Displacement Resolution of a Mouse,” teaches a device 
+capable of setting the resolution for a computer mouse, often measured in “dots-per-inch” (DPI). 
+The resolution determines how much the mouse cursor moves on a computer screen for each 
+corresponding movement of the mouse itself by the user. For example, if the DPI ratio is 1:1, the 
+cursor moves one “dot” on the screen per inch of motion by the mouse. Depending on an 
+individual user’s needs, that ratio (resolution) can be adjusted to provide the user with a 
+customized experience. For example, a user playing computer games may wish for more precise 
+control of the cursor and adjust the resolution so that each movement on the screen requires a 
+larger movement of the mouse itself.  
+15. In the prior art, adjusting the resolution generally required installing a software 
+driver on a connected computer, and changing the resolution within that software program. The 
+user first needed to install the software, which required a separate item such as a CD-ROM. 
+Next, the user needed to locate the installed software on the computer and then determine how to 
+adjust the desired parameter within the software. In contrast, the inventor of the technology 
+described in the ‘200 Patent developed a mouse that includes a button and/or switch on the 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 3 of 11 PageID #:  3
+4 
+ 
+mouse for adjusting the resolution by hand to generate a resolution value, without using a 
+software driver or tool that is external to the mouse. Among other advantages, this approach 
+allows the user to directly adjust the mouse’s resolution quickly and easily, without using a 
+software driver or tool on the connected computer. 
+COUNT I: DIRECT INFRINGEMENT OF U.S. PATENT NO. 7,532,200 
+16. On May 12, 2009, the ‘200 Patent was duly and legally issued by the United 
+States Patent and Trademark Office. 
+17. Better Mouse is the owner of the ‘200 Patent with all substantive rights in and to 
+that patent, including the sole and exclusive right to prosecute this action and enforce the ‘200 
+Patent against infringers, and to collect damages for all relevant times.  
+18. Razer AP made, had made, used, imported, provided, supplied, distributed, sold, 
+and/or offered for sale computer mice and other devices (“the accused products”), including, for 
+example, at least the Abyssus Mirror, Orochi 2013, and Ouroboros mice, which infringe one or 
+more claims of the ‘200 Patent. 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 4 of 11 PageID #:  4
+5 
+ 
+ 
+ 
+(source: https://www.razerzone.com/gaming-mice/razer-abyssus-mirror) 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 5 of 11 PageID #:  5
+6 
+ 
+RAZER OROCHI 2013: 
+ 
+(source: http://www.razersupport.com/gaming-mice/razer-orochi-2013/) 
+ 
+(source: http://dl.razerzone.com/master-guides/Orochi2013/Orochi2013OMG-ENG.pdf)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 6 of 11 PageID #:  6
+7 
+ 
+ 
+ 
+(source: https://www.razerzone.com/gaming-mice/razer-ouroboros)  
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 7 of 11 PageID #:  7
+8 
+ 
+19. The accused products also include the mice identified in Better Mouse’s 
+infringement contentions against Razer USA.  
+20. By doing so, Razer AP has directly infringed (literally and/or under the doctrine 
+of equivalents) at least Claim 6 of the ‘200 Patent. Razer AP’s infringement in this regard is 
+ongoing.  
+21. Razer AP has infringed the ‘200 Patent by making, having made, using, 
+importing, providing, supplying, distributing, selling or offering for sale systems that comprise 
+an apparatus for setting multi-stage displacement resolution of a mouse. 
+22. The accused products include an X-Y axis plane displacement detector, for 
+sensing a distance and a moving direction generated by the mouse in a two-dimensional space. 
+23. The accused products include an N-stage switch for setting a resolution value, the 
+N-stage switch circuit having a switching button capable of being manually switched to one of 
+positions 1 to N, and accordingly activating a connected resolution setting pin to indicate a state, 
+where N is a positive integer. 
+24. The accused products include a mouse micro controller with a register, coupled to 
+the X-Y axis plane displacement detector and the switching circuit, the mouse micro controller 
+determining the resolution value based on the state of the connected resolution setting pins. 
+25. The accused products include setting a mouse resolution based on the resolution 
+value and storing the resolution value in the register. 
+26. The accused products include the mouse micro controller responding to the 
+distance and moving direction sensed by the X-Y axis plane displacement detector to provide a 
+control signal to a computer connected to the mouse, thereby moving the mouse cursor on a 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 8 of 11 PageID #:  8
+9 
+ 
+screen of the computer, the mouse cursor being moved directly based on the resolution value 
+stored in the register. 
+27. Better Mouse has been damaged as a result of the infringing conduct by Razer 
+USA alleged above.  Thus, Razer USA is liable to Better Mouse in an amount that adequately 
+compensates Better Mouse for such infringements, which, by law, cannot be less than a 
+reasonable royalty, together with interest and costs as fixed by this Court under 35 U.S.C. § 284. 
+28. Better Mouse and/or its predecessors-in-interest have satisfied all statutory 
+obligations required to collect pre-filing damages for the full period allowed by law for 
+infringement of the ‘200 Patent. 
+JURY DEMAND 
+ Better Mouse hereby requests a trial by jury on all issues so triable by right. 
+PRAYER FOR RELIEF 
+Better Mouse requests that the Court find in its favor and against Defendant, and that the 
+Court grant Better Mouse the following relief: 
+a. Judgment that one or more claims of the ‘200 Patent have been infringed, either 
+literally and/or under the doctrine of equivalents, by Defendant and/or all others acting in concert 
+therewith; 
+b. A permanent injunction enjoining Defendant and its officers, directors, agents, 
+servants, affiliates, employees, divisions, branches, subsidiaries, parents, and all others acting in 
+concert therewith from infringement of the ‘200 Patent; or, in the alternative, an award of a 
+reasonable ongoing royalty for future infringement of the ‘200 Patent by such entities; 
+c. Judgment that Defendant account for and pay to Better Mouse all damages to and 
+costs incurred by Better Mouse because of Defendant’s infringing activities and other conduct 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 9 of 11 PageID #:  9
+10 
+ 
+complained of herein, including an award of all increased damages to which Better Mouse is 
+entitled under 35 U.S.C. § 284; 
+d. Pre-judgment and post-judgment interest on the damages caused by Defendant’s 
+infringing activities and other conduct complained of herein; 
+e. A declaration by the Court that this an exceptional case and an award to Better 
+Mouse its reasonable attorneys’ fees and costs in accordance with 35 U.S.C. § 285; and 
+f. Such other and further relief as the Court may deem just and proper under the 
+circumstances. 
+Dated: September 7, 2017   Respectfully submitted, 
+ 
+/s/ Larry D. Thompson, Jr. 
+      Larry D. Thompson, Jr. (lead attorney) 
+      Texas Bar No. 24051428 
+      larry@ahtlawfirm.com 
+ Matthew J. Antonelli 
+ Texas Bar No. 24068432  
+ matt@ahtlawfirm.com 
+      Zachariah S. Harrington  
+      Texas Bar No. 24057886 
+zac@ahtlawfirm.com 
+C. Ryan Pinckney   
+Texas Bar No. 24067819   
+ryan@ahtlawfirm.com 
+Michael D. Ellis  
+Texas Bar No. 24081586  
+michael@ahtlawfirm.com 
+ 
+ANTONELLI, HARRINGTON  
+& THOMPSON LLP 
+      4306 Yoakum Blvd., Ste. 450 
+      Houston, TX 77006 
+      (713) 581-3000 
+(713) 581-3020 fax 
+ 
+Stafford Davis 
+State Bar No. 24054605 
+THE STAFFORD DAVIS FIRM, PC 
+The People’s Petroleum Building 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 10 of 11 PageID #:  10
+11 
+ 
+102 N College Ave., 13th Floor 
+Tyler, Texas 75702 
+(903) 593-7000 
+sdavis@stafforddavisfirm.com 
+ 
+      Attorneys for Better Mouse Company, LLC 
+ 
+Case 2:17-cv-00634-JRG   Document 1   Filed 09/07/17   Page 11 of 11 PageID #:  11

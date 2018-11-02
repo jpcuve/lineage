@@ -1,0 +1,1799 @@
+Page 1 of 61 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+MARSHALL DIVISION 
+ 
+FRACTUS, S.A., 
+ 
+ Plaintiff, 
+ 
+v. 
+ 
+ZTE CORPORATION, ZTE (USA) INC., 
+ZTE (TX), INC., 
+ 
+ Defendants. 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+§ 
+ 
+ 
+ 
+ 
+ 
+     Case No. 2:17-CV-00561-JRG 
+           
+ 
+ 
+MEMORANDUM OPINION AND ORDER 
+ 
+On August 28, 2018, the Court held a hearing to determine the proper construction of the 
+disputed claim terms in United States Patent Nos. 7,394,432 (“the ’432 Patent”), 7,397,431 (“the 
+’431 Patent”), 8,941,541 (“the ’541 Patent”), 8,976,069 (“the ’069 Patent”), 9,054,421 (“the ’421 
+Patent”), 9,240,632 (“the ’632 Patent”), and 9,362,617 (“the ’617 Patent”.) The Court has 
+considered the arguments made by the Parties at the hearing and in their claim construction briefs. 
+(See Dkt. Nos. 77, 82, 85.) The Court has also considered the intrinsic evidence and made 
+subsidiary factual findings about the extrinsic evidence. See Phillips v. AWH Corp., 415 F.3d 1303, 
+1314 (Fed. Cir. 2005); Teva Pharm. USA, Inc. v. Sandoz, Inc., 135 S. Ct. 831, 841 (2015). The 
+Court issues this Claim Construction Memorandum and Order in light of these considerations. 
+  
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 1 of 61 PageID #:  1986
+Page 2 of 61 
+ 
+TABLE OF CONTENTS 
+I. BACKGROUND ................................................................................................................ 3 
+II. APPLICABLE LAW .......................................................................................................... 5 
+III. CONSTRUCTION OF AGREED TERMS ........................................................................ 7 
+IV. CONSTRUCTION OF DISPUTED TERMS ..................................................................... 8 
+A. “multilevel structure” and “structure for the multi-band antenna” ................ 8 
+B. “antenna element having a multi-band behavior” ........................................ 17 
+C. “majority of the geometric elements” .......................................................... 21 
+D. “level of structural detail” / “levels of detail”.............................................. 23 
+E. “geometric element” / “polygon” ................................................................. 28 
+F. “a set of closed figures bounded by the same number of sides, the sides 
+comprising one or more of straight lines, portions of circles and portions of 
+ellipses” ........................................................................................................ 34 
+G. “number of sides” ........................................................................................ 37 
+H. “Substantially within” terms ........................................................................ 40 
+I. “the second portion is a second level of structural detail within the first level 
+of structural detail” ........................................................................................ 46 
+J. “overall structure of the conductive radiating element” / “overall structure”50 
+K. “frequency band” ......................................................................................... 54 
+L. “fractal type antenna” ................................................................................... 56 
+V. CONCLUSION ................................................................................................................. 60 
+ 
+  
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 2 of 61 PageID #:  1987
+Page 3 of 61 
+ 
+I. BACKGROUND 
+This case involves seven patents (the “Asserted Patents”) that claim priority to a 1999 
+Spanish PCT application. A family tree of the Asserted Patents, known as the “Multilevel 
+Patents” or “MLV Patents” follows: 
+ 
+(Dkt. No. 77-2 at 2 (Asserted Patents shaded).1) The term “multilevel” describes the configuration 
+of an antenna, which requires “at least two levels of detail” in the antenna design. ’432 Patent at 
+                                                            
+1 The specifications of the Asserted Patents are virtually identical. The parties cite to the 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 3 of 61 PageID #:  1988
+Page 4 of 61 
+ 
+2:60–64. The specification states “the essence of the invention is found in the geometry used in 
+the multilevel structure.” Id. at 6:3–4. According to the specification, this “geometry is much more 
+flexible, rich and varied, allowing operation of the antenna from two to many more bands, as well 
+as providing a greater versatility as regards diagrams, band positions and impedance levels, to 
+name a few examples. Although they are not fractal, multilevel antennae are characterised in that 
+they comprise a number of elements which may be distinguished in the overall structure.” Id. at 
+2:32–39. Specifically, multilevel antennae “clearly show several levels of detail (that of the overall 
+structure and that of the individual elements which make it up)” and “provide a multiband behavior 
+and/or a small size.” Id. at 2:39–42. 
+Claim 1 of the ’431 Patent is an exemplary claim and recites the following elements 
+(disputed term in italics):  
+1. A multi-band antenna comprising:  
+ 
+a conductive radiating element including at least one multilevel structure,  
+ 
+said at least one multilevel structure comprising a plurality of 
+electromagnetically coupled geometric elements,  
+ 
+said plurality of geometric elements including at least three portions, a first 
+portion being associated with a first selected frequency band, a second 
+portion being associated with a second selected frequency band and a third 
+portion being associated with a third selected frequency band, said second 
+and third portions being located substantially within the first portion, said 
+first, second and third portions defining empty spaces in an overall structure 
+of the conductive radiating element to provide a circuitous current path 
+within the first portion, within the second portion and within the third 
+portion, and  
+ 
+the current within said first portion providing said first selected frequency 
+band with radio electric behavior substantially similar to the radio electric 
+behavior of said second and third selected frequency bands, the current 
+within the second portion providing said second selected frequency band 
+with radio electric behavior substantially similar to the radio electric 
+behavior of said first and third selected frequency bands, and the current 
+                                                            
+specification of the ’432 Patent, and the Court will generally do the same. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 4 of 61 PageID #:  1989
+Page 5 of 61 
+ 
+within the third portion providing said third selected frequency band with 
+radio electric behavior substantially similar to the radio electric behavior of 
+said first and second selected frequency bands. 
+II. APPLICABLE LAW 
+A. Claim Construction 
+This Court’s claim construction analysis is guided by the Federal Circuit’s decision in 
+Phillips v. AWH Corporation, 415 F.3d 1303 (Fed. Cir. 2005) (en banc).  In Phillips, the Federal 
+Circuit reiterated that “the claims of a patent define the invention to which the patentee is entitled 
+the right to exclude.”  415 F.3d at 1312.  The starting point in construing such claims is their 
+ordinary and customary meaning, which “is the meaning that the term would have to a person of 
+ordinary skill in the art in question at the time of the invention, i.e., as of the effective filing date 
+of the patent application.”  Id. at 1312–13.   
+However, Phillips made clear that “the person of ordinary skill in the art is deemed to read 
+the claim term not only in the context of the particular claim in which the disputed term appears, 
+but in the context of the entire patent, including the specification.”  Id. at 1313.  For this reason, 
+the specification is often ‘the single best guide to the meaning of a disputed term.’” Id. at 1315.  
+However, it is the claims, not the specification, which set forth the limits of the patentee’s 
+invention.  Id. at 1312.  Thus, “it is improper to read limitations from a preferred embodiment 
+described in the specification—even if it is the only embodiment—into the claims absent a clear 
+indication in the intrinsic record that the patentee intended the claims to be so limited.”  Liebel-
+Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 913 (Fed. Cir. 2004).  Other asserted or unasserted 
+Claims can also aid in determining a claim’s meaning.  See, e.g., Phillips, 415 F.3d at 1314 (use 
+of “steel baffles” and “baffles” implied that “baffles” did not inherently refer to objects made of 
+steel).   
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 5 of 61 PageID #:  1990
+Page 6 of 61 
+ 
+The prosecution history also plays an important role in claim interpretation as intrinsic 
+evidence of how the U.S. Patent and Trademark Office (“PTO”) and the inventor understood the 
+patent.  Phillips, 415 F.3d at 1317; see also Microsoft Corp. v. Multi-Tech Sys., Inc., 357 F.3d 
+1340, 1350 (Fed. Cir. 2004) (noting that “a patentee’s statements during prosecution, whether 
+relied on by the examiner or not, are relevant to claim interpretation”); Aylus Networks, Inc. v. 
+Apple Inc., 856 F.3d 1353, 1361 (Fed. Cir. 2017) (applying this principle in the context of inter 
+partes review proceedings).  However, “because the prosecution history represents an ongoing 
+negotiation between the PTO and the applicant, rather than the final product of that negotiation, it 
+often lacks the clarity of the specification and thus is less useful for claim construction purposes.” 
+Id. at 1318; see also Athletic Alternatives, Inc. v. Prince Mfg., 73 F.3d 1573, 1580 (Fed. Cir. 1996) 
+(ambiguous prosecution history may be “unhelpful as an interpretive resource”). 
+In addition to intrinsic evidence, courts may rely on extrinsic evidence such as “expert and 
+inventor testimony, dictionaries, and learned treatises.”  Id. at 1317.  As the Supreme Court 
+recently explained:  
+In some cases . . . the district court will need to look beyond the patent’s intrinsic 
+evidence . . . to consult extrinsic evidence in order to understand, for example, the 
+background science or the meaning of a term in the relevant art during the relevant 
+time period.   
+Teva Pharm. USA, Inc. v. Sandoz, Inc., 135 S. Ct. 831, 841 (2015).  However, the Federal Circuit 
+has emphasized that such extrinsic evidence is subordinate to intrinsic evidence.  Phillips, 415 
+F.3d at 1317 (“[W]hile extrinsic evidence can shed useful light on the relevant art, we have 
+explained that it is less significant than the intrinsic record in determining the legally operative 
+meaning of claim language.” (internal quotation marks omitted)).   
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 6 of 61 PageID #:  1991
+Page 7 of 61 
+ 
+III. CONSTRUCTION OF AGREED TERMS 
+The Parties agreed to the construction of the following terms/phrases: 
+Claim Term/Phrase Agreed Construction 
+“non-convex geometric element” 
+(’617 Patent Claim 17) 
+ 
+“a geometric element that is not convex” 
+“convex geometric element” 
+(’617 Patent Claims 17) 
+ 
+“a geometric element in which each 
+straight line joining each set of two points 
+within the geometric element or on the 
+boundary of the geometric element lies 
+wholly inside or on the boundary of the 
+geometric element” 
+ 
+“fraction of a total perimeter or a total area” 
+(’421 Patent Claims 1, 11) 
+ 
+“less than 50% of a total perimeter or a 
+total area” 
+“monopole configuration” 
+(’617 Patent Claims 17, 19) 
+ 
+“an antenna comprising a radiating element 
+and a ground plane, wherein a practical 
+application, the ground plane is not 
+infinite, and further where the antenna 
+would produce a radiation pattern 
+approximating that of an electric dipole in 
+the half-space above the ground plane if 
+the ground plane was infinite” 
+ 
+“structure for the multi-band antenna” 
+(’617 Patent Claims 17, 19; ’632 Patent Claim 
+17) 
+ 
+Term should be given the same 
+construction as “multilevel structure” 
+“a substantially similar combined amount of 
+resistance and reactance” 
+(’617 Patent Claim 17) 
+ 
+“substantially similar combined amount of 
+impedance level as characterized by the 
+return loss (Lr) or equivalent SWR” 
+“substantially similar impedance level and 
+radiation pattern” 
+(’069 Patent Claim 33; ’421 Patent Claim 1) 
+ 
+“radio electric behavior substantially similar” 
+(’431 Patent Claim 1; ’432 Patent Claim 1; ’541 
+Patent Claim 17) 
+ 
+These two terms have the same meaning. 
+ 
+“substantially similar combined amount of 
+impedance level as characterized by the 
+return loss (Lr) or equivalent SWR, and 
+substantially similar radiation pattern” 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 7 of 61 PageID #:  1992
+Page 8 of 61 
+ 
+(Dkt. No. 77-15 at 2.) In view of the Parties’ agreement on the construction of the identified terms, 
+the Court hereby ADOPTS the Parties’ agreed constructions.  
+IV. CONSTRUCTION OF DISPUTED TERMS 
+ 
+The Parties’ dispute the meaning and scope of fourteen terms/phrases in the Asserted 
+Patents. Each dispute is addressed below. 
+A. “multilevel structure” and “structure for the multi-band antenna” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“multilevel structure” 
+ 
+ 
+ 
+“a structure for an antenna 
+useable at multiple frequency 
+bands with at least two levels 
+of detail, wherein one level of 
+detail makes up another level. 
+These levels of detail are 
+composed of polygons 
+(polyhedrons) of the same type 
+with the same number of sides 
+(faces) wherein most of the 
+polygons (polyhedrons) are 
+clearly visible and individually 
+distinguishable and most of the 
+polygons (polyhedrons) having 
+an area of contact, intersection 
+or interconnection with other 
+elements (polygons or 
+polyhedrons) that is less than 
+50% of the perimeter or area.” 
+“a structure for an antenna 
+useable at multiple frequency 
+bands with at least two levels of 
+detail, wherein one level of detail 
+makes up another level. These 
+levels of detail are composed of 
+polygons (polyhedrons) of the 
+same type with the same number 
+of sides (faces) wherein most 
+(i.e., more than 75%) of the 
+polygons (polyhedrons) are 
+clearly visible and individually 
+distinguishable and most (i.e., 
+more than 75%) of the polygons 
+(polyhedrons) having an area of 
+contact, intersection or 
+interconnection with other 
+elements (polygons or 
+polyhedrons) that is less than 
+50% of the perimeter or area.” 
+“structure for the multi-
+band antenna” 
+1. The Parties’ Positions2 
+The term “multilevel structure” was construed in Fractus, S.A. v. Samsung Elecs. Co., et 
+al., 6:09-CV-203-LED-JDL. (See Dkt. Nos. 77-3 at 7–19; Dkt. No. 77-4.) The Parties agree with 
+                                                            
+2  The Parties agree that the term “structure for the multi-band antenna” should be construed the 
+same as the term “multilevel structure.” 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 8 of 61 PageID #:  1993
+Page 9 of 61 
+ 
+the prior construction except on one point. Defendants argue that “most of the polygons” should 
+be further clarified to mean “more than 75%” of the polygons. (Dkt. No. 82 at 2.) 
+Plaintiff contends that the patentees coined “multilevel structure” to describe the antenna 
+geometry disclosed in the MLV Patents. (Dkt. No. 77 at 3.) According to Plaintiff, the specification 
+uniformly refers to a “multilevel structure” as incorporating multiple levels of detail in an antenna 
+design. (Id.) (citing ’432 Patent at 2:31–43, 2:60–64, 3:40–43, 4:66–5:6, 6:27–37.) Plaintiff argues 
+that the levels of detail in a multilevel structure are constructed of polygons of the same type with 
+the same number of sides. (Id. at 4 (citing ’432 Patent at 5:8–11, 2:43–46, 3:8–11, 4:53–60).) 
+Plaintiff contends that most of the polygons used to construct the multi-level structure are clearly 
+visible and individually distinguishable because less than 50% of the perimeter or area of these 
+polygons is in contact with other polygons. (Id. (citing ’432 Patent at 2:35–38, 2:60–67, 3:8–11, 
+3:30–43, 5:36–38, 6:27–42).) 
+Regarding Defendants’ construction, Plaintiff argues that the 75% requirement appears in 
+a certain embodiment, but that it is not mandatory in every instance. (Id. at 5.) Plaintiff contends 
+that the Summary does not mentions the 75% requirement, and instead requires that a “majority” 
+or “most” of the elements exhibit this characteristic. (Id. (citing ’432 Patent at 2:60–67, 3:8–11, 
+3:34–38).) According to Plaintiff, the plain and ordinary meaning of “majority” and “most” is 
+more than 50%. (Id. at 6 (citing Dkt. Nos. 77-5; 77-6).)  
+Plaintiff concedes that certain embodiments include the “at least 75%” requirement, but 
+argues that the Preferred Embodiment also notes that “at least most” of the component elements 
+are individually identifiable when discussing certain examples. (Id. (citing ’432 Patent at 4:63–
+5:6, 5:31–38).) According to Plaintiff, it is apparent that the term “multilevel” is used in instances 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 9 of 61 PageID #:  1994
+Page 10 of 61 
+ 
+requiring only that a “majority” of the geometric elements meet the 50% perimeter-free 
+requirement. (Id.) 
+Plaintiff further argues that the independent claims of the ’432, ’431 and ’541 Patents do 
+not recite the percentage of polygons that must meet the 50% perimeter-free requirement in a 
+multilevel structure. (Id. at 6–7.) Plaintiff contends that certain dependent claims include the 75% 
+requirement, and thus, under the doctrine of claim differentiation, it is presumed that “multilevel 
+structure” in Claim 1 does not include the 75% requirement, (id. at 7 (citing ’541 Patent at Claim 
+6),) and that other dependent claims specify a lower requirement for the percentage of geometric 
+elements that must meet the 50% perimeter-free rule. (Id. (citing ’431 Patent at Claim 22).) 
+Plaintiff further argues that claims from unasserted patents explicitly require that 75% of the 
+polygons must have less than 50% of their perimeter or area in contact. (Id. at 8 (citing the ’868 
+Patent at Claim 1 (Dkt. No. 77-7); the ’208 Patent at Claim 1 (Dkt. No. 77-8)).) According to 
+Plaintiff, the inclusion of the 75% requirement in certain patent claims, but not in the Asserted 
+Claims, supports the conclusion that the term “multilevel structure” does not include the 75% 
+requirement. (Id.) 
+Defendants respond that the term “multilevel structure” does not have any meaning apart 
+from the intrinsic evidence, because it is a term coined by the patentees. (Dkt. No. 82 at 3.) 
+Defendants argue that the specification describes the defining attributes of the “present invention” 
+as having the “at least 75%” requirement, (id. (citing ’432 Patent at 4:51–5:1, 5:15–16),) that 
+Plaintiff admitted the “at least 75%” requirement in the prosecution history, (id. (citing Dkt. No. 
+77-12 at 8–9),) and that Defendants’ construction is consistent with the PTO’s construction in the 
+most recent reexamination. (Id. at 4 (citing Dkt. No. 82-2 at 4).) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 10 of 61 PageID #:  1995
+Page 11 of 61 
+ 
+Defendants further argue that Plaintiff does not point to anything in the specification that 
+explains that “most” means anything other than “at least 75%.” (Id.) Defendants also contend that 
+Plaintiff’s dictionary definitions do not apply to the coined term “multilevel structure.” (Id.) 
+Defendants argue that the dictionary excerpts only provide definitions for “majority,” not “most.” 
+(Id. at 5.) Defendants also argue that the dictionaries are later in time than the alleged invention. 
+(Id.) 
+Defendants next argue that Plaintiff’s reliance on claim differentiation is unavailing, 
+because the present invention is explained as having “at least 75%.” (Id.) According to Defendants, 
+Plaintiff’s position is weakened by its reliance on dependent claims, and claims in other patents 
+that were drafted after the original specification was filed that are not supported by the written 
+description. (Id.) 
+Plaintiff replies that there are particular portions of the MLV patent family specification 
+that provide the definition for a multilevel structure. (Dkt. No. 85 at 1 (citing ’432 Patent at 2:60–
+6, 3:30–43; ’868 Patent at 2:20–33, 2:48–56).) According to Plaintiff, these passages clarify that 
+a multilevel structure only requires “most” or a “majority” of elements to have the perimeter 
+characteristic. (Id.). Plaintiff contends that Defendants improperly focus on one passage. (Id. 
+(citing ’432 Patent at 4:51–5:1).) Plaintiff argues that even that passage continues with a statement 
+referencing “most of the basic component elements,” and notes that its “multilevel” name “is 
+precisely due to this characteristic.” (Id. (citing ’432 Patent at 4:66–5:6).) 
+Regarding the prosecution history, Plaintiff argues that the claim pending in the PCT 
+application included the “at least 75%” requirement, so it is not surprising the Response mentions 
+it. (Id. at 1–2 (citing Dkt. No. 77-12 at 2).) Plaintiff further argues that the Response sought to 
+distinguish a prior patent drawn to a fractal antenna, which met the “at least 75%” requirement. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 11 of 61 PageID #:  1996
+Page 12 of 61 
+ 
+(Id. at 2 (citing Dkt. No. 77-12 at 8).) According to Plaintiff, the Response emphasized that a 
+multilevel geometry is flexible, and the contact zones can be varied, unlike a fractal design. (Id.) 
+Plaintiff also argues that statement by the PTO during the ’432 Reexam should be given 
+little weight during claim construction. (Id.) Plaintiff contends that the PTO also stated that “[d]ue 
+to the above, one can individually distinguish most of the component polygons . . . .” (Id. (citing 
+Dkt. No. 82-2 at 7).) Plaintiff contends that the ordinary meaning of “most” will be understood by 
+a juror without further definition, and that the specification uses “most” and “majority” 
+synonymously. (Id. (citing ’432 Patent at 2:60–67, 3:30–43).)  
+Plaintiff further contends that the ordinary meaning should apply because the dispute is 
+about the meaning of “most,” and not the coined term “multilevel structure.” (Id. at 2–3.) Finally, 
+Plaintiff argues that the presence of a more specific requirement in a dependent claim raises a 
+presumption that this specificity was not inherent in the independent claim requirement. (Id. (citing 
+’541 Patent at Claims 1, 6).) According to Plaintiff, the MLV specification does not “consistently, 
+and without exception,” describe the MLV invention as requiring the “more than 75% of the 
+elements” limitation. (Id. (citing ’432 Patent at 2:60–67, 3:8–11, 3:30–38, 4:66–5:6, 5:36–38).) 
+For the following reasons, the Court finds that the terms “multilevel structure” and 
+“structure for the multi-band antenna” should be construed to mean “a structure for an 
+antenna useable at multiple frequency bands with at least two levels of detail, wherein one 
+level of detail makes up another level. These levels of detail are composed of polygons 
+(polyhedrons) of the same type with the same number of sides (faces) wherein most of the 
+polygons (polyhedrons) are clearly visible and individually distinguishable and most of the 
+polygons (polyhedrons) having an area of contact, intersection or interconnection with other 
+elements (polygons or polyhedrons) that is less than 50% of the perimeter or area.” 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 12 of 61 PageID #:  1997
+Page 13 of 61 
+ 
+2. Analysis 
+ 
+The term “multilevel structure” appears in Asserted Claims 1, 14, and 30 of the ’431 Patent; 
+Asserted Claims 1 and 6 of the ’432 Patent; and Asserted Claim 17 of the ’541 Patent.3 The Court 
+finds that the term is used consistently in the claims and is intended to have the same general 
+meaning in each claim. The term “structure for the multi-band antenna” appears in Asserted 
+Claims 17 and 19 of the ’617 Patent; and Asserted Claim 17 of the ’632 Patent. The Court finds 
+that the term is used consistently in the claims and is intended to have the same general meaning 
+in each claim.  
+The Parties agree that the term “multilevel” was coined by the patentees to describe the 
+antenna geometry disclosed in the Asserted Patents. (See Dkt. No. 77 at 3; Dkt. No. 82 at 3.) 
+Therefore, the specification is the best source for determining what a person of ordinary skill in 
+the art would understand the term to mean. 3M Innovative Props. Co. v. Tredegar Corp., 725 F.3d 
+1315, 1321 (Fed. Cir. 2013) (“Idiosyncratic language, highly technical terms, or terms coined by 
+the inventor are best understood by reference to the specification.”) (internal citation omitted). The 
+Summary of the Invention (“Summary”) states the following: 
+The present invention consists of an antenna whose radiating element is 
+characterised by its geometrical shape, which basically comprises several polygons 
+or polyhedrons of the same type. That is, it comprises for example triangles, 
+squares, pentagons, hexagons or even circles and ellipses as a limiting case of a 
+polygon with a large number of sides, as well as tetrahedra, hexahedra, prisms, 
+dodecahedra, etc. coupled to each other electrically (either through at least one 
+point of contact o through a small separation providing a capacitive coupling) and 
+grouped in structures of a higher level such that in the body of the antenna can be 
+                                                            
+3 As indicated above, the term “multilevel structure” was previously construed in Fractus, S.A. v. 
+Samsung Elecs. Co., et al., 6:09-CV-203-LED-JDL (E.D. Tex. 2010) (Docket No. 526). As stated 
+during the claim construction hearing, the Court is not bound to the previous construction. Tex. 
+Instruments, Inc. v. Linear Techs. Corp., 182 F. Supp. 2d 580, 586 (E.D. Tex. 2002) (“[T]hose 
+district courts which have addressed the issue have concluded that defendants in a later proceeding 
+involving previously construed patents should have the opportunity to brief and argue the issue of 
+claim construction, notwithstanding any policy in favor of judicial uniformity.”). 
+ 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 13 of 61 PageID #:  1998
+Page 14 of 61 
+ 
+identified the polygonal or polyhedral elements which it comprises. In turn, 
+structures generated in this manner can be grouped in higher order structures in a 
+manner similar to the basic elements, and so on until reaching as many levels as the 
+antenna designer desires.  
+Its designation as multilevel antenna is precisely due to the fact that in the body of 
+the antenna can be identified at least two levels of detail: that of the overall structure 
+and that of the majority of the elements (polygons or polyhedrons) which make it 
+up. This is achieved by ensuring that the area of contact or intersection (if it exists) 
+between the majority of the elements forming the antenna is only a fraction of the 
+perimeter or surrounding area of said, polygons or polyhedrons. 
+’432 Patent at 2:44–67 (emphasis added). The sole dispute is whether the term “most” or 
+“majority” should be defined as “more than 75%.” As indicated above, the Summary does not 
+mention the “more than 75%” requirement. Instead, it notes that “the area of contact or intersection 
+(if it exists) between the majority of the elements forming the antenna is only a fraction of the 
+perimeter or surrounding area.” Id. at 2:60–67 (emphasis added). The Summary further states that 
+the perimeter characteristic exists in the “majority” or in “most” of the polygons. Id. at 3:34–38 
+(describing the “main characteristic of multilevel antennae” as follows: “In multilevel geometry 
+most of these elements are clearly visible as their area of contact, intersection or interconnection 
+(if these exist) with other elements is always less than 50% of their perimeter.”) (emphasis added), 
+id. at 3:8–11 (“[I]t remains possible to identify in the antenna majority of basic elements . . . .”) 
+(emphasis added). 
+In other words, the Summary focuses on the requirement that the “majority” or “most” of 
+the geometric elements can be identified, because those geometric elements have less than 50% of 
+their perimeter or area in contact or overlap with another element. See Microsoft Corp. v. Multi-
+Tech Sys., 357 F.3d 1340, 1348 (Fed. Cir. 2004) (noting that statements in the “Summary of the 
+Invention” are more likely to describe the invention than a preferred embodiment). Furthermore, 
+the specification indicates that the patentees used the term “most” and “majority” interchangeably, 
+and there is no indication that the patentees intended to define either one to mean “more than 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 14 of 61 PageID #:  1999
+Page 15 of 61 
+ 
+75%.” Indeed, the plain and ordinary meaning of “majority” is more than 50%. (See Dkt. No. 77-5 
+at 4; Dkt. No. 77-6 at 4.)  
+Defendants contend that specification describes the defining attributes of the “present 
+invention” to include “at least 75%.” (Dkt. No. 82 at 3 (citing ’432 Patent at 4:51–5:1).) The 
+portion of the specification quoted by Defendants is included in the “Description of the Preferred 
+Embodiment of the Invention.” While certain embodiments in the specification specify that 75% 
+of the geometric elements are configured with the majority of their perimeter free of contact, the 
+requirement of 75% is not mandatory in every instance. In particular, the Summary does not 
+mention the “at least 75%” requirement. Instead, it only requires that a “majority” or “most” of 
+the elements exhibit this characteristic. See Liebel-Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 
+906 (Fed. Cir. 2004) (“Even when the specification describes only a single embodiment, the claims 
+of the patent will not be read restrictively unless the patentee has demonstrated a clear intention to 
+limit the claim scope using words or expressions of manifest exclusion or restriction.”) (quotations 
+omitted). 
+Moreover, the preferred embodiment also notes that “at least most” of the component 
+elements are individually identifiable when discussing certain examples, such as those provided 
+in Figure 4. ’432 Patent at 5:36–38 (“Note that the component elements are always individually 
+identifiable (at least most of them are).”) (emphasis added), id. at 4:66–5:1 (“[I]n a multilevel 
+structure it is easy to identify geometrically and individually distinguish most of its basic 
+component elements.”) (emphasis added). Thus, even the preferred embodiments do not uniformly 
+require “more than 75%.” 
+Defendants also argue that the prosecution history indicates that the patentees admitted that 
+“at least 75% of the polygons or polyhedrons . . . is deliberate, given that it is precisely in this 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 15 of 61 PageID #:  2000
+Page 16 of 61 
+ 
+manner how the multilevel antenna that has all the operating functions sought is attained.” (Dkt. 
+No. 77-12 at 8–9.) The Court finds that this single statement was not a disclaimer or surrender of 
+claim scope, because the patentees did not distinguish the prior art based on the statement. Instead, 
+the patentees admitted that the prior art included this limitation, but argued that it was “not 
+deliberate” in the prior art. Specifically, the patentees argued that “in the Sierpinski triangle the 
+contact zone between the elements is less than 50% of the perimeter or area in at least 75% of the 
+polygons or polyhedrons, but, however, this level of contact between elements is not deliberate.” 
+(Dkt. No. 77-12 at 8 (emphasis added).)  
+Moreover, the claims pending in the PCT application included the “at least 75%” 
+requirement. Thus, the “more than 75%” requirement was an explicit limitation of the then-
+pending claims, and was not a limitation on the operation of “the invention.” In contrast to the 
+PCT claims, the “at least 75% requirement” is not recited in the Asserted Claims filed in the 
+continuing applications. Hakim v. Cannon Avent Grp., PLC, 479 F.3d 1313, 1317 (Fed. Cir. 2007) 
+(“It is recognized that an applicant can broaden as well as restrict his claims during the procedures 
+of patent examination, and that continuing applications may present broader claims than were 
+allowed in the parent.”). 
+Finally, Defendants point to a statement by the examiner during the ’432 Reexam. The 
+Court is not persuaded that it should adopt the examiner’s construction. Like Defendants, the 
+examiner cited to the preferred embodiment disclosed in the specification. (Dkt. No. 82-2 at 7 (“To 
+the extent this feature is not claimed, it appears essential to the definition as it is the very reason 
+behind the name multilevel. Col. 2 lines 44–55, 60–64.”).) As discussed above, this is only one 
+embodiment, and Defendants have not provided a persuasive reason to impose this requirement in 
+every claim. Accordingly, the Court rejects Defendants’ construction. Finally, in reaching its 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 16 of 61 PageID #:  2001
+Page 17 of 61 
+ 
+conclusion, the Court has considered the extrinsic evidence submitted by the Parties, and given it 
+its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the terms “multilevel structure” and 
+“structure for the multi-band antenna” to mean “a structure for an antenna useable at 
+multiple frequency bands with at least two levels of detail, wherein one level of detail makes 
+up another level. These levels of detail are composed of polygons (polyhedrons) of the same 
+type with the same number of sides (faces) wherein most of the polygons (polyhedrons) are 
+clearly visible and individually distinguishable and most of the polygons (polyhedrons) 
+having an area of contact, intersection or interconnection with other elements (polygons or 
+polyhedrons) that is less than 50% of the perimeter or area.” 
+B. “antenna element having a multi-band behavior” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“antenna element having 
+a multi-band behavior” 
+“an antenna element useable at 
+more than one frequency band” 
+Same as its proposal for 
+“multilevel structure” 
+1. The Parties’ Positions 
+The Parties dispute whether the “antenna element” should be construed the same as the 
+previous term “multilevel structure.” Plaintiff argues that the plain language of the claims should 
+apply. (Dkt. No. 77 at 9.) Plaintiff contends that there is no requirement that each claim must cover 
+all features and characteristic of multilevel designs. (Id.) According to Plaintiff, the claims of the 
+’069 and ’421 Patent reflect an intent to claim some of the inventive concepts separately from the 
+specific multilevel geometry covered in other MLV claims. (Id.) Plaintiff further argues that 
+Defendants’ proposal would add the “75% requirement” to Claim 1 of the ’421 Patent, even though 
+the limitation is specifically added in dependent Claim 4. (Id.) Plaintiff contends that it is improper 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 17 of 61 PageID #:  2002
+Page 18 of 61 
+ 
+to limit all claims to a multilevel geometry, especially when limiting the claims would render a 
+dependent claim superfluous. (Id. at 9–10.) 
+Defendants respond that it is clear from the specification that the multilevel structure is the 
+quintessence of the alleged invention. (Dk. No. 82 at 6 (citing ’432 Patent at Abstract, 4:51–53.) 
+Defendants argue that the specification explains that it is the multilevel geometry that distinguishes 
+the alleged invention from the prior art, which could attain multiband performance without a 
+multilevel structure. (Id. (citing ’432 Patent at 4:60–66.) Defendants contend that Plaintiff points 
+to nothing in the specification that supports its argument that the alleged invention could provide 
+multiband performance and distinguish the prior art without a multilevel structure. (Id.) According 
+to Defendants, Plaintiff does not explain how such claims could comply with the written 
+description requirement, 35 U.S.C. §112, ¶ 1, if they are not construed to include a multilevel 
+structure. (Id.) Finally, Defendants argue that Plaintiff’s claim differentiation is “weak and 
+ineffective.” (Id.) 
+Plaintiff replies that the Asserted Claims of the ’069 and ’421 Patents are specifically 
+drawn to an antenna design constructed of geometric elements arranged in a specific manner to 
+define multiple winding current paths. (Dkt. No. 85 at 4 (citing ’069 Patent at Claim 32; ’421 
+Patent at Claim 1).) Plaintiff contends that if Defendants believe the claims are unsupported under 
+35 U.S.C § 112, ¶ 1, the proper vehicle to attack the claims is under that provision, not by ignoring 
+the plain language of the claims. (Id.) 
+For the following reasons, the Court finds that the term “antenna element having a multi-
+band behavior” should be construed to mean “a structure for an antenna useable at multiple 
+frequency bands with at least two levels of detail, wherein one level of detail makes up 
+another level. These levels of detail are composed of polygons (polyhedrons) of the same type 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 18 of 61 PageID #:  2003
+Page 19 of 61 
+ 
+with the same number of sides (faces) wherein most of the polygons (polyhedrons) are clearly 
+visible and individually distinguishable and most of the polygons (polyhedrons) having an 
+area of contact, intersection or interconnection with other elements (polygons or 
+polyhedrons) that is less than 50% of the perimeter or area.” 
+2. Analysis 
+ 
+The term “antenna element having a multi-band behavior” appears in Asserted Claims 32 
+and 46 of the ’069 Patent; and Asserted Claims 1 and 11 of the ’421 Patent. The Court finds that 
+the term is used consistently in the claims and is intended to have the same general meaning in 
+each claim. In these claims, the coined term “multilevel structure” was replaced with the disputed 
+term “antenna element having a multi-band behavior.” Defendants argue that this was an attempt 
+to broaden the claims beyond the written description of the original patent application. As 
+indicated above, however, the Court notes that it is not improper to broaden claims in a continuing 
+application. Nevertheless, “[w]hen a patent thus describes the features of the ‘present invention’ 
+as a whole, this description limits the scope of the invention.” Verizon Servs. Corp. v. Vonage 
+Holdings Corp., 503 F.3d 1295, 1308 (Fed. Cir. 2007), see also Andersen Corp. v. Fiber 
+Composites, LLC, 474 F.3d 1361, 1368 (Fed. Cir. 2007) (finding the specification’s description of 
+a “critical element” limiting).  
+Here, the specification repeatedly emphasizes that the “essence of the invention is found 
+in the geometry used in the multilevel structure . . . .” ’432 Patent at 6:3–4; see also id. at 5:46–48 
+(“It should be remarked that the difference between multilevel antennae and other existing 
+antennae lies in the particular geometry . . . .”), 2:44–45 (“The present invention consists of an 
+antenna whose radiating element is characterised by its geometrical shape . . . .”), 3:52–53 
+(“Multilevel antennae on the contrary base their behavior on their particular geometry . . . .”), 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 19 of 61 PageID #:  2004
+Page 20 of 61 
+ 
+5:25–28 (“With this it should be remarked that regardless of its configuration the multilevel 
+antenna is different from other antennae in the geometry of its characteristic radiant element.”), 
+5:62–65 (“In all, the difference between a multilevel antenna and a conventional one lies in the 
+geometry of the radiative element or one of its components, and not in its specific configuration.”). 
+As indicated, the “geometry” disclosed in the specification is the “main characteristic of [the] 
+multilevel antenna.” ’432 Patent at 3:30–44. However, this “geometry” is not explicitly recited in 
+the claims. Accordingly, the Court finds that “antenna element having a multi-band behavior” 
+should be construed the same as “multilevel structure.” 
+Plaintiff argues that there is no requirement that each claim must cover all features and 
+characteristic of multilevel designs. (Dkt. No. 77 at 9.) According to Plaintiff, the choice of 
+different words gives rise to the presumption that the different claims have a different scope. 
+Although this is generally true, the law is clear that the “[c]laims are not interpreted in a vacuum, 
+but are part of and are read in light of the specification.” Slimfold Mfg. Co. v. Kinkead Indus., Inc., 
+810 F.2d 1113, 1116 (Fed. Cir. 1987). Here, the specification clearly indicates the required features 
+of the “present invention.” Broadcom Corp. v. Qualcomm Inc., 543 F.3d 683, 692–93 (Fed. Cir. 
+2008) (holding that the specification as a whole may serve to limit the claims by repeatedly 
+characterizing the invention in a specific manner). 
+Plaintiff also argues that dependent Claim 4 of the ’421 Patent adds that the requirement 
+that “for at least 75% of the geometric elements, the region or area of contact between the 
+geometric elements is less than 50% of the perimeter or area of the geometric elements.” (Dkt. No. 
+77 at 9.) As discussed above, the Court finds that this is only a preferred embodiment, and is not 
+a required limitation. Accordingly, this argument is moot. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 20 of 61 PageID #:  2005
+Page 21 of 61 
+ 
+3. Court’s Construction 
+For the reasons set forth above, the Court construes the term “antenna element having a 
+multi-band behavior” to mean “a structure for an antenna useable at multiple frequency 
+bands with at least two levels of detail, wherein one level of detail makes up another level. 
+These levels of detail are composed of polygons (polyhedrons) of the same type with the same 
+number of sides (faces) wherein most of the polygons (polyhedrons) are clearly visible and 
+individually distinguishable and most of the polygons (polyhedrons) having an area of 
+contact, intersection or interconnection with other elements (polygons or polyhedrons) that 
+is less than 50% of the perimeter or area.” 
+C. “majority of the geometric elements” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“majority of the 
+geometric elements” 
+“more than 50% of the 
+geometric elements” 
+“at least 75% of the geometric 
+elements” 
+1. The Parties’ Positions 
+The Parties dispute whether majority means “more than 50%,” as Plaintiff contends, or if 
+it means “at least 75%,” as Defendants contend. Plaintiff argues that the plain and ordinary 
+meaning of “majority” is more than 50%. (Dkt. No. 77 at 10 (citing Dkt. No. 77-5; Dkt. No. 77-6.) 
+According to Plaintiff, when the Asserted Patents use the word “majority,” they use the word in 
+its plain and ordinary sense. (Id. (citing ’432 Patent at 2:60–64).) Plaintiff contends that the 
+description of one embodiment does not rise to the level of a clear disavowal of claim scope. (Id. 
+(citing ’432 Patent at 4:63–66).) Plaintiff argues that the patentees specifically rejected the 
+argument that this passage represented a disclaimer during reexam. (Id. at 10–11 (citing Dkt. No. 
+77-9 at 23).) Plaintiff also contends that Claim 4 of the ’421 Patent recites “for at least 75% of the 
+geometric elements,” while Claim 5 (which depends from the same claim) recites “for a majority 
+of the geometric elements.” (Id. at 11.) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 21 of 61 PageID #:  2006
+Page 22 of 61 
+ 
+Defendants respond that “majority” must be construed to mean at least 75% of the 
+geometric elements for the same reason that “most” must be construed that way. (Dkt. No. 82 at 
+7.) According to Defendants, the specification clearly teaches at least 75% of geometric elements 
+have less than 50% of their perimeters in contact with other geometric elements. (Id.) Defendants 
+contend that Plaintiff used “majority” because 75% is a majority. (Id.) Defendants argue that 
+Plaintiff cannot retroactively change the meaning of the term as dictated by the inventors’ 
+lexicography in the specification. (Id.) 
+Plaintiff replies that Defendants’ citation to a particular embodiment in the specification 
+does not rise to the level of “manifest exclusion or restriction” required for disclaimer, especially 
+given other specification passages. (Dkt. No. 85 at 4 (citing Thorner v. Sony Comp. Entertainment, 
+669 F.3d 1362, 1366 (Fed. Cir. 2012)).) Plaintiff argues that Defendants fail to address that its 
+proposed construction ignores the distinction between the language of ’421 Patent Claims 4 and 
+5. (Id.) According to Plaintiff, the ’421 Patent does not claim a multilevel structure; indeed, it 
+claims “an antenna element having a multi-band behavior.” (Id.) Plaintiff argues that for 
+Defendants’ construction to be correct, the specification must demonstrate a clear disavowal. (Id.) 
+For the following reasons, the Court finds that the phrase “majority of the geometric 
+elements” should be construed to mean “more than 50% of the geometric elements.” 
+2. Analysis 
+ 
+The phrase “majority of the geometric elements” appears in Asserted Claim 5 of the ’421 
+Patent. The Court finds that the specification does not define “majority” to mean “at least 75%.” 
+Moreover, the plain and ordinary meaning of “majority” is more than 50%. (See Dkt. No. 77-5 at 
+4; Dkt. No. 77-6 at 4.) Accordingly, the Court finds that “majority” means “more than 50%.” 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 22 of 61 PageID #:  2007
+Page 23 of 61 
+ 
+Defendants repeat their argument from the previous terms and contend that “[t]he 
+specification, written and filed in 1999, clearly teaches at least 75% of geometric elements have 
+less than 50% of their perimeters in contact with other geometric elements.” (Dkt. No. 82 at 7.) 
+For the reasons discussed above, the Court finds that the patentees did not define “majority” to 
+mean “at least 75%.” The language Defendants point to in the specification only describes one 
+embodiment. This description does not rise to the level of “manifest exclusion or restriction” to 
+represent a clear disavowal of claim scope. See Thorner, 669 F.3d at 1366. Finally, in reaching its 
+conclusion, the Court has considered the extrinsic evidence submitted by the Parties, and given it 
+its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the phrase “majority of the geometric 
+elements” to mean “more than 50% of the geometric elements.” 
+D. “level of structural detail” / “levels of detail” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“level of structural 
+detail”/“levels of detail” 
+“the overall antenna and the 
+geometric elements which form 
+it” 
+“a level of structure in the 
+multilevel structure that is clearly 
+identifiable from another level of 
+structural detail” 
+1. The Parties’ Positions 
+The Parties dispute whether the phrase “level of structural detail” should require: (1) the 
+structure to be “clearly identifiable”; and (2) the structure is clearly identifiable “from another 
+level of structural detail.” Plaintiff argues that the Asserted Patents describe the claimed 
+“multilevel” antenna structures as comprising two levels of structural detail: the overall antenna 
+and the geometric elements that form it. (Dkt. No. 77 at 11 (citing ’432 Patent at 2:35–43, 2:60–
+64).) Plaintiff states that it does not dispute that the levels of detail must be “identifiable.” (Id.) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 23 of 61 PageID #:  2008
+Page 24 of 61 
+ 
+Instead, Plaintiff argues that Defendants’ construction imports the additional requirement that the 
+levels of detail are “clearly identifiable.” (Id.) Plaintiff further argues that Defendants’ 
+construction requires something more than the ability to identify the levels of detail without 
+explaining what this additional language means. (Id. at 12.) According to Plaintiff, the “clearly 
+identifiable” requirement exists already in the claims of the ’432, ’431 and ’632 Patents for most 
+of the geometric elements that form the claimed “multilevel structure.” (Id.) Plaintiff contends that 
+nothing in the intrinsic record suggests anything more than that elements “can be identified.” (Id. 
+(citing ’432 Patent at 2:60–64).) 
+Defendants respond that there are two aspects to their construction: “clearly identifiable” 
+and “from another level of structural detail.” Defendants argue that the specification teaches both 
+of these aspects. (Dkt. No. 82 at 8 (citing ’432 Patent at 2:38–41, 3:30–38).) Defendants also argue 
+that their construction is consistent with a conclusion in the prior claim construction order. (Id. 
+(citing Dkt. No. 77-3 at 15).) Defendants contend that Plaintiff is asking the Court to set aside the 
+teachings in the specification that “clearly visible” is a main characteristic of the purported 
+invention. (Id.) 
+Defendants further argue that their proposed “from another level of structural detail” aspect 
+appears in claims that call for “a first level of structural detail” and “a second level of structural 
+detail.” (Id. at 9 (citing ’431 Patent at Claim 14).) According to Defendants, the first level must be 
+clearly identifiable from the second level in order to have two levels. (Id.) Defendants argue that 
+if the levels are the same, then there is only one level. (Id.) 
+Plaintiff replies that Defendants’ construction is redundant and unnecessary for the 
+Asserted Claims that include the term “clearly identifiable.” (Dkt. No. 85 at 5.) Plaintiff states that 
+it agrees that the first and second “levels of detail” must be different from one another. (Id.) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 24 of 61 PageID #:  2009
+Page 25 of 61 
+ 
+Plaintiff argues that this is why its construction requires that the “levels of detail” consist of two 
+different things: (1) “the overall antenna” and (2) “the geometric elements which form it.” (Id.) 
+For the following reasons, the Court finds that the term “first level of structural detail” 
+should be construed to mean “detail that clearly shows the overall structure,” and that the term 
+“second level of structural detail” should be construed to mean “detail that clearly shows 
+most of the individual elements.” The Court further finds that the phrase “two levels of details” 
+should be construed to mean “a first level of detail that clearly shows the overall structure, 
+and a second level of detail that clearly shows most of the individual elements.” 
+2. Analysis 
+ 
+The terms “first level of structural detail” and “second level of structural detail” appear 
+in Asserted Claim 6 of the ’432 Patent; and Asserted Claims 14 and 30 of the ’431 Patent. The 
+Court finds that the terms are used consistently in the claims and are intended to have the same 
+general meaning in each claim. The phrase “two levels of details” appears in Asserted Claim 17 
+of the ’632 Patent. The Parties proposed construing only the terms “level of structural detail” and 
+“levels of detail.” The Court finds that only construing these terms creates more confusion than 
+clarity, because it ignores the context of the surrounding claim language. For example, Claim 6 of 
+the ’432 Patent recites the following: 
+6. The multi-band antenna set forth in claim 1, wherein said antenna is included in 
+a portable communications device wherein: 
+ 
+the first portion is a first level of structural detail comprising the overall 
+structure and having a first geometry configured to operate at the first 
+selected frequency band; 
+ 
+the second portion is a second level of structural detail within the first level 
+of structural detail, the second portion being smaller than the first portion 
+and having a second geometry configured to operate at the second selected 
+frequency band; and 
+ 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 25 of 61 PageID #:  2010
+Page 26 of 61 
+ 
+the perimeter of the multilevel structure has a different number of sides than 
+each of the geometric elements that compose the multilevel structure. 
+As indicated, Claim 6 recites two different levels of structural details, a first level and a second 
+level.4 The claim also recites the relationship between the first level of structural detail and the 
+second level of structural detail. Thus, the Court finds that construing only the term “level of 
+structural detail” would be incomplete and confusing, because it muddles the claim language of a 
+distinct first level and a distinct second level. Accordingly, the Court will provide a construction 
+for both the “first level of structural detail” and the “second level of structural detail.” 
+Turning to the specification, the Summary of the Invention (“Summary”) states the 
+following: 
+Although they are not fractal, multilevel antennae are characterised in that they 
+comprise a number of elements which may be distinguished in the overall structure. 
+Precisely because they clearly show several levels of detail (that of the overall 
+structure and that of the individual elements which make it up), antennae provide a 
+multiband behavior and/or a small size. The origin of their name also lies in said 
+property. 
+’432 Patent at 2:36–43 (emphasis added). As the Summary states, the ability to “clearly show 
+several levels of detail” is the “origin” of the coined term “multilevel.” Indeed, the specification 
+states that “levels of detail” include clearly showing “the overall structure and that of the individual 
+elements which make it up.” Id. at 2:36–43. The specification further adds that a “main 
+characteristic of [a] multilevel antennae” is that polygons elements are “electromagnetically 
+coupled and grouped to form a larger structure,” and that “most of these elements are clearly 
+visible.” Id. at 3:33–38 (emphasis added).  
+                                                            
+4  Claim 17 of the 632 Patent does not recite a “first level of structural detail” and a “second level 
+of structural detail.” Instead, claim 17 recites “the at least one structure including at least two levels 
+of detail, wherein one level of detail makes up another level of detail, the at least two levels of 
+detail being composed of closed figures bounded by the same number of sides.” As indicated 
+above, the two levels of details refer to the overall structure and the individual elements. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 26 of 61 PageID #:  2011
+Page 27 of 61 
+ 
+In describing one embodiment, the specification states that Figure 4 illustrates “multilevel 
+structures (4.1–4.14) formed by parallelepipeds (squares, rectangles, rhombi . . . ). Note that the 
+component elements are always individually identifiable (at least most of them are).” Id. at 5:35–
+38 (emphasis added). Thus, the intrinsic evidence indicates that the first “first level of structural 
+detail” is the “detail that clearly shows the overall structure,” and that the “second level of 
+structural detail” is the “detail that clearly shows most of the individual elements.” 
+Plaintiff contends that some of the Asserted Claims already include the term “clearly 
+identifiable,” thus making the construction redundant and unnecessary. (Dkt. No. 85 at 5.) Plaintiff 
+argues that for other claims that do not include “clearly identifiable,” it would be legal error to 
+include this limitation. To the extent that Plaintiff argues that “level of structural detail” does not 
+require clearly showing the overall structure or most of the individual elements, the Court 
+disagrees. As discussed above, the specification repeatedly emphasizes that the “essence of the 
+invention is found in the geometry used in the multilevel structure.” ’432 Patent at 6:3–4, see also 
+id. at 2:44–45 (“The present invention consists of an antenna whose radiating element is 
+characterised by its geometrical shape . . . .”). Indeed, the specification states that the “level of 
+detail” is the origin of the name “multilevel.” Id. at 2:42–43. Accordingly, the Court rejects 
+Plaintiff’s argument. Broadcom Corp. v. Qualcomm Inc., 543 F.3d 683, 692–93 (Fed. Cir. 2008) 
+(holding that the specification as a whole may serve to limit the claims by repeatedly characterizing 
+the invention in a specific manner).  
+Defendants propose the additional limitation of “from another level of structural detail.” 
+Defendants argue this limitation is important for the claims that recite “a first level of structural 
+detail” and “a second level of structural detail.” (Dkt. No. 82 at 12.) Defendants contend “[t]he 
+first level must be clearly identifiable from the second level in order to have two levels.” (Id.) The 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 27 of 61 PageID #:  2012
+Page 28 of 61 
+ 
+Court does not disagree, but finds that the proper means to clarify this issue is to construe the terms 
+“first level of structural detail” and “second level of structural detail.” Both the claims in the ’432 
+and ’431 Patents, as well as the Court’s constructions, explicitly recite that the “first level of detail” 
+is the “overall structure.” Thus, the Court rejects this specific language in Defendants’ 
+construction. 
+3. Court’s Construction 
+For the reasons set forth above, the Court construes the term “first level of structural 
+detail” to mean “detail that clearly shows the overall structure,” and the term “second level 
+of structural detail” to mean “detail that clearly shows most of the individual elements.” The 
+Court also construes the phrase “two levels of details” to mean “a first level of detail that clearly 
+shows the overall structure, and a second level of detail that clearly shows most of the 
+individual elements.” 
+E. “geometric element” / “polygon” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“geometric element” / 
+“polygon” 
+“a closed plane figure bounded 
+by straight sides, further 
+including circles and ellipses, 
+where a portion of a circle or 
+ellipse is counted as one side” 
+“a closed plane figure bounded by 
+straight lines or closed plane 
+bound by a circle or an ellipse” 
+1. The Parties’ Positions 
+The Parties dispute whether the “geometric element” may include both a “straight line” 
+and a “circle/ellipse.” Plaintiff argues that its construction embraces the constructions adopted in 
+the prior litigation. (Dkt. No. 77 at 12–13.) Plaintiff contends that the specification teaches that 
+the geometric elements used to construct the claimed antennas may include curved sides. (Id. at 
+13) (citing ’432 Patent at 2:47–55, 4:53–60.) Plaintiff further argues that the specification includes 
+examples of antenna structures that include both flat and curved sides. (Id. (citing ’432 Patent at 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 28 of 61 PageID #:  2013
+Page 29 of 61 
+ 
+Figure 7.8).) Plaintiff also contends that the specification notes that a multilevel structure may be 
+used as the reflector in a reflector (or satellite dish) antenna, or the conical section or walls of a 
+horn antenna. (Id. (citing ’432 Patent at 3:58–61, 5:53–59, 6:11–14).) According to Plaintiff, in 
+these applications the sides of the polygons are curved to fit the non-planar surfaces in a reflector 
+dish antenna and a conically shaped antenna. (Id. at 13–14.) Plaintiff also argues that the 
+specification teaches that a multilevel structure may be applied to a spiral antenna. (Id. at 14 
+(citing’432 Patent at 6:5–21).) Plaintiff contends that the geometric elements of a multilevel 
+structure applied to a spiral antenna will also exhibit some curved sides. (Id.) 
+Plaintiff next argues that many of the MLV Patents explicitly claim antennas that mix flat 
+and curved sides. (Id. at 15 (citing ’432 Patent at Claim 3; ’431 Patent at original Claim 5; ’432 
+Patent at original Claim 2; ’541 Patent at Claim 8; ’421 Patent at Claim 8; ’069 Patent at Claims 
+25, 26).) Plaintiff contends that these claims confirm that a geometric element may have straight 
+perimeter portions, curved perimeter portions, or both. (Id.) Plaintiff further argues that the parent 
+patents to the asserted patents also included claims covering hybrid geometric elements with both 
+curved and straight sides. (Id. (citing ’208 Patent at Claims 4, 5, 17, 20 (Dkt. No. 77-8); ’868 
+Patent at Claims 11, 12 (Dkt. No. 77-7); PCT App. at Claims 4, 9 (Dkt. No. 77-12)).) 
+Defendants respond that this term is inextricably linked with the coined term “multilevel 
+structure.” (Dkt. No. 82 at 10.) Defendants argue that the specification describes with particularity 
+the type of geometric elements that are part of a multilevel structure. (Id. (citing ’432 Patent at 
+2:44–50, 4:51–58).) Defendants contend that triangles, squares, pentagons and hexagons are 
+polgyons, which by definition have straight sides. (Id. at 11 (citing Dkt. No. 82-4).) According to 
+Defendants, the specification never states that a polygon can be replaced with a closed plane figure 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 29 of 61 PageID #:  2014
+Page 30 of 61 
+ 
+having a curved side formed by part of a circle or ellipse. (Id.) Defendants further argue that none 
+of the 56 embodiments in Figures 1–6 depict a closed plane figure with a curved side. (Id.) 
+Regarding Figure 7.8, Defendants argue that a cylinder is just a number of circles stacked 
+one on top of the other. (Id.) According to Defendants, the “curved” surface in Fig. 7.8 is just a 
+stack of circles, and the specification defines the circle as a limiting case for a polygon with a large 
+number of sides. (Id.) Defendants argue that none of the polyhedrons in Fig. 7 is formed of closed 
+planar figures having a mixture of straight and curved sides. (Id.) Defendants also argue that none 
+of the 64 figures in the patent looks anything like Plaintiff’s demonstratives. (Id. at 12.) Defendants 
+contend that Plaintiff’s demonstratives should be disregarded because there is no expert testimony 
+or other extrinsic evidence that provides support for them. (Id.) 
+Defendants further contend that Plaintiff largely relies on claims that were drafted after the 
+original specification was filed. (Id.) Defendants argue that Plaintiff’s citation to original Claims 
+4 and 9 do not support its argument. (Id.) Defendants contend that Claim 4 concerns a multilevel 
+structure “formed exclusively by polyhedrons, cylinders and cones.” (Id.) Defendants also argue 
+that Claim 9 states that “the multilevel structure or its perimeter for the cross-section of a conical 
+or pyramidal horn type antenna.” (Id. at 12.) 
+Plaintiff replies that Defendants concede that the ordinary definition of “polygon” does not 
+apply, because the correct construction of these terms must encompass circles and ellipses. (Dkt. 
+No. 85 at 5.) Plaintiff argues that the claims of the parent ’868 Patent provide “substantial 
+guidance” regarding the meaning of “geometric element” and “polygon.” (Id. at 5–6 (citing ’868 
+Patent at Claims 11, 12 (Dkt. No. 77-7); PCT App. at Claim 4, 9 (Dkt. No. 77-12)).) Plaintiff 
+argues that the disclosure of cylinders and cones as polyhedrons provides support for figures that 
+include both curved and straight sides on flat and curved portions. (Id. at 6 (citing ’432 Patent at 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 30 of 61 PageID #:  2015
+Page 31 of 61 
+ 
+4:26–27, Figure 7.8).) Plaintiff further argues that in 2006, the examiner allowed claims in the 
+’208 Patent that explicitly claim embodiments with hybrid polygons consisting of portions of 
+circles or ellipses and figures with both curved and straight sides. (Id. (citing ’208 Patent at Claims 
+4, 17, 39, 62 (Dkt. No. 77-8)).) According to Plaintiff, these claims provide “highly instructive” 
+context regarding the meaning of “polygon.” (Id. (citing Phillips, 415 F.3d at 1314).) 
+For the following reasons, the Court finds that the terms “geometric element” and 
+“polygon” should be construed to mean “a closed plane figure bounded by straight sides, 
+further including circles and ellipses, where a portion of a circle or ellipse is counted as one 
+side.” 
+2. Analysis 
+ 
+The term “geometric element” appears in Asserted Claims 1, 14, and 30 of the ’431 Patent; 
+Asserted Claims 1 and 6 of the ’432 Patent; Asserted Claims 32 and 46 of the ’069 Patent; Asserted 
+Claims 1, 5–7, and 10 of the ’421 Patent; Asserted Claim 17 of the ’541 Patent; and Asserted 
+Claim 17 of the ’617 Patent.5 The Court finds that the term is used consistently in the claims and 
+is intended to have the same general meaning in each claim. The Parties agree that the “geometric 
+element” may be a closed plane bounded by straight lines. The Parties dispute whether the closed 
+plane may be bounded by both straight lines and a circle or ellipse, as shown below: 
+                                                            
+5  The Parties agree that the term “polygon” should be construed the same as the term “geometric 
+element.” The Parties note that the term “polygon” is not recited in the Asserted Claims, but is 
+implicated in construction of the term “multilevel structure.” (Dkt. No. 77 at 12, Dkt. No. 82 at 
+10).  
+ 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 31 of 61 PageID #:  2016
+Page 32 of 61 
+ 
+ 
+(Dkt. No. 82 at 11.) Defendants argue that nothing in the written specification describes these 
+shapes, and none of the 56 embodiments in Figures 1–6 depict a closed plane figure with a curved 
+side. (Id.) Defendants are correct that the specification does not include the cross sections 
+illustrated above. However, the specification does identify “circles and ellipses as a limiting case 
+of a polygon with a large number of sides.” ’432 Patent at 2:48–49. As the court found in the prior 
+litigation, “[b]y including circles and ellipses as an explicit ‘limiting case’ of polygon, the MLV 
+specification supports a construction of polygons to include circles and ellipses, i.e. figures with 
+curved sides.” (Dkt. No. 77-10 at 5.) And although the specification does not include the exact 
+shapes illustrated above, the specification does include figures that are described as polyhedron 
+that include both flat and curved portions. Specifically, Figure 7.8 depicts a “hybrid” polyhedron 
+that includes cylinders with curved and flat surfaces: 
+ 
+’432 Patent at Figure 7.8. In addition, many of the MLV Patents explicitly claim antennas that mix 
+flat and curved sides. For example, claims in the ’432 Patent recite a “plurality of geometric 
+elements” that include “both linear and non-linear portions.” ’432 Patent at Claim 3; see also ’431 
+Patent at original Claim 5 (“perimeter regions comprising both linear and non-linear portions.”); 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 32 of 61 PageID #:  2017
+Page 33 of 61 
+ 
+’432 Patent at original Claim 2 (“at least some of the plurality of geometric elements have 
+perimeter regions comprising a curve.”).  
+The parent patents also included claims covering hybrid geometric elements with both 
+curved and straight sides. For example, the ’208 Patent claimed embodiments with polygons 
+consisting of portions of circles or ellipses, i.e., figures with curved and straight sides. ’208 Patent 
+at Claim 4 (“perimeter regions comprising portions of circles or ellipses”), Claim 5 (both linear 
+and non-linear perimeter portions), Claim 17 (at least one side comprises a portion of a circle or 
+ellipse), Claim 20 (at least one nonlinear portion formed of a portion of a circle or ellipse and other 
+perimeter portions are linear) (Dkt. No. 77-8.) Similarly, claims 11 and 12 of the ’868 Patent 
+include a multilevel structure formed by cylinders and cones, as disclosed in the specification. 
+’868 Patent at Claims 11, 12 (Dkt. No. 77-7); see also PCT App. at Claims 4, 9 (Dkt. No. 77-12.) 
+Accordingly, the intrinsic evidence indicates that a geometric element may have straight perimeter 
+portions, curved perimeter portions, or both. Thus, the term “geometric element” should be 
+construed to include hybrid shapes with both curved and straight sides. 
+Defendants argue that Plaintiff’s reliance on the cylindrical-shaped polyhedrons in Figure 
+7.8 is misplaced, because a cylinder is just a number of circles stacked one on top of the other. 
+(Dkt. No. 82 at 14.) Defendants contend that none of the polyhedrons in Figure 7 is formed of 
+closed planar figures having a mixture of straight and curved sides. (Id.) Defendants are correct 
+that Figure 7.8 illustrates cylinders, but that does not preclude the “geometric element” from 
+including both curved and straight sides. Moreover, Defendants do not address the claims in the 
+’432 Patent and the ’208 Patent that recite “both linear and non-linear perimeter portions.” 
+Accordingly, the Court rejects Defendants’ construction that requires a closed plane figure 
+bounded by either a straight lines or a circle or an ellipse. Finally, in reaching its conclusion, the 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 33 of 61 PageID #:  2018
+Page 34 of 61 
+ 
+Court has considered the extrinsic evidence submitted by the Parties, and given it its proper weight 
+in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the terms “geometric element” and 
+“polygon” to mean “a closed plane figure bounded by straight sides, further including circles 
+and ellipses, where a portion of a circle or ellipse is counted as one side.” 
+F. “a set of closed figures bounded by the same number of sides, the 
+sides comprising one or more of straight lines, portions of circles and 
+portions of ellipses” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“a set of closed figures 
+bounded by the same 
+number of sides, the 
+sides comprising one or 
+more of straight lines, 
+portions of circles and 
+portions of ellipses” 
+No construction necessary; 
+alternatively, “closed figure” 
+means “a figure that begins and 
+ends at the same point” 
+“a set of straight-side polygons 
+bounded by the same number of 
+straight sides, or a set of figures 
+each figure bound by a circle, or a 
+set of figures each bound by an 
+ellipse” 
+1. The Parties’ Positions 
+The dispute is essentially the same as the previous term, which is whether the “closed 
+figure” may include both a “straight line” and a “circle and/or ellipse.” Plaintiff argues that the 
+MLV specification notes that an antenna structure may be used as the reflector in a reflector (or 
+satellite dish) antenna or on the walls of a conical antenna. (Dkt. No. 77 at 16 (citing ’432 Patent 
+at 3:58–61, 5:53–59, 6:11–14).) According to Plaintiff, in this embodiment the sides of the 
+elements used to construct the antenna are curved to fit the non-planar or curved surfaces of an 
+antenna, and thus one or more sides of the elements may be curved to conform to the reflector, 
+conical or spiral antenna surface, which are either elliptical or circular in shape. (Id.) 
+Plaintiff also argues that the originally-filed claims in the priority document cover “the 
+multilevel structure or its perimeter form the cross section of a conical or pyramidal horn type 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 34 of 61 PageID #:  2019
+Page 35 of 61 
+ 
+antenna.” (Id. (citing PCT App. at Claim 9 (Dkt. No. 77-12)).) Plaintiff contends that the claims 
+of the ’208 Patent recited “at least some polygons include at least one non-linear perimeter formed 
+of a portion of a circle or ellipse and wherein other polygon perimeters are linear.” (Id. at 17 (citing 
+’208 Patent at Claim 3, 4, 5, 36, 39, 48).) Plaintiff further argues that Claim 17 of the ’632 Patent 
+requires a set of closed figures bounded by the same number of sides, with the sides including one 
+or more of straight lines, portions of circles, or portions of ellipses. (Id.) Plaintiff also argues that 
+the ordinary meaning of “closed figure” is “a shape or a curve that begins and ends at the same 
+point.” (Id. (citing Dkt. No. 77-13).) According to Plaintiff, the intrinsic evidence uniformly shows 
+geometric elements as figures that begin and end at the same point. (Id.) 
+Defendants respond that the only closed figures supported by the specification are the 
+geometric elements previously construed to be polygons (or polyhedrons) in the prior litigation. 
+(Dkt. No. 82 at 13 (citing Dkt. No. 77-3 at 13–14, 21–23).) Defendants argue that if the claim 
+limitation covers a non-polygon shapes with a curved side (i.e., a portion of a circle or ellipse), 
+then the claim is invalid because there is no written description to support the limitation. (Id.)  
+Finally, Defendants argue that Plaintiff relies on a Visual Mathematics Dictionary, which 
+Defendants contend appears to be a screenshot from an illustrated online dictionary designed for 
+children. (Id. at 14.) Defendants further contend that there is no evidence that it was available at 
+the time of the alleged invention, or that a person of ordinary skill would consider a children’s 
+online dictionary in construing the claim. (Id.) 
+Plaintiff replies that Defendants are effectively asking the Court to render summary 
+judgment on a fact question without submitting supporting evidence or expert testimony. (Dkt. 
+No. 85 at 7.) Plaintiff argues that the specification provides ample support for figures with both 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 35 of 61 PageID #:  2020
+Page 36 of 61 
+ 
+straight and curved sides, including reflector antennas, conical antennas, cylindrical antennas, and 
+spiral antennas. (Id.) 
+For the following reasons, the Court finds that the phrase “a set of closed figures bounded 
+by the same number of sides, the sides comprising one or more of straight lines, portions of 
+circles and portions of ellipses” should be given its plain and ordinary meaning. 
+2. Analysis 
+ 
+The phrase “a set of closed figures bounded by the same number of sides, the sides 
+comprising one or more of straight lines, portions of circles and portions of ellipses” appears in 
+Asserted Claim 17 of the ’632 Patent. Unlike the previous term, the disputed phrase explicitly 
+recites that “the sides comprising one or more of straight lines, portions of circles and portions of 
+ellipses.” Defendants argue that Plaintiff is attempting to use different words in a later filed 
+continuation to try and broaden the claim beyond what is supported by the specification. (Dkt. No. 
+82 at 16). As discussed above, the Court notes that it is not improper to broaden claims in a 
+continuing application. Hakim v. Cannon Avent Grp., PLC, 479 F.3d 1313, 1317 (Fed. Cir. 2007) 
+(“It is recognized that an applicant can broaden as well as restrict his claims during the procedures 
+of patent examination, and that continuing applications may present broader claims than were 
+allowed in the parent.”). 
+Defendants next argue that if the claim limitation covers a non-polygon shapes with a 
+curved side (i.e., a portion of a circle or ellipse), then the claim is invalid under 35 U.S.C. § 112, 
+¶ 1, because there is no the written description to support the limitation. (Dkt. No. 82 at 16) (citing 
+Ruckus Wireless, Inc. v. Innovative Wireless Sols., LLC, 824 F.3d 999, 1004 (Fed. Cir. 2016)). 
+Unlike the facts in this case, the court in Ruckus concluded “that no intrinsic or extrinsic evidence 
+suggests that ‘communications path’ encompasses wireless communications.” Ruckus, 824 F.3d 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 36 of 61 PageID #:  2021
+Page 37 of 61 
+ 
+at 1004. Here, the intrinsic evidence confirms that the “closed figure” may include both a “straight 
+line” and a “circle/ellipse.” Indeed, the claim explicitly recites that “the sides” of the closed figures 
+comprise “one or more of straight lines, portions of circles and portions of ellipses.” Renishaw 
+PLC v. Marposs Societa' Per Azioni, 158 F.3d 1243, 1248 (Fed. Cir. 1998) (“The claims define 
+the scope of the right to exclude; the claim construction inquiry, therefore, begins and ends in all 
+cases with the actual words of the claim.”). Accordingly, the Court rejects Defendants’ 
+construction. Finally, in reaching its conclusion, the Court has considered the extrinsic evidence 
+submitted by the Parties, and given it its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the phrase “a set of closed figures bounded by the same 
+number of sides, the sides comprising one or more of straight lines, portions of circles and 
+portions of ellipses” will be given its plain and ordinary meaning. 
+G. “number of sides” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“number of sides” No construction necessary; 
+plain and ordinary meaning 
+applies. 
+“number of straight sides for 
+geometric elements bounded by 
+straight sides, and a large number 
+for geometric elements bounded 
+by a circle or an ellipse” 
+1. The Parties’ Positions 
+The Parties’ dispute is essentially the same as the previous two terms, which is whether the 
+“number of sides” may include both a “straight line” and a “circle/ellipse.” Plaintiff argues that 
+Defendants seek to restrict the claims from covering hybrid figures that include both straight and 
+curved sides. (Dkt. No. 77 at 18.) Plaintiff contends that both the specification and claims from 
+various MLV Patents provide support for geometric elements and figures that include both straight 
+and curved sides. (Id. (citing ’432 Patent at 5:53–62, 6:11–14; PCT App. at originally-filed Claim 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 37 of 61 PageID #:  2022
+Page 38 of 61 
+ 
+9 (Dkt. No. 77-12); ’208 Patent at Claims 3, 4, 5, 17, 20, 32, 36, 39, 48; ’432 Patent at Claims 2, 
+3; ’431 Patent at Claim 5; ’541 Patent at Claim 8; ’421 Patent at Claim 8; ’069 Patent at Claims 
+25, 26).) 
+Defendants respond that their construction precludes Plaintiff from trying to argue that a 
+side can be a planar figure with a curved side. (Dkt. No. 82 at 14.) Defendants do not present any 
+new arguments for this term, but instead state that the reasons for their construction is “set forth 
+in the previous two sections.” (Id.) 
+Plaintiff replies that Defendants offer no argument apart from its arguments about the two 
+preceding terms. (Dkt. No. 85 at 7.) According to Plaintiff, there is no reason to depart from the 
+previous holding that “a person of ordinary skill in the art, reading the specification and claims of 
+the MLV patents would understand that when counting the sides of a polygon, a ‘curved side’ 
+consisting of a portion of a circle or ellipse should be counted as one side.” (Id. (citing Dkt. No. 
+77-10 at 6).) 
+For the following reasons, the Court finds that the term “number of sides” should be given 
+its plain and ordinary meaning.  
+2. Analysis 
+ 
+The term “number of sides” appears in Asserted Claims 14 and 30 of the ’431 Patent; 
+Asserted Claim 6 of the ’432 Patent; Asserted Claim 46 of the ’069 Patent; Asserted Claim 11 of 
+the ’421 Patent; and Asserted Claims 17 and 19 of the ’632 Patent. The Court finds that the term 
+is used consistently in the claims and is intended to have the same general meaning in each claim. 
+Defendants do not present any new arguments related to this term. Instead, they argue that their 
+construction is necessary to preclude Plaintiff from arguing that a side can be a planar figure with 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 38 of 61 PageID #:  2023
+Page 39 of 61 
+ 
+a curved side. (Dkt. No. 82 at 14.) For the reasons discussed above, the Court rejects Defendants’ 
+construction.  
+The Court further notes that Defendants’ construction takes three words and redrafts it as 
+twenty-five words. The Court finds that this is not only unwarranted, but is also unhelpful to the 
+jury. The claim language is clear and addresses the relationship between the number of sides of 
+the multilevel structure and the number of sides for each of the geometric elements. For example, 
+Claim 14 of the ’431 Patent recites that “the perimeter of the multilevel structure has a different 
+number of sides than each of the geometric elements that compose the multilevel structure.” 
+Simply stated, the structure and the elements do not have the same number of sides. This claim 
+language is unambiguous, and is easily understandable by a jury, and should be given its plain and 
+ordinary meaning. Finally, in reaching its conclusion, the Court has considered the extrinsic 
+evidence submitted by the Parties, and given it its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the term “number of sides” will be given its plain and 
+ordinary meaning. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 39 of 61 PageID #:  2024
+Page 40 of 61 
+ 
+H. “Substantially within” terms 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“said second [and third] 
+portion[s] being located 
+substantially within the 
+first portion”  
+“the second [and third] 
+portion[s] share[s] a substantial 
+number of geometric elements 
+with the first portion” 
+“second [and third] portion[s] 
+being substantially inside or 
+enclosed by the first portion, 
+where the first portion, the second 
+portion, and the third portion 
+differ in size or configuration” 
+“at least substantial parts 
+of said second and third 
+portions being part of 
+the first portion” 
+“the second and third portions 
+share a substantial number of 
+geometric elements with the 
+first portion” 
+“second and third portion[s] being 
+substantially inside or enclosed 
+by the first portion, where the 
+first portion, the second portion, 
+and the third portion differ in size 
+or configuration” 
+“a [second/third] portion 
+located substantially 
+within the first portion” 
+“the [second/third] portion 
+shares a substantial number of 
+geometric elements with the 
+first portion” 
+“a [second/third] portion being 
+substantially inside or enclosed 
+by the first portion, where the 
+first portion, the second portion, 
+and the third portion differ in size 
+or configuration” 
+1. The Parties’ Positions 
+The Parties dispute whether the term “substantially within” should be construed to mean 
+“share a substantial number of elements,” as Plaintiff proposes, or “substantially inside or 
+enclosed,” as Defendants propose. The Parties also dispute whether the first portion, the second 
+portion, and the third portion must “differ in size or configuration.” Plaintiff argues that 
+“substantially within” requires overlap or sharing of geometric elements between different 
+radiating portions of the antenna structure. (Dkt. No. 77 at 19.) Plaintiff contends that one of the 
+disclosed improvements of the MLV Patents is the ability to design small antennas that radiate at 
+multiple frequency bands. (Id. (citing ’432 Patent at 2:39–42, 3:16–18).) According to Plaintiff, 
+the size reduction is achieved by sharing portions of the antenna real estate across multiple 
+frequency bands. (Id. at 20.) 
+Plaintiff further argues that during reexamination, the patentees consistently characterized 
+“substantially within” as requiring sharing or overlapping elements. (Id. (citing Dkt. No. 77-9 at 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 40 of 61 PageID #:  2025
+Page 41 of 61 
+ 
+3, 7–8, 10, 13, 16).) Plaintiff contends that its construction is taken nearly verbatim from these 
+statements. (Id.) Plaintiff argues that Defendants’ construction would cover a multiband antenna 
+that was actually three single-band antennas arranged together, because it does not require any 
+sharing or overlap of geometric elements between the different portions of a multiband antenna. 
+(Id.) According to Plaintiff, the patentees distinguished this exact configuration during 
+reexamination. (Id. (citing Dkt. No. 77-9 at 4).) Plaintiff further argues that the specification also 
+distinguishes the claimed antennas from designs that achieve multiband radiation by grouping 
+single band antennas and from arrays. (Id. at 21 (citing ’432 Patent at 3:45–49).) Plaintiff also 
+contends that Defendants’ construction also incorrectly requires that the first, second, and third 
+portions “differ in size or configuration.” (Id.) According to Plaintiff, this requirement is included 
+in dependent Claims 6, 10, and 12 of the ’432 Patent. (Id.) 
+Defendants contend that the ordinary meaning of “within” is “inside” or “enclosed.” (Dkt. 
+No. 82 at 15 (citing Dkt. No. 82-4).) Defendants also argue that their construction relies on 
+ordinary meaning to require that the first portion, the second portion, and the third portion differ 
+in size or configuration. (Id.) Defendants contend that the passages cited by Plaintiff do note 
+support Plaintiff’s construction that “within” means “share.” (Id. at 16 (citing ’432 Patent at 2:39–
+41, 3:16–18).) Defendants further argue that the word “overlap” appears only once in the 
+specification, and that the term is not used in Plaintiff’s construction. (Id. (citing ’432 Patent at 
+5:15–21).) 
+Regarding the prosecution history, Defendants argue that Plaintiff’s statements are self-
+serving, and are entitled to no weight. (Id.) Defendants further argue that the PTO rejected 
+Plaintiff’s construction as not supported by the specification under the PTO’s broadest reasonable 
+interpretation (“BRI”) standard. (Id. (citing Dkt. No. 82-5 at 21).) According to Defendants, if 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 41 of 61 PageID #:  2026
+Page 42 of 61 
+ 
+Plaintiff’s construction was rejected under the BRI standard, it must also be rejected under the 
+Philips standard. (Id.) Finally, Defendants contend that Plaintiff’s arguments regarding single band 
+antennas have no evidentiary support, and that Plaintiff’s claim differentiation argument lacks 
+merits. (Id. at 17.) 
+Plaintiff replies that it explicitly defined “substantially within” during reexamination. (Dkt. 
+No. 85 at 7 (citing Dkt. No. 77-9 at 3).) Plaintiff contends that its “share” requirement is narrower 
+than Defendants’ “enclosed” requirement. (Id. at 8.) According to Plaintiff, the Court is not bound 
+by the PTO’s BRI construction, which is a broader construction standard than Phillips. (Id.) 
+Plaintiff further argues that its construction prevents the claims from covering a grouping of single 
+band antennas. (Id.) According to Plaintiff, the specification explicitly disclaims a configuration 
+that achieves multi-band performance by grouping together single-band antennas. (Id. (citing ’432 
+Patent at 3:45–49).) Plaintiff argues that the claims do not cover a configuration comprising three 
+independent portions, because the portions must overlap or share some geometry. (Id.) 
+Plaintiff further argues that Defendants provide no intrinsic support for their proposed 
+construction of “inside or enclosed.” (Id.) Plaintiff also contends that Defendants’ argument is 
+incorrect because it requires the portions to “differ in size or configuration,” which would import 
+a limitation from dependent Claims 6, 10, and 12 of the ’432 Patent into independent Claim 1. 
+(Id.) 
+For the following reasons, the Court finds that the phrase “said second [and third] 
+portion[s] being located substantially within the first portion” should be construed to mean 
+“the second [and third] portion[s] has an area that substantially overlap[s] an area of the 
+first portion, where the portions differ in size or configuration.” The Court further finds that 
+the phrase “at least substantial parts of said second and third portions being part of the first 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 42 of 61 PageID #:  2027
+Page 43 of 61 
+ 
+portion” should be construed to mean “the second and third portions have areas that 
+substantially overlap an area of the first portion, where the portions differ in size or 
+configuration.” The Court also finds that the phrase “a [second/third] portion located 
+substantially within the first portion” should be construed to mean “the [second/third] portion 
+has an area that substantially overlaps an area of the first portion, where the portions differ 
+in size or configuration.” 
+2. Analysis 
+The phrase “said second [and third] portion[s] being located substantially within the first 
+portion” appears in Asserted Claim 1 of the ’431 Patent; and Asserted Claim 1 of the ’432 Patent. 
+The Court finds that the phrase is used consistently in the claims and is intended to have the same 
+general meaning in each claim. The phrase “at least substantial parts of said second and third 
+portions being part of the first portion” appears in Asserted Claim 17 of the ’541 Patent. The Court 
+finds that the phrase is used consistently in the claims and is intended to have the same general 
+meaning in each claim. The phrase “a [second/third] portion located substantially within the first 
+portion” appears in Asserted Claim 17 of the ’617 Patent; and Asserted Claim 17 of the ’632 
+Patent. The Court finds that the phrase is used consistently in the claims and is intended to have 
+the same general meaning in each claim.  
+The Parties’ dispute centers on the meaning of the words “substantially within.” The Court 
+finds that the intrinsic evidence indicates that “substantially within” means the second or third 
+portion “has an area that substantially overlap[s] an area of the first portion.” During the 
+reexamination, the patentees consistently characterized “substantially within” as requiring 
+overlapping areas. See Aylus Networks, Inc. v. Apple Inc., 856 F.3d 1353, 1360 (Fed. Cir. 2017) 
+(noting that statements made by the patentee during reexamination can be used during claim 
+construction). Specifically, the patentees explained that “in the context of the specification, the 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 43 of 61 PageID #:  2028
+Page 44 of 61 
+ 
+recited ‘second portion being located substantially within the first portion’ means that the second 
+portion has an area that ‘shares’ or ‘overlaps’ an area of the recited first portion.” (Dkt. No. 77-9 
+at 3.) The patentees repeated this argument multiple times. (Id. at 7–8, 10, 13.) Accordingly, the 
+Court finds that this intrinsic evidence informs the proper meaning of the disputed phrases. 
+Turning to Defendants’ construction, the only support Defendants provide is an extrinsic 
+dictionary definition. Given that the patentees used a coined term (i.e., “Multilevel”) to describe 
+the geometric relationships, the Court is not persuaded that an extrinsic definition should be given 
+more weight than the prosecution history. Defendants characterize the prosecution history 
+statements as “self-serving advocacy.” The Court disagrees, and notes that the patentees argued 
+that the claim was distinguishable because the “substantially within” limitation would not include 
+three concentric “stand-alone” antennas. (Dkt. No. 77-9 at 3–4.)  
+According to Defendants, a second portion is substantially within a first portion if the 
+second portion is merely enclosed by the first. Defendants’ construction would appear to include 
+three single-band antennas arranged together, because their construction does not require any 
+sharing or overlapping of areas between the different portions. As indicated, both the specification 
+and prosecution history distinguish the claimed antennas from designs that achieve multiband 
+radiation by grouping single band antennas. See, e.g., ’432 Patent at 3:45–49.  
+Defendants also argue that the examiner rejected the patentees’ argument as not supported 
+by the specification under the PTO’s broadest reasonable interpretation (“BRI”) standard. (Dkt. 
+No. 82 at 16.) Defendants correctly argue that a patentee’s statements to the PTO cannot broaden 
+its claims beyond the original disclosure. (Id. at 16 (citing Honeywell Int’l, Inc. v. ITT Indus., Inc., 
+452 F.3d 1312, 1319 (Fed. Cir. 2006)).) However, that is not the case here because it is actually 
+Defendants’ construction that would recapture the disclaimed embodiments.  
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 44 of 61 PageID #:  2029
+Page 45 of 61 
+ 
+Regarding the proposed “differ in size or configuration” language, Plaintiff argues that this 
+would add limitations from three dependent claims, and render the claims superfluous. (Dkt. No. 
+77 at 21.) The Court disagrees. The dependent claims generally add requirements that the second 
+and third portions are smaller than the first portion. The proposed construction does not impose 
+any specific size requirements, and may even include portions that are the same size, assuming 
+they have a different configuration. This is required because the intrinsic evidence indicates that 
+the first portion differs in size or configuration from the second and third portions. See, e.g., ’432 
+Patent at 3:41–45 (“The number of frequency bands is proportional to the number of scales or 
+sizes of the polygonal elements or similar sets in which they are grouped contained in the geometry 
+of the main radiating element.”). Indeed, the patentees made this argument during the 
+reexamination to distinguish Claim 1 of the ’431 Patent. (Dkt. No. 77-9 at 3.) Finally, in reaching 
+its conclusion, the Court has considered the extrinsic evidence submitted by the Parties, and given 
+it its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the phrase “said second [and third] 
+portion[s] being located substantially within the first portion” to mean “the second [and 
+third] portion[s] has an area that substantially overlap[s] an area of the first portion, where 
+the portions differ in size or configuration.” The Court further construes the phrase “at least 
+substantial parts of said second and third portions being part of the first portion” to mean 
+“the second and third portions have areas that substantially overlap an area of the first 
+portion, where the portions differ in size or configuration.” The Court also construes the phrase 
+“a [second/third] portion located substantially within the first portion” to mean “the 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 45 of 61 PageID #:  2030
+Page 46 of 61 
+ 
+[second/third] portion has an area that substantially overlaps an area of the first portion, 
+where the portions differ in size or configuration.” 
+I. “the second portion is a second level of structural detail within the 
+first level of structural detail” 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“the second portion is a 
+second level of 
+structural detail within 
+the first level of 
+structural detail” 
+“all the geometric elements of 
+the second portion are shared 
+with the first portion” 
+“the second portion is a second 
+level of structural detail inside or 
+enclosed by the first level of 
+structural detail, where a level of 
+structure detail is clearly 
+identifiable from another level of 
+structural detail” 
+1. The Parties’ Positions 
+The Parties’ dispute is essentially the same as the previous term, except the previous term 
+recited “substantially within,” and this phrase only recites “within.” Plaintiff argues that the 
+patentees added the “within” limitation during reexam in response to a rejection over Johnson, a 
+tri-band antenna. (Dkt. No. 77 at 22 (citing Dkt. No. 77-14 at 9, 21, 23–24.) Plaintiff contends that 
+the PTO accepted this argument in its Notice of Allowance. (Id. (citing Dkt. No. 77-14 at 4).) 
+According to Plaintiff, the patentees’ arguments were based on the premise that “within” requires 
+complete overlap of geometric elements. (Id. at 23 (citing Dkt. No. 77-14 at 23–24).) Plaintiff 
+contends that the patentees argued that the second radiating portion was not within the first 
+radiating portion in Johnson. (Id. (citing Dkt. No. 77-14 at 23–24).) Regarding Defendants’ 
+construction, Plaintiff argues that it incorporates the unrelated concept that the second portion must 
+be “enclosed by” the first portion. (Id.) Plaintiff also argues that Defendants’ construction adds 
+limitations relating to the term “level of structural detail.” (Id.) 
+Defendants respond that their construction, and supporting reasons, for the last limitation 
+apply here as well. (Dkt. No. 82 at 17.) Defendants argue that in distinguishing Johnson, Plaintiff 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 46 of 61 PageID #:  2031
+Page 47 of 61 
+ 
+relied on the ordinary meaning of the claim term “within.” (Id.) Defendants contend that Plaintiff 
+did not argue that Johnson failed to disclose the “within” limitation due to “the lack of complete 
+overlap between the first and second radiating portions.” (Id.)  
+Plaintiff replies that it distinguished Johnson on the grounds that the second portion was 
+not “within” the first portion during reexam (Dkt. No. 85 at 8–9 (citing Dkt. No. 77-14 at 23).) 
+Plaintiff contends that it added the “within” limitation to overcome a rejection based on Johnson. 
+(Id. at 9 (citing Dkt. No. 77-14 at 9).) Plaintiff argues that the patentees’ discussion of Johnson is 
+the best place to look when construing “within.” (Id.) Plaintiff further argues that Defendants make 
+no attempt to analyze or synthesize the patentees’ Johnson-related arguments, nor do they cite any 
+statements supporting “enclosed.” (Id.) Plaintiff contends that the PTO accepted its arguments and 
+issued the claims. (Id. (citing Dkt. No. 77-14 at 4).) 
+For the following reasons, the Court finds that the phrase “the second portion is a second 
+level of structural detail within the first level of structural detail” should be given its plain 
+and ordinary meaning. 
+2. Analysis 
+ 
+The phrase “the second portion is a second level of structural detail within the first level 
+of structural detail” appears in Asserted Claims 14 and 30 of the ’431 Patent; and Asserted Claim 
+6 of the ’432 Patent. The Court finds that the phrase is used consistently in the claims and is 
+intended to have the same general meaning in each claim. The Court first notes that the disputed 
+terms “second level of structural detail” and “first level of structural detail” are included within 
+this disputed phrase, and that Plaintiff’s construction completely removes these disputed phrases. 
+Defendants’ construction does not have this issue, but instead construes “within” to mean “inside 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 47 of 61 PageID #:  2032
+Page 48 of 61 
+ 
+or enclosed.” As discussed above, the problem with Defendants’ construction is that it is based on 
+extrinsic evidence and could capture a disclaimed embodiment. 
+Plaintiff presents one new argument to support its construction. Plaintiff contends that for 
+the same reasons as “substantially within,” the term “within” requires a complete overlap or 
+sharing or geometric elements. (Dkt. No. 77 at 22.) Plaintiff argues that the patentee added the 
+“within” limitation during reexam in response to a rejection over Johnson, a tri-band antenna. (Id.) 
+The Court agrees.  
+In the reexam, the patentees argued that Johnson was actually multiple single band 
+antennas pushed together. (Dkt. No. 77-14 at 21.) The patentees further argued that because there 
+was minimal overlap between the first and second portions, the second portion was not “within” 
+the first portion. (Id. at 23–24.) The patentees included a simulation of Johnson’s antenna, and 
+argued that Johnson was actually two separate antennas “which only overlap in the areas close to 
+their shared feed point.” (Id. at 23.) The simulation below shows the current density of the antenna 
+at the two different operating frequencies, with blue indicating that this portion of the antenna is 
+not radiating at the particular frequency. (Id.)  
+ 
+(Id. at 23.) The patentees then argued that, as illustrated in the simulations, the second radiating 
+portion was “not smaller and within” the first radiating portion. (Id. at 23–24 (emphasis added).) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 48 of 61 PageID #:  2033
+Page 49 of 61 
+ 
+Defendants respond that this is another example of Plaintiff trying to use its own self-serving 
+advocacy. (Dkt. No. 82 at 20.) The Court disagrees. 
+Given the context of the claim language, the Court finds that the term “within” should be 
+given its plain and ordinary meaning. The Court has construed the terms “second level of structural 
+detail” and “first level of structural detail.” Thus, the claim language will read as follows: “the 
+second portion is a second [detail that clearly shows most of the individual elements] within the 
+first [detail that clearly shows the overall structure].” As discussed, Plaintiff’s construction 
+confuses the claim language by completely dropping the two “level of structural detail” terms. 
+Defendants’ construction appears to read on a distinguished and disclaimed embodiment of 
+multiple single-band antennas pushed together.  
+When considered in the context of the construction for the two “level of structural detail” 
+terms, the disputed phrase is easily understandable by a jury, and should be given its plain and 
+ordinary meaning. As discussed above, a person of ordinary skill would understand that “within” 
+requires the area of the individual elements of the second portion to completely overlap with an 
+area of the first portion. Finally, in reaching its conclusion, the Court has considered the extrinsic 
+evidence submitted by the Parties, and given it its proper weight in light of the intrinsic evidence. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the phrase “the second portion is a second level of 
+structural detail within the first level of structural detail” will be given its plain and ordinary 
+meaning. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 49 of 61 PageID #:  2034
+Page 50 of 61 
+ 
+J. “overall structure of the conductive radiating element” / “overall 
+structure” 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“overall structure of the 
+conductive radiating 
+element”/ “overall 
+structure” 
+“any portion of the antenna that 
+radiates in one or more of the 
+claimed frequency band(s)” 
+No construction necessary; plain 
+and ordinary meaning applies. 
+1. The Parties’ Positions 
+The Parties dispute whether the term “overall structure” should be construed as “any 
+portion of the antenna that radiates,” as Plaintiff contends. Plaintiff argues that the use of 
+“comprising” in Claim 1 of the ’431 Patent indicates the multi-band antenna may include more 
+than just the conductive radiating element. (Dkt. No. 77 at 24.) According to Plaintiff, this is 
+consistent with the specification that makes clear that the radiating element can be a portion of the 
+antenna. (Id. (citing ’432 Patent at 3:11–15, 5:62–65, 3:48–52).) Plaintiff further argues that the 
+patentees explained during reexam that “multilevel structures nest structural levels of details (e.g., 
+the overall structure, and smaller structures within the overall structure) wherein these nested 
+structural levels of detail give rise to frequency bands.” (Id. at 25 (citing Dkt. No. 77-14 at 15).) 
+Plaintiff also contends that the patentees distinguished a reference on the grounds that its first 
+portion did not comprise the overall structure of the conductive radiating element because the 
+second portion contained regions that were not active in the first portion. (Id. (citing Dkt. No. 77-
+14 at 23–24).) 
+Defendants respond that the specification uses the term “overall structure” without 
+assigning any special meaning to this phrase. (Dkt. No. 82 at 18 (citing ’432 Patent at 2:38–39, 
+2:62; 5:2–3).) Defendants argue that Plaintiff contends that the tiniest portion of a radiating 
+element that radiates in a claimed frequency range would constitute the overall structure of the 
+radiating element. (Id.) Defendants contend that Plaintiff’s citations to the specification and file 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 50 of 61 PageID #:  2035
+Page 51 of 61 
+ 
+history do not support its construction of “overall structure.” (Id.) Defendants also argue that 
+Plaintiff’s inclusion of “the claimed frequency band(s)” in this limitation is puzzling, because these 
+particular claims all recite a generic “selected frequency band.” (Id.) Defendants contend that it is 
+not helpful to add “the claimed frequency band(s)” in the construction where the only antecedent 
+for a “claimed frequency band” is a non-descript “selected frequency band.” (Id.) 
+Plaintiff replies that Claim 1 of the ’432 Patent unambiguously recites that the “conductive 
+radiating element” can be less than the “multi-band antenna.” (Dkt. No. 85 at 9.) Plaintiff also 
+argues that the specification contains multiple examples where the radiating element forms only 
+part of the antenna. (Id. (citing ’432 Patent at 3:11–15, 5:62–65).) Plaintiff also contends that 
+“claimed frequency bands” is dictated by the claim language. (Id.) Plaintiff argues that because 
+the conductive radiating element is composed of all the geometric elements included in the first, 
+second, and third portions, it therefore is composed of all the elements that radiate in the first, 
+second, and third frequency bands. (Id.) 
+For the following reasons, the Court finds that the terms “overall structure of the 
+conductive radiating element” and “overall structure” should be given their plain and 
+ordinary meaning. 
+2. Analysis 
+ 
+The terms “overall structure of the conductive radiating element” and “overall structure” 
+appear in Asserted Claims 1 and 6 of the ’432 Patent; Asserted Claims 1, 14, and 30 of the ’431 
+Patent; and Asserted Claim 17 of the ’541 Patent. The Court finds that the terms are used 
+consistently in the claims and are intended to have the same general meaning in each claim. The 
+Court further finds that the terms are unambiguous, and are easily understandable by a jury, and 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 51 of 61 PageID #:  2036
+Page 52 of 61 
+ 
+should be given their plain and ordinary meaning. The Summary of the Invention (“Summary”) 
+states the following: 
+The present invention consists of an antenna whose radiating element is 
+characterised by its geometrical shape . . . Its designation as multilevel antenna is 
+precisely due to the fact that in the body of the antenna can be identified at least 
+two levels of detail: that of the overall structure and that of the majority of the 
+elements (polygons or polyhedrons) which make it up. This is achieved by ensuring 
+that the area of contact or intersection (if it exists) between the majority of the 
+elements forming the antenna is only a fraction of the perimeter or surrounding area 
+of said, polygons or polyhedrons. 
+’432 Patent at 2:44–67 (emphasis added). As indicated, one “level of detail” is the “overall 
+structure of the conductive radiating element.” This is recited in the claims, and in this context, the 
+term is not overly technical or confusing. Accordingly, the Court finds that the term does not 
+require construction. 
+Plaintiff contends that the overall structure of the conductive radiating element can be less 
+than the entire physical antenna. (Dkt. No. 77 at 24.) According to Plaintiff, the use of 
+“comprising” in the claim indicates that the multi-band antenna may include more than just the 
+conductive radiating element. (Id.) Although true, this is neither foreclosed or implicated by the 
+disputed term. Instead, the plain language of the claim recites the “overall structure of the 
+conductive radiating element,” and not the “overall structure of the antenna.” Plaintiff’s 
+construction would read out the first level of detail (i.e., overall structure of the conductive 
+radiating element) and replace it with “any portion of the antenna.” This would be an improper 
+redrafting of the claim language. 
+Plaintiff also contends that the patentees explained during reexam that “multilevel 
+structures nest structural levels of details (e.g., the overall structure, and smaller structures within 
+the overall structure) wherein these nested structural levels of detail give rise to frequency bands.” 
+(Id. at 25 (citing Dkt. No. 77-14 at 15).) The issue is not whether there can be “nested structural 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 52 of 61 PageID #:  2037
+Page 53 of 61 
+ 
+levels,” but instead is what the term “overall structure of the conductive radiating element” means. 
+The patentees statement confirms that the “overall structure” is not just “any portion” of the 
+antenna, but instead is the “overall structure of the conductive radiating element.” Indeed, the 
+patentees included the following annotated version of a simulation to support its argument: 
+ 
+(Dkt. No. 77-14 at 16.) The patentees further argued that “[a]s illustrated, the successively smaller 
+scales of these level within the overall structure give rise to the different frequency bands.” (Dkt. 
+No. 77-14 at 16 (emphasis added).) Consistent with the claims and the specification, the patentees 
+identified the first level of detail as the “overall structure of the conductive radiating element,” and 
+not just “any portion of the antenna that radiates.” Accordingly, the Court rejects Plaintiff’s 
+construction because it improperly redrafts the claim language. 
+Finally, Plaintiff argues that the specification contains multiple examples where the 
+radiating element forms only part of the antenna. (Dkt. No. 85 at 10.) The Court agrees that the 
+claims and the specification indicates that a part of the antenna radiates. Indeed, this is what is 
+illustrated in the simulation provided in the reexam. However, the issue is not whether a part of 
+the antenna can radiate, because this is explicitly recited in the claim. The issue is what a person 
+of ordinary skill in the art would understand the term “overall structure of the conductive radiating 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 53 of 61 PageID #:  2038
+Page 54 of 61 
+ 
+element” to mean. For the reasons stated above, the Court rejects Plaintiff’s construction and finds 
+that the term should be given its plain and ordinary meaning. 
+3. Court’s Construction 
+ For the reasons set forth above, the terms “overall structure of the conductive 
+radiating element” and “overall structure” will be given their plain and ordinary meaning. 
+K. “frequency band” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“frequency band” “a range of frequencies 
+extending between two limiting 
+frequencies” 
+“a range of frequencies” 
+1. The Parties’ Positions 
+The Parties agree that “frequency band” means at least “a range of frequencies.” The 
+Parties dispute whether the construction should further specify that the “frequency band” is 
+“extending between two limiting frequencies.” Plaintiff argues that the Court should adopt the 
+prior construction that a frequency band is “a range of frequencies extending between two limiting 
+frequencies.” (Dkt. No. 77 at 25 (citing Dkt. No. 77-3 at 32).) According to Plaintiff, “frequency 
+band” is a straightforward term given its ordinary meaning. (Id.). Plaintiff argues that every time 
+the Asserted Patents use the term “frequency band,” they describe a range with defined endpoints. 
+(Id. (citing ’432 Patent at 8:36–39).) 
+Defendants respond that the specification does not provide a definition for frequency 
+bands. (Dkt. No. 82 at 19.) Defendants concede that the specification discloses some exemplary 
+embodiments, but argue that it does not limit the invention to any frequencies within a specifically 
+bound frequency range. (Id. (citing ’432 Patent at 7:42–43, 8:54–55).) Defendants contend that 
+without any guidance from the specification on the term “limiting frequency,” they do not see how 
+the addition of that term to a “range of frequencies” will be helpful. (Id.) 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 54 of 61 PageID #:  2039
+Page 55 of 61 
+ 
+Plaintiff replies that the Court should adopt the same construction given in the prior 
+litigation. (Dkt. No. 85 at 10.) Plaintiff contends that frequency band has defined endpoints (i.e., 
+limiting frequencies), and Defendants have not explained how a range of frequencies would not 
+extend between two limiting frequencies. (Id.) 
+For the following reasons, the Court finds that the term “frequency band” should be 
+construed to mean “a range of frequencies.” 
+2. Analysis 
+ 
+The term “frequency band” appears in Asserted Claims 14 and 30 of the ’431 Patent; 
+Asserted Claim 6 of the ’432 Patent; Asserted Claims 32 and 46 of the ’069 Patent; Asserted 
+Claims 1 and 11 of the ’421 Patent; and Asserted Claims 17 and 23 of the ’541 Patent. The Court 
+finds that the term is used consistently in the claims and is intended to have the same general 
+meaning in each claim. The Parties agree that “frequency band” means at least “a range of 
+frequencies.” The Parties dispute whether the construction should further specify that the 
+“frequency band” is “extending between two limiting frequencies.” The Court finds that the 
+additional language is unnecessary, because it is understood that a “range” has two endpoints. 
+Indeed, the specification discloses embodiments that operate in frequency “bands” having two 
+endpoints. For example, the specification states the following: 
+Below are described, for purposes of illustration only, two non-limiting examples 
+of operational modes for Multilevel Antennae (AM1 and AM2) for specific 
+environments and applications.  
+ 
+Mode AM1  
+ 
+This model consists of a multilevel patch type antenna, shown in FIG. 8, which 
+operates simultaneously in bands GSM 900 (890 MHz-960 MHz) and GSM 1800 
+(1710MHz-1880 MHz) and provides a sector radiation diagram in a horizontal 
+plane. The antenna is conceived mainly (although not limited to) for use in base 
+stations of GSM 900 and 1800 mobile telephony. 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 55 of 61 PageID #:  2040
+Page 56 of 61 
+ 
+’432 Patent at 7:39–46 (emphasis added). Accordingly, the specification indicates that a frequency 
+band has defined endpoints. To the extent that a party contends that a range does not have 
+endpoints, the Court rejects this argument. 
+Plaintiff contends that the Court should adopt its construction because it is how the term 
+was construed in the prior litigation. However, the parties in that case did not dispute “limiting 
+frequencies.” In fact, the defendant in that case proposed it in its construction. Here, Defendants 
+concede that “the specification discloses some exemplary embodiments in the 890 MHz–960 
+MHz, D1710 MHz–1880 MHz, 1880 MHz–1930 MHz, and 3400–3600 MHz ranges,” but argues 
+that the specification “does not limit the invention to any frequencies within a specifically bound 
+frequency range.” (Dkt. No. 82 at 22.) Defendants contend that “without any guidance from the 
+specification on the term ‘limiting frequency,’ [Defendant] does not see how the addition of that 
+term to a ‘range of frequencies’ will be helpful.” (Id.) The Court generally agrees with Defendants. 
+There does not appear to be any benefit in adding more words to the Court’s construction for this 
+term. Accordingly, the Court does not adopt this portion of Plaintiff’s construction. 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the term “frequency band” to mean 
+“a range of frequencies.” 
+L. “fractal type antenna” 
+ 
+Disputed Term Plaintiff’s Proposal Defendants’ Proposal 
+“fractal type antenna” “an antenna with a self-similar 
+shape generated in an iterative 
+manner” 
+“an antenna possessing ideal 
+fractal geometry” 
+1. The Parties’ Positions 
+The Parties dispute whether a “fractal type antenna” is a “an antenna with a self-similar 
+shape generated in an iterative manner,” as Plaintiff proposes, or “an antenna possessing ideal 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 56 of 61 PageID #:  2041
+Page 57 of 61 
+ 
+fractal geometry,” as Defendants propose. Plaintiff argues that the term “fractal” refers to an object 
+whose shape repeats itself over multiple scales. (Dkt. No. 77 at 26.) Plaintiff contends that there 
+is no such thing as a pure fractal antenna because fractal geometry is a mathematical abstraction. 
+(Dkt. No. 77 at 26 (citing ’432 Patent at 1:59–61).) Plaintiff further argues that it is possible to 
+create a fractal-like antennas by truncating the antenna to a finite number of iterations that are self-
+similar. (Id. (citing ’432 Patent at 1:61–63).) Plaintiff also contends that the most in-depth 
+discussion of fractal antennas occurred during prosecution of the priority PCT application. (Id. 
+(citing Dkt. No. 77-12 at 6–7).) According to Plaintiff, the patentees characterized fractal antennas 
+as possessing “self-similarity or self-scaling of the geometry” and described fractal antennas as 
+“self-similar object[s] fully decomposed into a number of parts which shape is equal to the shape 
+of the overall object.” (Id. (citing Dkt. No. 77-12 at 8, 15).) Regarding Defendants’ construction, 
+Plaintiff argues that it invites confusion, such as the number of times a shape must repeat itself in 
+order to be “ideal.” (Id.) 
+Defendants respond that in the prior litigation, Plaintiff proposed a construction of 
+“multilevel structure” that explicitly disclaimed “fractal antennae.” (Dkt. No. 82 at 20.) 
+Defendants argue that the court was perplexed by the term “fractal,” and the term “fractal” became 
+a source of potential confusion during trial. (Id. (citing Dkt. No. 77-3 at 11–12; Dkt. No. 82-6 at 
+64).) Defendants contend that their construction tries to account for the fact that “strictly fractal 
+antennae are impossible, as fractal objects are a mathematical abstraction which include an infinite 
+number of elements.” (Id. at 21 (citing ’432 Patent at 1:59–61).) Defendants further argue that 
+Plaintiff raises the same arguments that were previously rejected by the court in the prior litigation. 
+(Id.) Defendants also contend that the argument presented to the EPO was also not correct. (Id.) 
+Finally, Defendants argue that there are many examples in the specification of non-fractal 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 57 of 61 PageID #:  2042
+Page 58 of 61 
+ 
+structures that fit Plaintiff’s construction of fractal. (Id. (citing ’432 Patent at at Figures 3.1, 4.1, 
+5.4, 6.6, 7.8).) 
+Plaintiff responds that the MLV patents teach that ideal “fractal objects exist only as an 
+abstraction or a concept,” and that antennas with an ideal fractal geometry are impossible. (Dkt. 
+No. 85 at 10 (citing ’432 Patent at 6:59–61).) Plaintiff argues that Defendants’ construction would 
+render the claim limitation “wherein the antenna element is not a fractal type antenna element” 
+meaningless, because no real antenna could ever be a “fractal type antenna.” (Id.) Plaintiff also 
+argues that the figures in the specification are not “self-similar.” (Id.) Plaintiff contends that none 
+of the figures Defendants cite can be broken down into smaller parts that are equal to the overall 
+structure, so none of these figures are “self-similar.” (Id.) According to Plaintiff, its construction 
+is fully consistent with the specification’s teaching that Figures 1, 3, 4, 5 and 6 are not fractal. (Id.) 
+For the following reasons, the Court finds that the term “fractal type antenna” should be 
+construed to mean “an antenna with a self-copying shape generated in an iterative manner on 
+different scaling levels.” 
+2. Analysis 
+ 
+The term “fractal type antenna” appears in Asserted Claim 1 of the ’421 Patent. The Court 
+first notes that the term appears in a negative limitation. Specifically, Claim 1 of the ’421 Patent 
+recites “wherein the antenna element is not a fractal type antenna element.” ’421 Patent at Claim 
+1 (emphasis added). What complicates the issue is that “[f]rom a scientific standpoint strictly 
+fractal antennae are impossible, as fractal objects are a mathematical abstraction which include an 
+infinite number of elements.” ’432 Patent at 1:59–61. The court in the prior litigation struggled 
+with this term, and eventually instructed the jury that “this term, fractal, is both unclear, not 
+precisely defined, not consistently used, and has different meanings, depending upon when, where, 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 58 of 61 PageID #:  2043
+Page 59 of 61 
+ 
+and who is using it. It is not a reasonable descriptive—it is not a reasonably descriptive term.” 
+(Dkt. No. 82-6 at 64.) With this background, the Court turns to the intrinsic evidence. 
+The Court finds that the best indication of how a person of ordinary skill in the art would 
+understand the term can be found in the prosecution history of PCT Application No. ES99/00296. 
+To distinguish the prior art, the patentees argued that “the antennas that are implemented do not 
+have a fractal geometry.” (Dkt. No. 77-12 at 8.) The patentees further described the prior art as 
+including a fractal antenna. (Id.) Specifically, the patentees argued that “[i]n the case of [the prior 
+art] we find Illustrated in figures 2, 3 and 4 exclusively the fractal known as the Sierpinski triangle, 
+where we can clearly observe that it is formed by identical triangles and that its geometry is 
+obtained carrying out a self-copying on a different scaling level of the basic generating element of 
+the structure.” (Id. (emphasis in original).) Thus, the patentees described a fractal antenna as “self-
+copying [(e.g., identical triangles)] on a different scaling level of the basic generating element of 
+the structure.” Accordingly, the Court finds that the term “fractal type antenna” should be 
+construed to mean “an antenna with a self-copying shape generated in an iterative manner on 
+different scaling levels.” 
+Plaintiff contends that the most in-depth discussion of fractal antennas occurred during 
+prosecution of the priority PCT application. (Dkt. No. 77 at 26). As discussed above, the Court 
+agrees, but does not agree with Plaintiff’s construction. Specifically, the Court finds the term “self-
+similar shape” is vague and potentially confusing to a jury. For example, Defendants argue that 
+there are many examples of non-fractal structures in the specification that fit Plaintiff’s 
+construction. (Dkt. No. 82 at 21–22). Plaintiff replies that the figures are not “self-similar,” and 
+then provides a lengthy definition of what “self-similar” means. (Dkt. No. 85 at 10) (“By self-
+similar . . . should be understood a structure that can be broken into several parts that are ALL 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 59 of 61 PageID #:  2044
+Page 60 of 61 
+ 
+equal to the overall structure. A self-similar object is fully decomposed into a number of parts 
+which shape is equal to the shape of the overall object.”). This shows the lack of clarity in 
+Plaintiff’s construction, because Plaintiff concedes that its construction requires further 
+construction.  
+Defendants argue that their construction tries to account for the fact that “strictly fractal 
+antennae are impossible.” (Dkt. No. 82 at 21.) Defendants propose “possessing an ideal fractal 
+technology,” which it contends “is as close as humanly possible for an antenna design to be 
+fractal.” (Id.) Like Plaintiff’s construction, Defendants’ construction also creates more confusion 
+than clarity. The specification states that ideal “fractal objects exist only as an abstraction or a 
+concept,” and that antennas with an ideal fractal geometry are impossible. Thus, Defendants’ 
+construction either renders the term meaningless, or raises the question of how close to impossible 
+is “ideal.” During the claim construction hearing, Defendants argued that an expert could 
+determine if an antenna has “ideal fractal geometry.” However, like Plaintiff’s construction, this 
+is effectively arguing that Defendants’ construction requires further construction of the term 
+“ideal.” 
+3. Court’s Construction 
+  
+For the reasons set forth above, the Court construes the term “fractal type antenna” to 
+mean “an antenna with a self-copying shape generated in an iterative manner on different 
+scaling levels.” 
+V. CONCLUSION 
+ 
+The Court adopts the constructions above for the disputed and agreed terms of the Asserted 
+Patents. Furthermore, the Parties should ensure that all testimony that relates to the terms 
+addressed in this Order is constrained by the Court’s reasoning. However, in the presence of the 
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 60 of 61 PageID #:  2045
+Page 61 of 61 
+jury the Parties should not expressly or implicitly refer to each other’s claim construction positions 
+and should not expressly refer to any portion of this Order that is not an actual construction adopted 
+by the Court. The references to the claim construction process should be limited to informing the 
+jury of the constructions adopted by the Court. 
+  
+Case 2:17-cv-00561-JRG   Document 93   Filed 09/07/18   Page 61 of 61 PageID #:  2046

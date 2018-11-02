@@ -1,0 +1,396 @@
+       - 1 - 
+FRITO-LAY NORTH AMERICA, INC. 
+v. 
+MEDALLION FOODS, INC. and RALCORP HOLDINGS, INC. 
+Case No. 4:12-CV-74 
+United States District Court EASTERN DISTRICT OF TEXAS SHERMAN DIVISION 
+Dated: March 30, 2012 
+ 
+Judge Mazzant 
+MEMORANDUM OPINION AND ORDER 
+        Pending before the Court is Defendants' Motion to Dismiss Or, In the Alternative, To Transfer to the 
+Eastern District of Arkansas (Dkt. #16). Having considered the relevant pleadings, the Court is of the 
+opinion that Defendants' motion should be denied. 
+BACKGROUND1
+ 
+ 
+        Medallion Foods, Inc. ("Medallion") is an Arkansas corporation with its principal place of business 
+in Newport, Arkansas. It is a manufacturer of private-label food products, including corn-based snack 
+foods. Ralcorp Holdings, Inc. ("Ralcorp") is a Missouri corporation with its principal place of business in 
+St. Louis, Missouri. Ralcorp is a holding company, and is Medallion's parent company. 
+        On February 8, 2012, Plaintiff sent a cease-and-desist letter to Defendants asserting that Defendants' 
+product, BOWLZ, infringed Plaintiff's patent and trade dress rights as to its product TOSTITOS 
+SCOOPS!. The letter gave Defendants until 12:00 noon on February 10, 2012, to comply. Defendants 
+resisted Plaintiff's attempts at communication, and filed a complaint for declaratory relief in the Eastern 
+District of Arkansas on February 10, 2012. Subsequently, Plaintiff 
+Page 2 
+filed its complaint in this Court on February 10, 2012 (Dkt. #1). 
+        On March 20, 2012, Chief Judge J. Leon Holmes in the Eastern District of Arkansas denied 
+Defendants' pending motion to enjoin Plaintiff from pursuing the action before this Court and granted in 
+part Plaintiff's motion to dismiss the Arkansas action (Dkt. #35, Ex. A). Chief Judge Holmes stayed the 
+Arkansas action pending this Court's ruling on personal jurisdiction and venue, and noted, "If the Eastern 
+District of Texas decides that it has personal jurisdiction and denies the motion to transfer, the [Arkansas] 
+action will be dismissed" (Dkt. #35, Ex. A at 5). 
+        On February 22, 2012, Defendants filed their Motion to Dismiss for Lack of Jurisdiction Or, In the 
+Alternative, to Transfer to the Eastern District of Arkansas (Dkt. #16). Plaintiff filed its Response in 
+opposition on March 9, 2012 (Dkt. #31). On March 19, 2012, Defendants filed a Reply (Dkt. #33). On 
+March 27, 2012, Plaintiff filed a Sur-Reply (Dkt. #37). 
+LEGAL STANDARDS 
+Personal Jurisdiction 
+        In patent litigation, Federal Circuit law controls personal jurisdiction because the issue is "intimately 
+involved in the substance of enforcement of the patent." QR Spex, Inc. v. Motorola, Inc., 507 F. Supp. 2d 
+650, 655 (E.D. Tex. 2007) (citing Viam Corp. v. Iowa Export-Import Trading Co., 84 F.3d 424, 428 (Fed. 
+Cir. 1996)); Patent Rights Prot. Grp., LLC v. Video Gaming Techs., Inc., 603 F.3d 1364, 1368 (Fed. Cir. 
+2010) (citing Akro Corp. v. Luker, 45 F.3d 1541, 1543 (Fed. Cir. 1993)). "A federal court may exercise 
+       - 2 - 
+personal jurisdiction over a foreign defendant only if (1) the long-arm statute creates personal jurisdiction 
+over the foreign defendant, and (2) the exercise of personal jurisdiction over that defendant is consistent 
+with the due process guarantees of the U.S. Constitution." Keranos, LLC v. Analog Devices, Inc., No. 
+2:10-CV-207, 2011 WL 4027427, at *8 
+Page 3 
+(E.D. Tex. Sept. 12, 2011) (citing Patent Rights Prot. Grp., 603 F.3d at 1368-69). The Texas long-arm 
+statute extends to the full extent permitted by the Due Process Clause. Religious Tech. Ctr. v. Liebreich, 
+339 F.3d 369, 373 (5th Cir. 2003). 
+        Thus, to establish that the Court has personal jurisdiction over Defendants, Plaintiff must show that: 
+(1) each Defendant has purposefully availed itself of the benefits and protections of the forum state by 
+establishing minimum contacts with the forum state; and (2) the exercise of jurisdiction over each 
+Defendant does not offend traditional notions of fair play and substantial justice. Int'l Shoe Co. v. 
+Washington, 326 U.S. 310, 316-20 (1945); Burger King Corp. v. Rudzewicz, 471 U.S. 462, 474-77 
+(1985). 
+        After a non-resident defendant files a motion to dismiss for lack of personal jurisdiction, the burden 
+of establishing the district court's jurisdiction lies with the party seeking to invoke the court's jurisdiction. 
+Alpine View Co. Ltd. v. Atlas Copco AB, 205 F.3d 208, 215 (5th Cir. 2000). When, as here, no evidentiary 
+hearing is conducted, "the party seeking to assert jurisdiction must present sufficient facts as to make out 
+only a prima facie case supporting jurisdiction." Id. (citation omitted); see Graphic Controls Corp. v. 
+Utah Medical Products, Inc., 149 F.3d 1382, 1383 n.1 (Fed. Cir. 1998). When considering the motion to 
+dismiss, the court must accept as true the plaintiff's uncontroverted allegations and resolve all factual 
+disputes in favor of the plaintiff. Alpine View Co., 205 F.3d at 215 (citations omitted). 
+        "Minimum contacts" can be established though contacts sufficient to support the exercise of either 
+general or specific jurisdiction. Viam Corp., 84 F.3d at 428; J. McIntyre Machinery, Ltd. v. Nicastro, 131 
+S. Ct. 2780, 2787-88 (2011). General jurisdiction occurs when "a State exercises personal jurisdiction 
+over a defendant in a suit not arising out of or related to the defendant's 
+Page 4 
+contacts with the forum . . ." Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408, 414 n.9 
+(1984). General jurisdiction exists only when the defendant's contacts with the State constitute 
+"continuous and systematic" general contacts with the forum. Id. at 416. "Random, fortuitous, or 
+attenuated contacts are not sufficient to establish general jurisdiction." Keranos, 2011 WL 4027427, at *9 
+(citing Red Wing Shoe Co., Inc. v. Hockerson-Halberstadt, Inc., 148 F.3d 1355, 1358 (Fed. Cir. 1998)). 
+        Specific jurisdiction exists where the plaintiff alleges a cause of action which grows out of or relates 
+to a contact between the defendant and the forum state. Helicopteros, 466 U.S. at 414 n.8; McIntyre, 131 
+S. Ct. at 2787-88. "It is essential in each case that there be some act by which the defendant purposefully 
+avails itself of the privilege of conducting activities within the forum state, thus invoking the benefits and 
+protections of its laws." Hanson v. Denckla, 357 U.S. 235, 253 (1958). 
+Motion to Transfer 
+        A district court may transfer any civil case "for the convenience of parties and witnesses, in the 
+interest of justice...to any other district or division where it might have been brought." 28 U.S.C. § 
+1404(a). The threshold inquiry when determining eligibility for transfer is "whether the judicial district to 
+which transfer is sought would have been a district in which the claim could have been filed." In re 
+Volkswagen AG, 371 F.3d 201, 203 (5th Cir. 2004) ("Volkswagen I"). 
+       - 3 - 
+        Once that threshold inquiry is met, the Court balances the private interests of the litigants and the 
+public's interest in the fair and efficient administration of justice. In re Nintendo Co., Ltd., 589 F.3d 1194, 
+1198 (Fed. Cir. 2009); In re TS Tech USA Corp, 551 F.3d 1315, 1319 (Fed. Cir. 2008). The private 
+interest factors include (1) the relative ease of access to sources of proof; (2) the 
+Page 5 
+availability of compulsory process to secure the attendance of witnesses; (3) the cost of attendance for 
+willing witnesses; (4) all other practical problems that make trial of a case easy, expeditious and 
+inexpensive. In re Volkswagen of America, Inc., 545 F.3d 304, 315 (5th Cir. 2008) (en banc) 
+("Volkswagen II"); In re Nintendo, 589 F.3d at 1198. The public interest factors include (1) the 
+administrative difficulties flowing from court congestion; (2) the local interest in having localized 
+interests decided at home; (3) the familiarity of the forum with the law that will govern the case; and (4) 
+the avoidance of unnecessary problems of conflict of laws or in the application of foreign law. Id. These 
+factors are not exhaustive or exclusive, and no single factor is dispositive. Id. 
+        The party seeking transfer of venue must show good cause for the transfer. Volkswagen II, 545 F.3d 
+at 315. The moving party must show that the transferee venue is "clearly more convenient" than the 
+transferor venue. Volkswagen II, 545 F.3d at 315; TS Tech, 551 F.3d at 1319. The plaintiff's choice of 
+venue is not a factor in this analysis, but rather contributes to the defendant's burden to show good cause 
+for the transfer. Volkswagen II, 545 F.3d at 315 n.10; TS Tech, 551 F.3d at 1320; In re Nintendo, 589 F.3d 
+at 1200. 
+ANALYSIS 
+Personal Jurisdiction 
+        As stated above, Medallion is an Arkansas corporation with its principal place of business in 
+Newport, Arkansas, and Ralcorp is a Missouri corporation with its principal place of business in St. 
+Louis, Missouri. Defendants argue that neither Defendant is subject to general or specific jurisdiction in 
+Texas. Defendants contend that there are no facts indicating either Defendant has the necessary 
+"systematic and continuous" contacts required to subject them to general jurisdiction. Further, Defendants 
+assert that they do not have any contacts in Texas related to the sale of the 
+Page 6 
+allegedly infringing tortilla chip products sufficient to subject them to specific jurisdiction. 
+        Plaintiff asserts that Defendants are subject to personal jurisdiction under the "stream of commerce" 
+principle. Plaintiff contends that Medallion, controlled by Ralcorp, has fulfilled and continues to fulfill 
+repeated purchase orders for the allegedly infringing chips for one of the nation's largest retailers, Wal-
+Mart, that has hundreds of stores in Texas. Plaintiff argues that Defendants have an ongoing supplier 
+relationship with Wal-Mart, which has a distribution system in place ensuring the allegedly infringing 
+product reaches stores in Texas. Plaintiff contends that Defendants have full knowledge that the allegedly 
+infringing tortilla chip product is sold in Texas. 
+        The Supreme Court has held that the "forum State does not exceed its powers under the Due Process 
+Clause if it asserts personal jurisdiction over a corporation that delivers its products into the stream of 
+commerce with the expectation that they will be purchased by consumers in the forum State." World-
+Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 297-98 (1980); GSK Technologies, Inc. v. Schneider 
+Electric, S.A., No. 6:06-CV-361, 2007 WL 788343, at *2 (E.D. Tex. March 14, 2007). Under the stream 
+of commerce theory, "if the sale of a product of a manufacturer... is not simply an isolated occurrence, but 
+arises from the efforts of the [defendant] to serve, directly, or indirectly, the market for its product..., 
+       - 4 - 
+[then] it is not unreasonable to subject [the defendant] to suit." World-Wide Volkswagen, 444 U.S. at 297. 
+Subsequently, the Supreme Court revisited the issues of personal jurisdiction under the stream of 
+commerce theory in Asahi Metal Indus. Co. v. Superior Court of Cal., Solano Cnty., 480 U.S. 102 (1987), 
+but the Court was fractured on the proper approach. "A plurality opinion by Justice O'Connor [in Asahi] 
+advocated a requirement of additional conduct by the defendant to support personal jurisdiction under the 
+stream of commerce theory." Ruston Gas Turbines, Inc. v. Donaldson Co., 9 F.3d 415, 419 (5th Cir. 
+1993) (internal 
+Page 7 
+quotations omitted); Icon Health & Fitness, Inc. v. Horizon Fitness, Inc., No. 5:08-CV-26, 2009 WL 
+1025467, at *8 (E.D. Tex. March 26, 2009). However, Justice Brennan, writing on behalf of three 
+justices, stated that, "Mere placement in the stream of commerce is sufficient because 'as long as a 
+participant in this process is aware that the final product is being marketed in the forum State, the 
+possibility of a lawsuit there cannot come as a surprise." Icon Health, 2009 WL 1025467, at *8 (citing 
+Asahi, 480 U.S. at 117). 
+        "The Federal Circuit Court of Appeals has not expressly decided whether Justice Brennan's view is 
+sufficient to establish minimum contacts because it has 'yet to be presented with facts that do not meet the 
+more rigorous standard adopted by Justice O'Connor.'" Icon Health, 2009 WL 1025467, at *8 (citing 
+Commissariat A L'Energie Atomique, 395 F.3d 1315, 1322 n.7 (Fed. Cir. 2005)). 
+        Defendants argue that the Supreme Court "recently revisited the proper due process standard for 
+personal jurisdiction on a stream of commerce theory in McIntyre Machinery, Ltd. v. Nicastro, 131 S.Ct. 
+2780 (2011)." REPLY at 2. Defendants contend that the Supreme Court rejected the foreseeability 
+analysis, and made it clear that "the defendant's transmission of goods permits the exercise of jurisdiction 
+only where the defendant can be said to have targeted the forum; as a general rule, it is not enough that 
+the defendant might have predicted that its goods will reach the forum State." REPLY at 3 (citing 
+McIntyre, 131 S. Ct. at 2788). 
+        However, as other courts in this district have also found, the plurality opinion in McIntyre, written by 
+Justice Kennedy, is not the precedential holding of the Supreme Court. Brooks & Baker, LLC v. 
+Flambeau, No. 2:10-CV-146, 2011 WL 4591905, at *4 (E.D. Tex. Sept. 30, 2011); Dram Technologies, 
+LLC v. America II Group, Inc., No. 2:10-CV-45, 2011 WL 4591902, at *2 (E.D. Tex. 
+Page 8 
+Sept. 30, 2011). "When a fragmented Court decides a case and no single rationale explaining the result 
+enjoys the assent of five Justices, the holding of the Court may be viewed as that position taken by those 
+Members who concurred in the judgments on the narrowest grounds." Marks v. United States, 430 U.S. 
+188, 193 (1977). Therefore, Justice Breyer's concurrence is the controlling opinion of the Supreme Court. 
+Justice Breyer specifically declined to announce a new rule in stream of commerce cases, and stated: 
+"Accordingly, on the record present here, resolving this case requires no more than adhering to our 
+precedents." McIntyre, 131 S. Ct. at 2792. Further, the plurality opinion in McIntyre focused on three 
+facts to determine whether personal jurisdiction was appropriate: (1) the distributor sold and shipped a 
+machine on one occasion to a customer of the forum state; (2) the manufacturer wanted the distributor to 
+sell its machines to anyone in the United States; and (3) representatives of the manufacturer attended trade 
+shows in the United States, but not in the forum State. Id. at 2791. The plurality concluded that there were 
+insufficient facts to determine that the defendant purposefully availed itself of the forum State's market. 
+        The facts in the present case indicate a much stronger reason for the Court to hold that personal 
+jurisdiction is proper in Texas. Medallion manufactures the allegedly infringing tortilla chips. Medallion 
+       - 5 - 
+has fulfilled and continues to fulfill repeated purchase orders for the allegedly infringing tortilla chips for 
+Wal-Mart, a "major customer" of Defendants. Medallion knows that these allegedly infringing tortilla 
+chips are then sold in Texas, and Medallion continues to reap the benefit of the sales of the tortilla chips 
+in Texas. As the Federal Circuit found in a similar case, "[they] placed the accused [products] in the 
+stream of commerce, they knew the likely destination of the products, and their conduct and connections 
+with the forum state were such that they should reasonably have anticipated being brought into court 
+there." Beverly Hills Fan Co. v. Royal 
+Page 9 
+Sovereign Corp., 21 F.3d 1558 (Fed. Cir. 1994); see also Icon Health, 2009 WL 1025467, at Dram 
+Technologies, 2011 WL 4591902, at *3. The Federal Circuit went on to state that "the defendants' 
+shipments into [the forum state] were purposeful or knowing as evidenced by the defendants' commercial 
+relationship with [a forum state retailer that] was ongoing, and obviously intentional." Icon Health, 2009 
+WL 1025467, at *11 (citing Beverly Hills Fan, 21 F.3d at 1564). The Court finds that personal 
+jurisdiction in the Eastern District of Texas is proper as to Medallion based on these facts. 
+        Defendants contend that Ralcorp has no connection to the sales of allegedly infringing tortilla chips 
+in Texas, since it is merely Medallion's parent holding company. Defendants further argue that there are 
+no facts which would justify piercing the corporate veil to establish jurisdiction over Ralcorp through the 
+activities of Medallion. Plaintiff asserts that Ralcorp and Medallion are part of a unitary business 
+operation. Ralcorp filed suit with Medallion in the Eastern District of Arkansas, and admitted its 
+involvement in making the allegedly infringing tortilla chip product. In addition, Plaintiff contends that 
+Ralcorp exercises control over and participates fully in its subsidiaries' operations. On Ralcorp's website, 
+Medallion is described as a "division of Ralcorp." Further, Plaintiff notes that an employment opportunity 
+in Newport, Arkansas, presumably at the Medallion plant, is described as a job with Ralcorp Snacks, 
+Sauces & Spreads, not with Medallion. Ralcorp and Medallion share common officers. Defendants do not 
+controvert any of these facts asserted by Plaintiff. Ralcorp merely contends that it does not manufacture 
+the allegedly infringing tortilla chip product. 
+        Taking Plaintiff's allegations as true, which the Court must do in this case, and the evidence 
+presented by the Plaintiff, the Court finds that Ralcorp and Medallion identify themselves 
+Page 10 
+interchangeably on Ralcorp's website. Medallion is described as "combined into a single operating unit in 
+2008 to leverage sales and marketing opportunities." The two companies share some corporate officers, 
+and an employment opportunity at a Medallion plant is considered employment with Ralcorp. Finally, the 
+companies sued Plaintiff together in the Eastern District of Arkansas, jointly seeking a declaration of their 
+rights to the allegedly infringing tortilla chip product. Given these facts presented by Plaintiff, the Court 
+finds that Ralcorp and Medallion have sufficient minimum contacts with the State of Texas to justify 
+subjecting them to personal jurisdiction. See GSK Techs., 2007 WL 788343, at *3; Cardsoft, Inc. v. 
+Verifone Holdings, Inc., No. 2-08-CV-098, 2009 WL 361069, at *1-2 (E.D. Tex. Feb. 10, 2009). 
+        The Court also finds that the claim arises out of or relates to Defendants' contacts with the State of 
+Texas, since the claims all arise from the manufacture and sale of the allegedly infringing tortilla chip 
+products. Finally, the Court finds that the exercise of jurisdiction over the Defendants does not offend 
+traditional notions of fair play and substantial justice. Motion to Transfer2
+ 
+ 
+        Defendants argue that the proper and more convenient venue for this litigation is the Northern 
+Division of the Eastern District of Arkansas. Plaintiff contends that the Eastern District of Texas, 
+Sherman Division, is proper, and that Defendants have not met their burden to show that the Eastern 
+       - 6 - 
+District of Arkansas is clearly a more convenient forum for this litigation. The first question the Court 
+must address when ruling on a motion to transfer venue under 28 U.S.C. § 1404(a) is whether the suit 
+could have been filed originally in the destination venue. Volkswagen II, 545 F.3d at 312. 
+Page 11 
+The parties do not dispute that this case could have been filed in the Eastern District of Arkansas. 
+        The Court must review a number of private and public factors with regard to convenience on a 
+motion to transfer venue. Volkswagen II, 545 F.3d at 315; TS Tech, 551 F.3d at 1319. 
+A. Private Interest Factors 
+        (1) The Relative Ease of Access to Sources of Proof 
+        "Courts analyze this factor in light of the distance that documents, or other evidence must be 
+transported from their existing location to the trial venue." On Semiconductor Corp. v. Hynix 
+Semiconductor, Inc., No. 6:09-CV-390, 2010 WL 3855520, at *2 (E.D. Tex. Sept. 30, 2010) (citing 
+Volkswagon II, 545 F.3d at 316). This factor will rely on which party has a greater volume of documents 
+relevant to the litigation, and their presumed location in relation to the transferee and transferor venues. 
+Id. (citations omitted). Documents that have been moved in anticipation of litigation should not be 
+considered. In re Hoffman-La Roche, Inc., 587 F.3d 1333, 1336-37 (Fed. Cir. 2009). 
+        Defendants assert that, "the bulk of the documentary evidence concerning the allegedly infringing 
+product is located at Medallion's production facility in Newport, Arkansas." MOTION at 18. Defendants 
+also assert that Wal-Mart will be a necessary source of evidence with respect to the alleged infringement 
+of Plaintiff's trademarks and trade dress. Id. Defendants contend that the Northern Division of the Eastern 
+District of Arkansas is located approximately 30 miles from Medallion's production facility, and 200 
+miles from Wal-Mart's headquarters in Bentonville, whereas the Eastern District of Texas is located 
+approximately 300 miles from Wal-Mart's headquarters in Bentonville. Finally, Defendants argue that the 
+allegedly infringing machines themselves are located in Arkansas. REPLY at 9. 
+Page 12 
+        Plaintiff contends that the location of the evidence does not weigh in favor of transfer because 
+evidence related to "documents and witnesses, including persons with knowledge about the research and 
+development, marketing, branding strategies, the effects of Defendants' deliberate knock-off product, and 
+finances related to the TOSTITOS SCOOPS!," are located in the Eastern District of Texas. SUR-REPLY 
+at 8. Plaintiff argues that the patent inventors are located in the Eastern District of Texas. Plaintiff 
+contends that Defendants fail to show why evidence from Wal-Mart will be required in this case, since 
+Medallion manufactures the allegedly infringing chips. SUR-REPLY at 9. Finally, Plaintiff argues that 
+there may be relevant evidence obtained from Ralcorp, which is headquartered in St. Louis, Missouri. 
+RESPONSE at 21. 
+        "[T]his factor almost invariably turns on which party will most likely have the greater volume of 
+relevant documents and their presumed physical location in relation to the venues under consideration." 
+Remmers v. U.S., No. 1:09-CV-345, 2009 WL 3617597, at *4 (E.D. Tex. Oct. 28, 2009) (citing Fujitsu 
+Ltd. v. Tellabs, Inc., 639 F. Supp. 2d 761, 767 (E.D. Tex. 2009)). "In patent infringement cases, the bulk 
+of the relevant evidence usually comes from the accused infringer. Consequently, the place where the 
+defendant's documents are kept weighs in favor of transfer to that location." In re Genentech, 566 F.3d 
+1338, 1345 (Fed. Cir. 2009) (internal quotations omitted). However, because the sources of proof 
+originate from varied locations, this factor is neutral. An action in the Eastern District of Arkansas is not 
+"clearly more convenient" for transporting documents that are located in the Eastern District of Texas and 
+       - 7 - 
+potentially Missouri. See, e.g., Konami Dig. Ent. Co. Ltd. v. Harmonix Music Sys., No. 6:08-CV-286-
+LED-JEL, 2009 WL 781134, at *4 (E.D. Tex. Mar. 23, 2009) ("While Defendants point to [the transferee 
+district] as the location of significant sources of proof, they ignore the remaining sources of proof which 
+originate from other 
+Page 13 
+locations."); Perritt v. Jenkins, No. 4:11-CV-23-MHS-ALM, 2011 WL 3511468, at *3 (E.D. Tex. July 18, 
+2011) ("Because the sources of proof originate from varied locations, this factor is neutral."). Further, "a 
+case should not be transferred if the only practical effect is to shift inconvenience from the moving party 
+to the nonmoving party." Goodman Co. v. A & H Supply, Inc., 396 F. Supp. 2d 766, 776 (S.D. Tex. 2005). 
+Therefore, the Court finds this factor is neutral. 
+        (2) The Availability of Compulsory Process 
+        Federal Rule of Civil Procedure 45(b)(2) allows a federal court to compel a witness' attendance at a 
+trial or hearing by subpoena; however, the Court's subpoena power is limited by Federal Rule of Civil 
+Procedure 45(c)(3), to those witnesses who work or reside less than 100 miles from the courthouse. See 
+Volkswagen II, 545 F.3d at 316. 
+        Defendants contend that numerous Wal-Mart employees, who will be necessary witnesses with 
+respect to the trademark issues in this case, will be outside the subpoena power of this Court since they 
+will have to travel (1) more than 100 miles and (2) from another state. MOTION at 19. 
+        Plaintiff argues that Defendants have not shown why they will need testimony from Wal-Mart 
+employees, when Medallion is the manufacturer of the allegedly infringing chips. SUR-REPLY at 9. 
+Plaintiff asserts that it does not anticipate significant documents or testimony from Wal-Mart or its 
+employees, especially since they are not a party to this action. Id. Finally, Plaintiff contends that the 
+inventors are also non-party witnesses who are located in the Eastern District of Texas. 
+        The Court finds that this factor is also neutral. Defendants have not identified how many witnesses 
+or what type of evidence they will need to obtain from these witnesses employed by Wal-Mart. In 
+addition, it is unclear whether these same employee witnesses will be under the subpoena power of the 
+Eastern District of Arkansas or not. Further, Plaintiff indicates that the inventors of the 
+Page 14 
+patents are located in the Eastern District of Texas. Therefore, this factor is neutral. 
+        (3) Cost of Attendance for Willing Witnesses 
+        The Fifth Circuit established the "100-mile" rule to determine the convenience of the transferee 
+district to the witnesses and parties. "When the distance between an existing venue for trial of a matter 
+and a proposed venue under § 1404(a) is more than 100 miles, the factor of the convenience to witnesses 
+increases in direct relationship to the additional distance to be traveled." Volkswagen I, 371 F.3d at 204-
+05. Where witnesses are from widely scattered locations, a trial court should not consider its "central 
+location... in the absence of witnesses within the plaintiff's choice of venue." Genentech, 566 F.3d at 
+1344. 
+        "In considering the availability and convenience of witnesses, a court must concentrate primarily 
+upon the availability and convenience of key witnesses." Remmers, 2009 WL 3617597, at *5; Shoemake 
+v. Union Pacific R.R. Co., 233 F. Supp. 2d 828, 832 (E.D. Tex. 2002). Moreover, it is the convenience of 
+non-party witnesses, rather than of party witnesses, that is more important and accorded greater weight in 
+       - 8 - 
+a transfer of venue analysis. Shoemake, 233 F. Supp. 2d at 832. Again, Defendants' party and non-party 
+witnesses are located in Arkansas and Missouri, and Plaintiff's party and non-party witnesses are located 
+in the Eastern District of Texas. Defendants have identified no specific witnesses that will be required to 
+testify on their behalf. Further, the Plaintiff's evidence indicates that, at least for Wal-Mart employees in 
+Bentonville, the distance to the courthouse in Sherman is only approximately 30 extra minutes. Therefore, 
+the Court finds this factor is also neutral. 
+Page 15 
+        (4) All Other Practical Problems 
+        a. Patent Rules 
+        Plaintiff argues that the patent rules of the Eastern District of Texas help streamline the parties' 
+preparation for trial, which makes this factor weigh against transfer. Defendants argue that this case is 
+primarily a trademark case, based on Plaintiff's intent to move for a preliminary injunction based on the 
+trademark, trade dress, and unfair competition issues. Therefore, Defendants argue that the fact that the 
+Eastern District of Arkansas does not have patent rules should not weigh against transfer. 
+        The Court finds that this factor does not support transfer. See EMG Tech., LLC v. Microsoft Corp., 
+No. 6:09-CV-367, 2010 WL 3835768, at *5 (E.D. Tex. Sept. 28, 2010). 
+        b. Plaintiff's Choice of Forum 
+        "While not a distinct factor in the transfer of venue analysis, a plaintiff's choice of venue 'is 
+nonetheless taken into account as it places a significant burden on the movant to show good cause for the 
+transfer.'" Remmers, 2009 WL 3617597, at *7 (citing Volkswagen II, 545 F.3d at 314 n.10). "This 'good 
+cause' burden reflects the appropriate deference to which the plaintiff's choice of venue is entitled." Id. 
+(citing Volkswagen II, 545 F.3d at 315). "If the defendant cannot meet this burden, the plaintiff's choice of 
+forum should be respected." BlueEarth Biofuels, LLC v. Hawaiian Elec. Co., Inc., No. 3:08-CV-1779-L, 
+2009 WL 918459, at *4 (N.D. Tex. Apr. 3, 2009) (citing Volkswagen II, 545 F.3d at 315). However, 
+"[w]hen the chosen district has little or no factual nexus to the case, the plaintiff's choice of forum is less 
+significant if other factors weigh in favor of a transfer." Remmers, 2009 WL 3617597, at *7 (citing 
+Volkswagen II, 545 F.3d at 315-18). 
+        In the present case, the Eastern District of Texas, Sherman Division, has a clear factual nexus 
+Page 16 
+to the case given that Plaintiff is located here, and the patented technology was developed here. 
+Therefore, the Court finds that Defendants must meet their burden to show good cause for the transfer, 
+and if they cannot, Plaintiff's choice of venue will be respected. 
+B. Public Interest Factors 
+        (1) The Administrative Difficulties Flowing From Court Congestion 
+        The first public interest factor is court congestion. Generally, this factor favors a district that can 
+bring a case to trial faster. In re Genentech, 566 F.3d at 1347. This factor appears to be the most 
+speculative and this factor alone should not outweigh other factors. Id. 
+        Plaintiffs contend that "[i]n the Eastern District of Arkansas in 2011, there were 1,864 pending cases 
+per judge, compared with just 488 cases per judge in the Eastern District of Texas." RESPONSE at 24. 
+       - 9 - 
+Defendants argue that Plaintiff's statistics do not consider the recent retirements and administrative 
+redistribution of cases in this Court. REPLY at 9. 
+        The Court finds that this factor weighs slightly against transfer. 
+        (2) The Local Interest in Having Localized Interests Decided at Home 
+        Traditionally, the location of the alleged injury is an important consideration in determining how to 
+weigh this factor. TS Tech, 551 F.3d at 1321. However, in a patent infringement case, when the accused 
+products are sold nationwide, the alleged injury does not create a substantial local interest in any 
+particular district. Id. Local interest may also be determined when a district is home to a party because the 
+suit may call into question the reputation of individuals that work and conduct business in the community. 
+Hoffman-La Roche, 587 F.3d at 1336. 
+        Defendants argue that Arkansas has a strong interest in the interests of its corporations, processes, 
+factory workers, and products made in Arkansas. Defendants also argue that any 
+Page 17 
+injunction will affect Arkansas-based Wal-Mart. However, Defendants also contend that the Eastern 
+District of Texas has no factual connection to the case, which is not entirely true. The allegedly infringing 
+products are sold in the Eastern District of Texas, and the patented technology was developed in the 
+Eastern District of Texas. Therefore, the Court finds that this factor is neutral, since both districts have an 
+interest in the outcome of the case. 
+        (3) The Familiarity of the Forum with the Law that Will Govern the Case 
+        This case is an action arising under federal law. Therefore, this factor is neutral as to transfer. 
+        (4) The Avoidance of Unnecessary Problems of Conflict of Laws 
+        There are no conflict of law concerns in this case. This factor is neutral as to transfer. 
+C. Conclusion 
+        The Court finds that six (6) of the private and public interest factors are neutral, and two (2) factors 
+weigh slightly against transfer. Therefore, the Court finds that Defendants have not satisfied their burden 
+to show that the Eastern District of Arkansas is a "clearly more convenient" forum for this litigation. 
+CONCLUSION 
+        For the foregoing reasons, the Court finds that Defendants' Motion to Dismiss Or, In the Alternative, 
+To Transfer to the Eastern District of Arkansas (Dkt. #16) is DENIED. 
+        IT IS SO ORDERED. 
+        ________________________ 
+        AMOS L. MAZZANT 
+        UNITED STATES MAGISTRATE JUDGE 
+ 
+-------- 
+Notes: 
+       - 10 - 
+        1. All background facts are taken from Defendants' Motion to Dismiss Or, In the Alternative, to Transfer to the 
+Eastern District of Arkansas (Dkt. #16), and Plaintiff's Response (Dkt. #31). 
+        2.The Court will not address the arguments regarding transfer based on the "first-to-file rule," since that 
+argument was ruled on by the Eastern District of Arkansas and is now moot. Ralcorp Holdings, Inc. v. Frito-Lay 
+North America, Inc., No. 1:12-CV-00018 JLH (E.D. Arkansas March 20, 2012) (Holmes, J.). 
+ 
+-------- 
+ 

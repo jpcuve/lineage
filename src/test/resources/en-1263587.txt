@@ -1,0 +1,170 @@
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 1 of 6 PageID #:  1
+UNITED STATES DISTRICT COURT FOR THE 
+EASTERN DISTRICT OF TEXAS 
+TEXARKANA DIVISION 
+DATA TREASURY CORPORATION § 
+§ 
+Plaintiff § 
+§ 
+w. § 
+§ 
+REMITCO, LLC and § 
+INTEGRATED PAYMENT SYSTEMS, § 
+INC. § 
+§ 
+Defendants § 
+JURY TRIAL DEMAND 
+ORIGINAL COMPLAINT FOR PATENT INFRINGEMENT 
+I. THE PARTIES 
+-9 Pti f: 37 
+1. Plaintiff Data Treasury Corporation ("Data Treasury") is a Delaware 
+corporation that maintains its principal place of business at 175 Pinelawn Drive, 
+Melville, New York 11747. 
+2. Defendant Remitco, LLC is a Delaware Limited Liability Company that 
+maintains its principal place of business at 6200 S Quebec St., Englewood, Colorado 
+80111-4729. This Defendant is a wholly-owned subsidiary of its parent company, 
+First Data Corporation, already a Defendant in this District with regard to the patents-
+in-suit. Defendant Remitco, LLC can be served with process through its Registered 
+Agent for Service, Corporation Service Company, located at 2711 Centerville Road, 
+Suite 400, Wilmington, Delaware 19808. 
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 2 of 6 PageID #:  2
+3. Defendant Integrated Payment Systems, Inc. is a Delaware Corporation 
+that maintains its principal place of business at 6200 S Quebec St., Englewood, 
+Colorado 80111-4729. This Defendant is a wholly-owned subsidiary of its parent 
+company, First Data Corporation, already a Defendant in this District with regard to 
+the patents-in-suit. Defendant Integrated Payment Systems, Inc. can be served with 
+process through its Registered Agent for Service, Corporation Service Company, 
+located at 1560 Broadway, Denver, Colorado 80202. 
+II. JURISDICTION AND VENUE 
+3. This action arises under the patent laws of the United States, Title 35 of 
+the United States Code. The Court's jurisdiction over this action is proper under the 
+above statutes, including 35 U.S.C. § 271 et seq. and 28 U.S.C. § 1338. 
+4. Personal jurisdiction exists generally over Defendants pursuant to 28 
+U.S.C. § 1391 because they have sufficient minimum contacts with the forum as a 
+result of business conducted within the State of Texas and within this district. 
+Personal jurisdiction also exists specifically over Defendants because of Defendants' 
+conduct in making, using, selling, offering to sell, and/or importing, directly, 
+contributory, and/or by inducement, infringing products and services within the State 
+of Texas and within this district. In particular, Defendants have provided services and 
+sold products in this District for other infringing companies which are or were 
+Defendants in related pending litigation the United States District Court for the 
+Eastern District of Texas. 
+5. Venue is proper in this Court under 28 U.S.C. §§1391 (b), (c), and (d), 
+as well as 28 U.S.C., § 1400(b). Furthermore, Defendants are related business 
+Original Complaint for Patent Infringement Page 2 of 6 
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 3 of 6 PageID #:  3
+groups operating in conjunction with First Data Corporation, a defendant in litigation 
+involving the same patents currently pending in this District. These Defendants 
+operate in such a fashion that they are the alter ego of First Data Corporation, 
+sharing liability and responsibility for the acts of infringement that all the related 
+companies have engaged in. As First Data Corporation has admitted that venue 
+over it is proper in the Eastern District of Texas, venue and jurisdiction are likewise 
+proper over the present Defendants, as the facts of infringement underlying all 
+Defendants are overlapping and responsibility for said actions is joint. 
+Ill. PATENT INFRINGMENT 
+6. Data Treasury is the owner as assignee of all rights, title and interest in 
+and under United States Patent No. 5,910,988 ("the '988 patent"), which duly and 
+legally issued on June 8, 1999, with Claudio Ballard as the named inventor, for an 
+invention in remote image capture with centralized processing and storage. 
+7. Data Treasury is the owner as assignee of all rights, title, and interest in 
+and under United States Patent No. 6,032, 137 ("the '137 patent"), which duly and 
+legally issued on February 29, 2000, with Claudio Ballard as the named inventor, for 
+an invention in a remote image capture with centralized processing and storage. 
+8. Defendants have been and are infringing the '988 and '137 patents by 
+making, using, selling, offering for sale, and/or importing in or into the United States, 
+directly, contributory, and/or by inducement, without authority, products and services 
+that fall within the scope of the claims of the '988 and '137 patents, unless enjoined 
+by this Court. Data Treasury is without an adequate remedy at law. 
+Original Complaint for Patent Infringement Page 3 of 6 
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 4 of 6 PageID #:  4
+9. Defendants have been and are actively inducing and/or contributing to 
+the infringement of the '988 and '137 patents among themselves and by others. 
+10. Defendants' infringement of the '988 and '137 patents has been and is 
+willful. 
+11. This is an exceptional case within the meaning of 35 U.S.C. § 285. 
+IV. PRAYER FOR RELIEF 
+Data Treasury respectfully requests the following relief: 
+A. That the Court declare that the '988 and '137 patents are valid and 
+enforceable and that they are infringed by Defendants; 
+B. That the Court enter a preliminary and thereafter a permanent 
+injunction against Defendants' direct infringement of the '988 and '137 patents; 
+C. That the Court enter a preliminary and thereafter a permanent 
+injunction against Defendants' active inducement of infringement and/or contributory 
+infringement of the '988 and '137 patents among themselves and by others; 
+D. That the Court award damages to Data Treasury to which it is entitled 
+for patent infringement; 
+E. That the Court award interest on the damages to Data Treasury; 
+F. That the Court treble all damages and interest for willful infringement; 
+G. That the Court award to Data Treasury its costs and attorney's fees 
+incurred in this action; and 
+H. Such other and further relief as the Court deems just and proper. 
+Original Complaint for Patent Infringement Page 4 of 6 
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 5 of 6 PageID #:  5
+Original Complaint for Patent Infringement 
+Respectfully submitted, 
+·~ 
+EDWARD l. HOHN-ATTO~ IN.(1HARGE 
+Texas Bar No. 09813240 'z~ ~ \_,......__ 
+edhohn@nixlawfirm.com -
+D. NEIL SMITH 
+Texas Bar No. 00797450 
+dnsmith@nixlawfirm.com 
+NIX, PATTERSON & ROACH, LLP 
+205 Linda Drive 
+Daingerfield, Texas 75638 
+Telephone: 903.645.7333 
+Facsimile: 903.645-4415 
+C. CARY PATTERSON 
+Texas Bar No. 15587000 
+BRADY PADDOCK 
+Texas Bar No. 00791394 
+bpaddock@nixlawfirm.com 
+ANTHONY K. BRUSTER 
+Texas Bar No. 24036280 
+akbruster@nixlawfirm.com 
+NIX, PATTERSON & ROACH, LLP 
+2900 St. Michael Drive, Suite 500 
+Texarkana, Texas 75503 
+Telephone: 903.223.3999 
+Facsimile: 903.223.8520 
+JOE KENDALL 
+Texas Bar No. 11260700 
+jkendall@provostumphrey.com 
+KARL RUPP 
+Texas Bar No. 24035243 
+krupp@provostu mphrey .com 
+PROVOST UMPHREY, LLP 
+3232 McKinney Avenue, Suite 700 
+Dallas, Texas 75204 
+Telephone: 214.774.3000 
+Facsimile: 214.744.3015 
+Page 5 of 6 
+Case 5:05-cv-00173-DF-CMC   Document 1    Filed 09/12/05   Page 6 of 6 PageID #:  6
+Original Complaint for Patent Infringement 
+Rao COOPER 
+Texas Bar No. 90001628 
+rcooper@cooperiplaw.com 
+THE COOPER LAW FIRM 
+545 E. John Carpenter Fwy., Suite 1460 
+INing, Texas 75062 
+Telephone: 972.831.1188 
+Facsimile: 972.692.5445 
+ERIC M. ALBRITTON 
+Texas Bar No. 00790215 
+ema@emafirm.com 
+ALBRITTON LAW FIRM 
+P. 0. Box 2649 
+Longview, Texas 75606 
+Telephone: 903. 757.8449 
+Facsimile: 903.758.7397 
+T. JOHN WARD, JR. 
+Texas Bar No. 00794818 
+jw@jwfirm.com 
+LAW OFFICES OFT. JOHN WARD, JR. PC 
+P. 0. Box 1231 
+Longview, Texas 75606 
+Telephone: 903.757.6400 
+Facsimile: 903. 757-2323 
+ATTORNEYS FOR PLAINTIFF 
+DATATREASURY CORPORATION 
+Page 6 of 6 

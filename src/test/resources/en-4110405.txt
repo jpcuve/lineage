@@ -1,0 +1,435 @@
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+MARSHALL DIVISION 
+ 
+Mirror Imaging LLC, 
+ 
+   Plaintiff, 
+ 
+   v. 
+ 
+BTH Bank, National Association; BTH 
+Bank, 
+ 
+   Defendant. 
+ 
+ Case No. ______________ 
+ 
+ Patent Case 
+ 
+ Jury Trial Demanded 
+ 
+ 
+COMPLAINT FOR PATENT INFRINGEMENT 
+Plaintiff, Mirror Imaging LLC (“Mirror Imaging”), through its attorney, Isaac 
+Rabicoff, complains of BTH Bank, National Association and BTH Bank (“BTH”) and alleges 
+the following: 
+ 
+PARTIES 
+1. Plaintiff Mirror Imaging LLC is a limited liability company organized and 
+existing under the laws of Michigan that maintains its principal place of business at 27500 
+Donald Court, Warren, Michigan, 48092.  
+2. Defendant BTH Bank, National Association is a corporation organized and 
+existing under the laws of Texas that maintains its principal place of business at 412 E. 
+Goode St., Quitman, TX 75783. 
+3. Defendant BTH Bank is a subsidiary of BTH Bank, National Association that 
+maintains its principal place of business at 412 E. Goode St., Quitman, TX 75783. 
+JURISDICTION 
+4. This is an action for patent infringement arising under the patent laws of the 
+United States, Title 35 of the United States Code.   
+5. This Court has exclusive subject matter jurisdiction under 28 U.S.C. §§ 1331 
+and 1338(a). 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 1 of 15 PageID #:  1
+6. This Court has personal jurisdiction over BTH because it has engaged in 
+systematic and continuous business activities in the Eastern District of Texas. Specifically, 
+BTH has branch bank locations in Plano, Texas, and provides its full range of banking 
+services to residents in this District. As described below, BTH has committed acts of patent 
+infringement giving rise to this action within this District. 
+VENUE 
+7. Venue is proper in this District under 28 U.S.C. §§ 1391(b)-(d) and 1400(b) 
+because BTH has committed acts of patent infringement in this District, and has a regular 
+and established place of business in this District. Specifically, BTH has branch bank 
+locations in Plano, Texas, and provides its full range of banking services to residents in the 
+Eastern District of Texas. In addition, Mirror Imaging has suffered harm in this District. 
+PATENTS-IN-SUIT 
+8. Mirror Imaging is the assignee of all right, title and interest in United States 
+Patent Nos. 6,963,866 (the “‘866 Patent”), 7,552,118 (the “‘118 Patent”), 7,836,067 (the “‘067 
+Patent”), and 9,141,612 (the “‘612 Patent”), collectively the “Patents-in-Suit”, including all 
+rights to enforce and prosecute actions for infringement and to collect damages for all 
+relevant times against infringers of the Patents-in-Suit.  Accordingly, Mirror Imaging 
+possesses the exclusive right and standing to prosecute the present action for infringement of 
+the Patents-in-Suit by BTH. 
+The ‘866 Patent 
+9. On November 8, 2005, the United States Patent and Trademark Office issued 
+the ‘866 Patent. The ‘866 Patent is titled “Method of Obtaining an Electronically Stored 
+Financial Document.”  The application leading to the ‘866 Patent was filed on March 22, 
+2002, and is a continuation of an application filed on April 13, 2000, and claims priority from 
+a provisional application filed on April 13, 1999.  A true and correct copy of the ‘866 Patent is 
+attached hereto as Exhibit A and incorporated herein by reference. 
+10. The '866 Patent is valid and enforceable. 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 2 of 15 PageID #:  2
+11. The invention in the ‘866 Patent relates to a method that enables a financial 
+institution in a unique and highly efficient manner to retrieve electronically-stored financial 
+documents having a specific document parameter. Ex. A at 2:38-40. Electronic storage of 
+these financial documents allows financial institutions to eliminate paper copies Id. at 1:32-
+34. The electronic storing, downloading, and retrieving of the financial documents is 
+particularly resource intensive, time consuming, and expensive. Id. at 1:54-60. This process 
+becomes increasingly expensive if the client requests a particularly old financial document, 
+because older financial documents frequently require more resources and time to locate and 
+retrieve. Id. at 1:60-63. 
+12. The inventors Michael D. Schulze and Richard J. Gagnon recognized that due 
+to the inefficiencies identified in the conventional methods used by financial institutions to 
+obtain financial documents, it would be both novel and useful to invent a method that would 
+enable a financial institution to obtain electronically-stored financial documents from 
+different storage systems that reduces, if not eliminates, the back office production of the 
+financial institution by providing a direct interface inter-linked with the different  storage 
+systems. With such an interface, the responsibility for retrieving financial documents from 
+the different storage systems can be outsourced to third party entities while still providing 
+the financial institution with efficient access to any financial documents electronically-
+stored. Id. at 2:21-2:34. The invention therefore provides a method that enables financial 
+institutions to retrieve electronically-stored financial documents from different storage 
+systems, allowing them to selectively store financial documents and to do so with 
+unprecedented efficiency. Id. at 3:10–15. 
+The ‘118 Patent 
+13. On June 23, 2009, the United States Patent and Trademark Office issued the 
+‘118 Patent. The ‘118 Patent is titled “Method of Obtaining an Electronically Stored 
+Financial Document.”  The application leading to the ‘118 Patent was filed on August 12, 
+2005, and is a continuation of the application that issued as the ‘866 Patent.  A true and 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 3 of 15 PageID #:  3
+correct copy of the ‘118 Patent is attached hereto as Exhibit B and incorporated herein by 
+reference. 
+14. The '118 Patent is valid and enforceable. 
+15. The ‘118 Patent is related to the ‘866 Patent and, therefore, also relates to a 
+method for a financial institution to obtain electronically-stored financial documents having 
+a specific document parameter is disclosed. Ex. B at 2:39-41 
+The ‘067 Patent 
+16. On November 16, 2010, the United States Patent and Trademark Office 
+issued the ‘067 Patent. The ‘067 Patent is titled “Method of Obtaining Electronically Stored 
+Financial Documents.”  The application leading to the ‘067 Patent was filed on June 22, 
+2009, and is a continuation of the application that issued as the ‘118 Patent.  A true and 
+correct copy of the ‘067 Patent is attached hereto as Exhibit C and incorporated herein by 
+reference. 
+17. The '067 Patent is valid and enforceable. 
+18. The ‘067 Patent is related to the ‘866 Patent and, therefore, also relates to a 
+method for a financial institution to obtain electronically-stored financial documents having 
+a specific document parameter is disclosed. Ex. C. at 2:40-42. 
+The ‘612 Patent 
+19. On September 22, 2015, the United States Patent and Trademark Office 
+issued the ‘612 Patent. The ‘612 Patent is titled “Method of Obtaining an Electronically 
+Stored Financial Document.”  The application leading to the ‘612 Patent was filed on March 
+15, 2013, and is a continuation of an application that was filed on October 13, 2011, which is 
+a continuation of an application that was filed on October 12, 2010, which is a continuation of 
+the application that issued as the ‘067 Patent.  A true and correct copy of the ‘612 Patent is 
+attached hereto as Exhibit D and incorporated herein by reference. 
+20. The '612 Patent is valid and enforceable. 
+21. The ‘612 Patent is related to the ‘067 Patent and, therefore, also relates to a 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 4 of 15 PageID #:  4
+method for a financial institution to obtain electronically-stored financial documents having 
+a specific document parameter is disclosed. Ex. D. at 2:46-48. 
+ 
+COUNT I: INFRINGEMENT OF THE ‘866 PATENT 
+22. Mirror Imaging incorporates the above paragraphs herein by reference. 
+23. Direct Infringement. BTH has been and continues to directly infringe at 
+least claim 1 of the ‘866 Patent in this District and elsewhere in the United States, by 
+providing a system, for example BTH’s Online Banking system, that performs the steps for a 
+financial institution to obtain electronically-stored financial documents having a specific 
+document parameter. 
+24. BTH performs a method for obtaining an electronically-stored financial 
+document from a first storage system remotely-located from a second storage system wherein 
+the first and second storage systems each include a plurality of financial documents stored 
+therein and wherein each of the financial documents include at least one specific document 
+parameter. For example, BTH’s Online Banking system stores online statements and 
+deposited check images in remotely located, separate storage systems based on the date 
+associated with that document. See, e.g., https://www.bthbank.com/personal/checking/mobile-
+check-deposit.html.  
+25. BTH performs the step of storing a plurality of financial documents in a first 
+fixed medium at the first storage system when the specific document parameter of the 
+financial document is greater than a predetermined parameter. BTH further performs the 
+step of storing a plurality of financial documents in a second fixed medium at the second 
+storage system when the specific document parameter of the financial document is less than 
+or equal to the predetermined parameter. For example, BTH’s Online Banking system stores 
+online statements and check images, and specifically stores online statements for up to 2 
+years in a storage system that is retrievable online. After 2 years, online statements are 
+transferred to another storage system for archival and retrieval purposes for up to 7 years. 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 5 of 15 PageID #:  5
+26. BTH performs the step of utilizing a computer terminal connected to the first 
+and second storage systems through a processing unit. BTH further performs the step of 
+receiving a request for at least one of the stored financial documents. BTH further performs 
+the step of inputting the request into the computer terminal. For example, BTH’s Online 
+Banking system has a computer terminal connected to its storage systems through a 
+processing unit that stores online statements, and allows retrieval of online statements. 
+Specifically, BTH’s Online Banking system submits a request for online statements, which is 
+received via the computer terminal by entering the desired date range of the requested 
+online statements. 
+27. BTH performs the step of comparing the specific document parameter of the 
+requested financial document to the predetermined parameter to determine if the specific 
+document parameter is greater than, less than, or equal to the predetermined parameter 
+after the request has been inputted. For example, BTH’s Online Banking system compares 
+the date range submitted to a predetermined date, for example 2 years of access to online 
+statements, and the online statement is either retrieved for the requester or the requester 
+receives notification that customer service must be contacted to request an online statement 
+from equal to or greater than 2 years. 
+28. BTH performs the step of automatically accessing the first storage system 
+through the processing unit when the specific document parameter is greater than the 
+predetermined parameter and automatically accessing the second storage system through 
+the processing unit when the specific document parameter is less than or equal to the 
+predetermined parameter. BTH further performs the step of retrieving the requested 
+financial document, as defined by the inputted request, in the first fixed medium when the 
+specific document parameter is greater than the predetermined parameter and in the second 
+fixed medium when a specific document parameter of the financial document is less than or 
+equal to the predetermined parameter. For example, BTH’s Online Banking system’s 
+processing unit automatically accesses, and then retrieves, online statements from one 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 6 of 15 PageID #:  6
+storage system if the associated date is less than or equal to 2 years; and from another 
+storage system if the associated date is greater than 2 years. 
+29. Induced Infringement. BTH has also actively induced, and continues to 
+induce, the infringement of at least claim 1 of the ‘866 Patent by actively inducing its 
+customers, including merchants and end-users to use BTH’s Online Banking system in an 
+infringing manner as described above. Upon information and belief, BTH has specifically 
+intended that its customers use its Online Banking system that infringe at least claim 1 of 
+the ‘866 Patent by, at a minimum, providing access to, support for, training and instructions 
+for, its Online Banking system to its customers to enable them to infringe at least claim 1 of 
+the ‘866 Patent, as described above. Even where performance of the steps required to infringe 
+at least claim 1 of the ‘866 Patent is accomplished by BTH and BTH’s customer jointly, 
+BTH’s actions have solely caused all of the steps to be performed. 
+30. Mirror Imaging is entitled to recover damages adequate to compensate it for 
+such infringement in an amount no less than a reasonable royalty under 35 U.S.C. § 284.  
+31. Mirror Imaging will continue to be injured, and thereby caused irreparable 
+harm, unless and until this Court enters an injunction prohibiting further infringement. 
+ 
+COUNT II: INFRINGEMENT OF THE ‘118 PATENT 
+32. Mirror Imaging incorporates the above paragraphs herein by reference. 
+33. BTH has been and continues to directly infringe at least claim 1 of the ‘118 
+Patent in this District and elsewhere in the United States, by providing a system, for 
+example BTH’s Online Banking system, that performs the steps for a financial institution to 
+obtain electronically-stored financial documents having a specific document parameter is 
+disclosed. 
+34. BTH performs a method of obtaining an electronically-stored financial 
+document from a first storage system remotely-located from a second storage system wherein 
+the first and second storage systems each include a plurality of financial documents stored 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 7 of 15 PageID #:  7
+therein and wherein each of the financial documents is associated with at least one specific 
+document parameter. For example, BTH’s Online Banking system stores online statements 
+and deposited check images in remotely located, separate storage systems based on the date 
+associated with that document. See, e.g.,  
+https://www.bthbank.com/personal/checking/mobile-check-deposit.html. 
+35. BTH performs the step of storing a plurality of financial documents in a first 
+fixed medium at the first storage system when the specific document parameter of the 
+financial document is greater than a predetermined parameter. BTH further performs the 
+step of storing a plurality of financial documents in a second fixed medium at the second 
+storage system when the specific document parameter of the financial document is less than 
+or equal to the predetermined parameter. For example, BTH’s Online Banking system stores 
+online statements and check images, and specifically stores online statements, for up to 2 
+years in a storage system that are retrievable online. After 2 years, online statements are 
+transferred to another storage system for archival and retrieval purposes for up to 7 years.  
+36. BTH performs the step of utilizing a computer terminal connected to the first 
+and second storage systems through a processing unit. BTH further performs the step of 
+submitting a request for at least one of the stored financial documents into the computer 
+terminal. For example, BTH’s Online Banking system has a computer terminal connected to 
+its storage systems through a processing unit that store online statements, and this 
+computer terminal allows the requester to retrieve online statements. Specifically, BTH’s 
+Online Banking requester submits a request for online statements, into the computer 
+terminal, by entering the desired date range. 
+37. BTH performs the step of comparing the specific document parameter of the 
+requested financial document to the predetermined parameter to determine if the specific 
+document parameter is greater than, less than, or equal to the predetermined parameter 
+after the request has been inputted. For example, BTH’s Online Banking system compares 
+the date range submitted by the requester to a predetermined date, for example 2 years of 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 8 of 15 PageID #:  8
+access to online statements, and the online statement is either retrieved for the requester or 
+the requester receives notice that customer service must be contacted to request an online 
+statement from equal to or greater than 2 years ago. 
+38. BTH performs the step of automatically accessing the first storage system 
+through the processing unit when the specific document parameter is greater than the 
+predetermined parameter and automatically accessing the second storage system through 
+the processing unit when the specific document parameter is less than or equal to the 
+predetermined parameter. BTH further performs the step of retrieving the requested 
+financial document, as defined by the inputted request, in the first fixed medium when the 
+specific document parameter is greater than the predetermined parameter and in the second 
+fixed medium when a specific document parameter of the financial document is less than or 
+equal to the predetermined parameter. For example, BTH’s Online Banking system’s 
+processing unit automatically accesses, and then retrieves, online statements from one 
+storage system if the associated date is less than or equal to 2 years; and from another 
+storage system if the associated date is greater than 2 years. 
+39. Induced Infringement. BTH has also actively induced, and continues to 
+induce, the infringement of at least claim 1 of the ‘118 Patent by actively inducing its 
+customers, including merchants and end-users to use BTH's Online Banking system in an 
+infringing manner as described above. Upon information and belief, BTH has specifically 
+intended that its customers use its Online Banking system that infringe at least claim 1 of 
+the ‘118 Patent by, at a minimum, providing access to, support for, training and instructions 
+for, its Online Banking system to its customers to enable them to infringe at least claim 1 of 
+the ‘118 Patent, as described above. Even where performance of the steps required to infringe 
+at least claim 1 of the ‘118 Patent is accomplished by BTH and BTH’s customer jointly, 
+BTH’s actions have solely caused all of the steps to be performed. 
+40. Mirror Imaging is entitled to recover damages adequate to compensate it for 
+such infringement in an amount no less than a reasonable royalty under 35 U.S.C. § 284.  
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 9 of 15 PageID #:  9
+41. Mirror Imaging will continue to be injured, and thereby caused irreparable 
+harm, unless and until this Court enters an injunction prohibiting further infringement. 
+ 
+COUNT III: INFRINGEMENT OF THE ‘067 PATENT 
+42. Mirror Imaging incorporates the above paragraphs herein by reference. 
+43. BTH has been and continues to directly infringe at least claim 53 of the ‘067 
+Patent in this District and elsewhere in the United States, by providing a system, for 
+example BTH’s Online Banking system, that performs the steps for a financial institution to 
+obtain electronically-stored financial documents having a specific document parameter is 
+disclosed. 
+44. BTH performs a method for obtaining an electronically-stored financial 
+document from one of a first storage system and a second storage system with the first and 
+second storage systems being different from each other wherein the first and second storage 
+systems each include a plurality of financial documents stored therein and wherein each of 
+the financial documents is stored as an electronic image and is associated with at least one 
+specific document parameter. For example, BTH’s Online Banking system stores online 
+statements and deposited check images in separate storage systems based on the date 
+associated with that document. See, e.g.,  
+https://www.bthbank.com/personal/checking/mobile-check-deposit.html. 
+45. BTH performs the step of storing a plurality of financial documents in a first 
+fixed medium at the first storage system when the specific document parameter of the 
+financial document is less than a predetermined parameter. BTH further performs the step 
+of storing a plurality of financial documents in a second fixed medium at the second storage 
+system when the specific document parameter of the financial document is greater than or 
+equal to the predetermined parameter. For example, BTH’s Online Banking system stores 
+online statements and check images, and specifically stores online statements for up to 2 
+years in a storage system that is retrievable online. After 2 years, online statements are 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 10 of 15 PageID #:  10
+transferred to another storage system for archival and retrieval purposes for up to 7 years. 
+46. BTH performs the step of utilizing a processing unit connected to the first 
+and second storage systems. BTH further performs the step of receiving a request for one of 
+the stored financial documents through the processing unit. For example, BTH’s Online 
+Banking system has a processing unit connected to its storage systems that store online 
+statements, and this processing unit allows customers retrieval of online statements. 
+Specifically, BTH’s Online Banking system receives a request for online statements, to the 
+processing unit. 
+47. BTH performs the step of comparing the specific document parameter of the 
+requested financial document to the predetermined parameter to determine if the specific 
+document parameter is greater than, less than, or equal to the predetermined parameter 
+after the request has been received. For example, BTH’s Online Banking system compares 
+the date range of the received request to a predetermined date, for example 2 years of access 
+to online statements, and the online statement is either retrieved for the requester or the 
+requester receives notification that customer service needs to be contacted to request an 
+online statement from equal to or greater than 2 years ago. 
+48. BTH performs the step of accessing the first storage system when the specific 
+document parameter is less than the predetermined parameter and accessing the second 
+storage system when the specific document parameter is greater than or equal to the 
+predetermined parameter. BTH further performs the step of retrieving the requested 
+financial document, as defined by the received request, in the first fixed medium when the 
+specific document parameter is less than the predetermined parameter and in the second 
+fixed medium when a specific document parameter of the financial document is greater than 
+or equal to the predetermined parameter. For example, BTH’s Online Banking systems 
+processing unit accesses and then retrieves online statements from one storage system if the 
+associated date is less than 2 years and one day; and from another storage system if the 
+associated date is greater than or equal to 2 years and one day. 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 11 of 15 PageID #:  11
+49. Induced Infringement. BTH has also actively induced, and continues to 
+induce, the infringement of at least claim 53 of the ‘067 Patent by actively inducing its 
+customers, including merchants and end-users to use BTH’s Online Banking system in an 
+infringing manner as described above. Upon information and belief, BTH has specifically 
+intended that its customers use its Online Banking system that infringe at least claim 53 of 
+the ‘067 Patent by, at a minimum, providing access to, support for, training and instructions 
+for, its Online Banking system to its customers to enable them to infringe at least claim 53 of 
+the ‘067 Patent, as described above.  
+50. Mirror Imaging is entitled to recover damages adequate to compensate it for 
+such infringement in an amount no less than a reasonable royalty under 35 U.S.C. § 284.  
+51. Mirror Imaging will continue to be injured, and thereby caused irreparable 
+harm, unless and until this Court enters an injunction prohibiting further infringement. 
+ 
+COUNT IV: INFRINGEMENT OF THE ‘612 PATENT 
+52. Mirror Imaging incorporates the above paragraphs herein by reference. 
+53. BTH has been and continues to directly infringe at least claim 1 of the ‘612 
+Patent in this District and elsewhere in the United States, by providing a system, for 
+example BTH’s Online Banking system, that performs the steps for a financial institution to 
+obtain electronically-stored financial documents having a specific document parameter is 
+disclosed. 
+54.  BTH performs a method for accessing an electronically-stored financial 
+document from one of a first storage system and a second storage system with the first and 
+second storage systems being different from each other wherein the first and second storage 
+systems each include a plurality of financial documents stored therein and wherein each of 
+the financial documents has an electronic image and is associated with at least one specific 
+document parameter. For example, BTH’s Online Banking system stores online statements 
+and deposited check images in separate storage systems based on the date associated with 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 12 of 15 PageID #:  12
+that document. See, e.g   https://www.bthbank.com/personal/checking/mobile-check-
+deposit.html. 
+55. BTH performs the step of storing a plurality of images of the financial 
+documents in a first fixed medium at the first storage system when the specific document 
+parameter of the financial document is greater than a predetermined parameter, wherein the 
+predetermined parameter includes a pre-selected numerical record date. BTH further 
+performs the step of storing a plurality of financial documents in a second fixed medium at 
+the second storage system when the specific document parameter of the financial document 
+is less than or equal to the predetermined parameter. For example, BTH’s Online Banking 
+system stores online statements and check images, and specifically stores online statements 
+for up to 2 years in one storage system that is retrievable. After 2 years, online statements 
+are transferred to another storage system for archival and retrieval purposes for up to 7 
+years. 
+56. BTH performs the step of utilizing a processor that has access to the first and 
+second storage systems. BTH further performs the step of receiving a request for an image of 
+one of the stored financial documents into the processor. For example, BTH’s Online Banking 
+system has a processor that has access to storage systems that store online statements, and 
+this processor receives requests for specific online statements. Specifically, BTH’s Online 
+Banking system receives a request, through the processor, corresponding to a specific date 
+range, and for specific online statements. 
+57. BTH performs the step of comparing the specific document parameter of the 
+requested financial document to the predetermined parameter to determine if the specific 
+document parameter is greater than, less than, or equal to the predetermined parameter 
+after the request has been received, wherein the specific document parameter of the financial 
+document is a particular numerical sequence associated with the specific document 
+parameter, and wherein the particular numerical sequence of the financial document 
+includes a record date of the financial document. For example, BTH’s Online Banking system 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 13 of 15 PageID #:  13
+compares the date range of the received request to a predetermined date, for example 2 years 
+of access for online statements, and the online statement is either retrieved for the requester 
+or the requester receives notification that customer service needs to be contacted to request 
+an online statement from equal to or greater than 2 years. 
+58. BTH performs the step of accessing the first storage system when the specific 
+document parameter is greater than the predetermined parameter and accessing the second 
+storage system when the specific document parameter is less than or equal to the 
+predetermined parameter. BTH further performs the step of retrieving the image of the 
+requested financial document from the accessed storage system as defined by the received 
+request. For example, BTH’s Online Banking system’s processor accesses and then retrieves 
+online statements from one storage system if the associated date is less than or equal to 2 
+years; and from another storage system if the associated date is greater than 2 years. 
+59. Induced Infringement. BTH has also actively induced, and continues to 
+induce, the infringement of at least claim 1 of the ‘612 Patent by actively inducing its 
+customers, including merchants and end-users to use BTH's Online Banking system in an 
+infringing manner as described above. Upon information and belief, BTH has specifically 
+intended that its customers use its Online Banking system that infringe at least claim 1 of 
+the ‘612 Patent by, at a minimum, providing access to, support for, training and instructions 
+for, its Online Banking system to its customers to enable them to infringe at least claim 1 of 
+the ‘612 Patent, as described above.  
+60. Mirror Imaging is entitled to recover damages adequate to compensate it for 
+such infringement in an amount no less than a reasonable royalty under 35 U.S.C. § 284.  
+61. Mirror Imaging will continue to be injured, and thereby caused irreparable 
+harm, unless and until this Court enters an injunction prohibiting further infringement. 
+JURY DEMAND 
+62. Under Rule 38(b) of the Federal Rules of Civil Procedure, Mirror Imaging 
+respectfully requests a trial by jury on all issues so triable. 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 14 of 15 PageID #:  14
+PRAYER FOR RELIEF 
+ WHEREFORE, Mirror Imaging asks this Court to enter judgment against BTH, 
+granting the following relief: 
+A. A declaration that BTH has infringed the Patents-in-Suit; 
+B. An award of damages to compensate Mirror Imaging for BTH’s direct 
+infringement of the Patents-in-Suit; 
+C. An order that BTH and its officers, directors, agents, servants, employees, 
+successors, assigns, and all persons in active concert or participation with 
+them, be preliminarily and permanently enjoined from infringing the 
+Patents-in-Suit under 35 U.S.C. § 283; 
+D. An award of damages, including trebling of all damages, sufficient to remedy 
+BTH’s willful infringement of the Patents-in-Suit under 35 U.S.C. § 284; 
+E. A declaration that this case is exceptional, and an award to Mirror Imaging 
+of reasonable attorneys’ fees, expenses and costs under 35 U.S.C. § 285;  
+F. An award of prejudgment and post-judgment interest; and 
+G. Such other and relief as this Court or jury may deem proper and just. 
+ 
+Respectfully submitted,  
+ 
+ /s/ Isaac Rabicoff  
+ Counsel for Plaintiff 
+ 
+Isaac Rabicoff 
+RABICOFF LAW LLC 
+73 W Monroe St 
+Chicago, IL 60603 
+773.669.4590 
+isaac@rabilaw.com 
+Case 2:17-cv-00595   Document 1   Filed 08/22/17   Page 15 of 15 PageID #:  15

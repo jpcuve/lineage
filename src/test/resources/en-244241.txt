@@ -1,0 +1,229 @@
+47 F.Supp.2d 818
+James M. WELSH and Welsh Rock, Incorporated, Plaintiffs, 
+v. 
+ROCKMASTER EQUIPMENT MANUFACTURING, INC., Scott Hydraulics, Inc., Ray Jackson, Paul
+J. Scott, Spencer & Frank, and Jay M. Cantor, Defendants.
+No. 1:96-CV-142.
+United States District Court, E.D. Texas, Beaumont Division.
+March 26, 1999.
+Page 819
+COPYRIGHT MATERIAL OMITTED
+Page 820
+        J. Hoke Peacock II, Orgain, Bell & Tucker, Beaumont, TX, Robert Gerard Neal, Jr., Hemphill, TX, for
+plaintiff.
+        Curtis William Fenley, Jr., Fenley & Bate, Lufkin, TX, Gerald Wayne Riedmueller, Benckenstein,
+Norvell & Nathan, Beaumont, TX, for defendants Rockmaster, Scott Hydraulics, Jackson, Scott.
+        Iris Hefter Robinson, Magenheim, Bateman, Robinson, Wrotenberry & Helfand, Houston, TX, for
+defendants Spencer & Frank and Jay Canator.
+MEMORANDUM OPINION
+        COBB, District Judge.
+        The plaintiffs, James M. Welsh and Welsh Rock, Incorporated, have now filed their Second Motion for
+Summary Judgment on all issues before the court. This motion was filed February 18, 1999, almost eleven
+months after the court's memorandum opinion of March 31, 1998, which granted Welsh's application for
+temporary injunction and held that United States Patent No. 5,471,139 (the "139 patent") was invalid by
+reason of the provisions of the "on sale bar" or "public use" bar. Prior to the March, 1998, holding, this court
+held a three-day hearing, made findings of fact and conclusions of law. The facts were exhaustively presented
+at that hearing.
+        In plaintiff's second motion for summary judgment, plaintiffs seek summary judgment on all issues in1 
+their third amended original complaint. They seek a declaration on the invalidity, non-infringement, and
+unenforceability of the '139 patent (Count I) and recovery of money damages; Patent misuse (Count II);
+Breach of Contract (Count III), Violation of Texas Deceptive Trade Practices Act (Count IV); common law
+unfair competition (Count V), unjust enrichment (Count VI); constructive trust (Count VII); breach of duty
+and good faith and fair dealing (Count VIII); unfair competition, 15 U.S.C. § 1125(a) (Count IX); Federal
+Trademark dilution (Count X); trademark dilution under Texas Business & Commerce Code § 16.29 (Count
+XI); fraud in the Patent Office (Count XII); conspiracy to commit such fraud (Count XIII).
+        Without a trial on the merits, most of these counts growing out of the disputes between the various
+parties cannot so easily or summarily be disposed of by plaintiffs' motion pending before the court. However,
+some matters can be disposed of by the court at this time, and such ruling will be of aid to the court and
+parties to define, identify, and narrow the issues remaining before proceeding to a trial (or trials) on the
+merits by granting partial summary judgment and ruling on that portion of the plaintiffs' complaint seeking a
+declaratory judgment.
+        28 U.S.C. § 2201 provides:
+        ... any court of the United States, upon the filing of an appropriate pleading, may declare the rights and
+other legal relations of any interested party seeking such declaration, whether or not further relief is or could
+be sought.
+        This court has jurisdiction of this dispute by reason of the complete diversity between the parties, 28
+U.S.C. § 1332, and 28 U.S.C. § 1338(b) because this is a claim under the patent laws, 35 U.S.C. § 282 joined
+with an unfair competition claim. Additionally, subject matter jurisdiction exists under 28 U.S.C. § 1338(a)
+because this is a civil action arising under the United States Trademark Act, 15 U.S.C. § 1051 et seq., and
+relating to trademark infringement and unfair competition. Jurisdiction is also appropriate under the
+Declaratory Judgment Act, 28 U.S.C. § 2201.
+        Declaratory judgments can dispose of an entire controversy, or be of aid to the court in identifying,
+narrowing, and defining the issues and controversies remaining
+Page 821
+between the parties as to any remaining claims before the court, or in determining whether permanent
+injunctive relief can be granted. Such is the case here.
+Validity of the Patent-Declaratory Judgment (Count I)
+        After a full hearing on the sale bar portion of this case, the court unequivocally held the patent to be
+invalid. Specifically, the court found that the patent is invalid because of the "on sale bar" or the "public use"
+doctrine. The applicable statute, 35 U.S.C. § 102, states:
+        A person shall be entitled to a patent unless —
+        (b) the invention was patented or described in a printed publication in this or a foreign country or in
+public use or on sale in this country, more than one year prior to the date of application for patent in the
+United States.
+        In this case, the patent application was filed on May 25, 1993. Thus, the critical time and controlling
+question is whether the invention was "on sale" or in "public use" in this country before May 25, 1992.
+On Sale Bar
+         Scope of the Patent
+        In order to establish an on sale bar, the offered product must be shown to be the claimed invention, and
+this may be established by any relevant evidence, including memoranda, drawings, correspondence, and
+testimony of witnesses. 887 F.2d at 1060. Defendants state that the product allegedly sold didR.C.A. Corp., 
+not embody the claims of the '139 Patent since the invention disclosed in the '139 Patent is a system for
+crushing a wall of rock comprising a(a) a track hoe; (b) an articulating boom; and (c) a separate rotating rock
+cutter. Defendants argue that the invention embodied in the patent is a system containing three separate
+components.
+        Plaintiffs do not disagree that the components must work together as a system to achieve the desired
+result of mining glauconite in a commercially useful way. Plaintiffs, however, contend that the patent at issue
+in this case clearly did not contemplate for the invention to include a track hoe and boom already owned or
+acquired by the purchaser of the Rockmaster from another party, since the patent states that the cutter head
+should be suitable for use on any "well known" "standard" track hoe.
+        Both parties have proven the track hoe and the articulating boom were on sale before 1989. At that time,
+Welsh asked Ray Jackson of Scott Hydraulics to help him find and purchase a Mitsuimiike for use in his
+glauconite mine. Jackson was paid a consulting fee, and after locating one, Scott Hydraulics bought it, and
+then sold it and delivered it to Welsh. A track hoe and articulating boom nearly identical to the one used with
+the Rockmaster made up part of the Mitsuimiike machine. Additionally, all the invoices sent to Welsh by the
+Scott defendants listed the invention only as "the digger head." They never include a track hoe or articulating
+boom as part of the requested machine, nor did they ever provide them as part of the machine. Finally, the
+patent contemplated that any number of track hoes could be used with the digger head.
+        The track hoe and articulating boom used with the cutter head were not in any way new or attributable to
+the Scott Defendants. The helical rotating head to be installed upon the existing track hoe and boom is the
+only device that is in any manner a new "invention." Therefore, the patent could not have contemplated
+anything other than the Rockmaster "digger head as the embodiment of the thing for sale."
+         Application of the "On Sale" Bar Doctrine
+        Plaintiffs contend that every claim of the '139 Patent was invalid because a device incorporating the
+invention disclosed in the '139 Patent was sold by defendants to plaintiffs prior to May 25,
+Page 822
+1992. The issue of whether an invention is subject to the on sale bar is a question of law. Paragon Podiatry
+. Plaintiffs have the "burden of proving that984 F.2d 1182, 1186 (Fed.Cir. 1993) Lab., Inc. v. KLM Labs, Inc. 
+there was a definite sale or offer to sell more than one year before the application for the subject patent and
+that the subject matter of the sale or offer to sell fully anticipated the claimed invention or would have
+rendered the claimed invention obvious by its addition to the prior art." 887RCA Corp. v. Data Gen. Corp., 
+, citing , F.2d 1056, 1059 (Fed.Cir.1989) 816 F.2d 647, 656 (Fed.Cir.1987) UMC Elecs. Co. v. United States, 
+484 U.S. 1025, 108 S.Ct. 748, 98 L.Ed.2d 761 (1988) (citations omitted).cert. denied, 
+        To determine whether there was a sale or offer of sale, the court must consider the totality of the
+circumstances surrounding the offer of sale. . "ASee In re Brigance, 792 F.2d 1103, 1107-08 (Fed.Cir. 1986) 
+determination that an invention was on sale within the meaning of section 102(b) requires that `the claimed
+invention asserted to be on sale was operable, the complete invention claimed was embodied in or obvious in
+view of the device offered for sale, and the sale or offer was primarily for profit rather than for experimental
+purposes.'" .997 F.2d 1444, 1451 (Fed.Cir.1993) KeyStone Retaining Wall Systems, Inc. v. Westrock, Inc., 
+Therefore, plaintiffs, with the burden of proving the patent invalid, must show that the sales cannot be
+characterized as experimental use. Defendants do not deny that the Rockmaster was sold or "on sale," in the
+common usage of the term, prior to the critical date, but emphatically assert that their dealings with plaintiffs
+were solely for the purpose of experimenting with an perfecting the Rockmaster component.
+        To determine whether a use is experimental, a question of law, the totality of circumstances must be
+considered, including various objective indicia of experimentation surrounding the use. Lough v. Brunswick
+. Such objective indicia include the number of prototypes and86 F.3d 1113, 1120 (Fed. Cir.1996) Corp., 
+duration of testing, whether records of progress reports were made concerning the testing, existence of a
+secrecy agreement between the patentee an the party performing the testing, whether the patentee received
+compensation for the use of the invention, and the extent of the control the inventor maintains over the
+testing. Id.
+        Defendants contend that because the machines were constantly changing through various repairs and
+modifications, the sale the machine should be characterized as experimental use. Plaintiffs contend that,
+throughout the period from 1991 to 1993, the cutter head was utilized for the purpose of mining glauconite
+and not for the purpose of perfecting the invention. There were several changes and modifications made and
+different rotating drums developed to overcome problems discovered by Welsh in the use at his mining
+quarry. Welsh needed a machine which would be commercially useful for the purposes of producing
+glauconite in sufficient quantity and consistency. In order to accomplish these goals, the product would have
+to be durable enough and capable of operating close to twenty-four hours a day on a daily basis. As the
+machine developed various problems, it would be returned to Scott Hydraulics for repairs or modifications,
+and the mining would start once again.
+        Each repair, change, or modification was invoiced to Welsh, who paid Scott in full for the repairs and
+changes. The reverse of each invoice contained the language noted above which clearly established a
+seller/purchaser relationship between Scott and Welsh. The invoices did not purport to give Scott any right to
+test the machinery, nor did they absolve Scott from responsibility for defects as part of the natural process of
+experimentation of a new invention. No one at Scott Hydraulics ever initiated any changes, improvements,
+Page 823
+or new designs. All such actions were suggested by Welsh.
+        No formal reports were made as to experimentation and progress reports form plaintiffs to defendants
+were at best infrequent, if not altogether non-existent. There are no documents nor testimony reflecting that
+Welsh had any obligation to report anything about any of the three Rockmaster cutter/digger heads that were
+sold to him before May 25, 1992, to either Scott Hydraulics, or Paul Scott individually.
+        Plaintiffs and defendants did not enter into a secrecy agreement, written or oral. Plaintiffs were not in
+any way restricted in how they used or tested the machine. To the contrary, plaintiffs allowed some
+nonparties on the quarry premises while the Rockmasters were being used. Defendants filmed the machine in
+use and sent copies of the film to potential buyers before the critical date. Therefore, it is clear that neither
+party contemplated their relationship to include a secrecy agreement.
+        Plaintiffs paid for the machines, indicating that at least three sales were made before May 25, 1992. In
+fact, Scott Hydraulics' invoices for the machines and all the service performed were captioned, "SOLD to
+Jimmy Welsh" or labeled the transaction a "lease/purchase." On the second and third machine Scott
+Hydraulics made a profit of nearly $20,000 per machine over and above the actual cost of producing the
+machine.
+        Lastly, Scott retained absolutely no control over the machines after they were returned to Welsh. Control
+is a heavily weighted factor and deserves extra attention. at 1120. There are no documentsSee Lough, supra, 
+reflecting that there were any restrictions on plaintiffs' use of the three Rockmaster cutter/digger heads sold to
+them by Scott Hydraulics. Furthermore, Mr. Scott admitted that all uses of the machine were maintained
+under the control of plaintiffs. This admission was made in defendants' response to plaintiffs' motion for
+summary judgment, where defendants stated that "[n]o one else [other than plaintiffs] utilized the machine
+and all uses were maintained in the control of plaintiffs (sic) property." Additionally, there is no evidence that
+any repairs were made at Scott's request. In fact, Scott testified that neither he nor anyone at Scott Hydraulics
+retained any control over the three machines sold to Welsh before May 25, 1992. AS the Federal Circuit
+stated in "[I]f the inventor has no control over the alleged experiments, he is not experimenting. If heLough, 
+does not inquire about the testing or receive reports concerning the results, similarly, he is not
+experimenting." 86 F.3d at 1120.
+        Defendants point out that the Federal Circuit has stated, "[t]he general rule is that the on sale bar starts to
+accrue when a completed invention is offered for sale." 98 F.3d at 1324, citing Seal-Flex, Baker Oil Tools,
+. In other words, defendants argue that because828 F.2d 1558, 1563 (Fed.Cir.1987) Inc. v. Geo. Vann, Inc., 
+the invention was neither complete nor known to work for its intended purpose when plaintiffs were using the
+Rockmaster machines, the use must be characterized as experimental use and any on sale bar contentions
+must be dismissed. 816 F.2d at 657.See UMC Elecs., 
+        The Scott defendants offered Rockmasters for sale to numerous third parties with the assurance that the
+first two machines were "performing for 18 months with minor repairs" and in "operation" and had "obtained
+the quality demanded by Paul." At the very bare minimum, the third Rockmaster machine, sold to Welsh on
+May 3, 1992, must be considered complete and known to work for its intended use. It was the final version
+offered for sale to other buyers and there is no evidence that any further modifications were made to insure
+that the machine was operable for its intended purpose. Furthermore, there is no evidence that the purpose of
+the transfer of the third machine from Scott to Welsh was for any reason
+Page 824
+other than for Scott to make a sizable profit and for Welsh to have an extra and improved component. Over2 
+the course of the first three years of their relationship until the critical date, the Scott defendants did not make
+any effort to insure that the machines were operable to serve their intended purposes, other than to make
+repairs and changes requested and paid for by Welsh.
+        Based on these findings, this court concludes that the Rockmaster was operable for its intended function
+prior to the critical date. It further concludes that the claimed invention was embodied in the Rockmaster
+digger head. Finally, it finds that the primary purpose for the sales and offers to sell the Rockmaster was for
+profit and not for experimentation. Therefore, this court concludes that the "on sale" bar applies to this case. 
+.107 F.3d 1534, 1540 (Fed.Cir. 1997) See Kolmes v. World Fibers Corp., 
+Public Use Argument
+        Plaintiffs also argue that the patent violates § 102(b) because it was in the public domain more than one
+year prior to the date the patent application was filed. Public use has been defined as any use of that invention
+by a person other than the inventor who is under no limitation, restriction, or obligation of secrecy to the
+inventor. , citing 840 F.2d 902, 906 (Fed.Cir.1988) Grain Processing Corp. v. American-Maize Prods. Co., 
+.714 F.2d 1127, 1134 (Fed.Cir.1983) In Re Smith, 
+        In the present case, one of the defendants, Mr. Scott, was named as the inventor of the patent.
+Defendants admitted in testimony that once the cutter heads were turned over to Welsh, they had no control
+over the components and never placed any restrictions or limitations on his use of the machines. There is no
+evidence that Welsh had any duty to report back to the Scott defendants or to use the machine in a limited or
+restricted way. Welsh used the cutter heads in his quarry to mine glauconite free and clear of any restrictions.
+Furthermore, there was no secrecy agreement between any of the parties, written or oral. In fact, the use of
+the machine was somewhat open to public view. While Welsh admitted to not allowing competitors to inure
+to the benefit of observing his brainchild at work, Welsh did suggest that third parties actually saw the
+machine at work in his quarry before the critical date of May 25, 1992. Defendants even sent copies of a
+videotape of the machine at work to potential buyers prior to the critical date.
+        It is clear that Welsh's use of the Rockmaster in his quarry qualifies as public use under the definition
+given by the Federal Circuit in The Federal Circuit, however, also has stated, "If aGrain Processing, supra. 
+use is experimental, it is not, as a matter of law, a public use within the meaning of section 102." Lough,
+at 1120. The test for experimental use in "public use" cases is identical to the one used in "on sale" barsupra, 
+cases. Defendants contend that the alleged public use was for experimentation.
+        In light of this court's findings and conclusions in its previous memorandum opinion, defendants'
+argument is not persuasive. No secrecy agreement existed; no records or progress reports were made
+concerning the experimentation; Paul Scott, the patentee and named inventor, richly profited form the sale;
+and Scott retained no control over the machine after the sale. Based on these facts, this court concludes the
+Rockmaster machine was in public use prior to the critical date of May 25, 1992.
+Patent is Invalid
+        Plaintiffs have clearly established that the Rockmaster was on sale and in public use for well in excess
+of one year before Scott applied for a patent on May 25, 1993.
+Page 825
+35 U.S.C. § 102 therefore invalidates the '139 patent.
+        For these reasons the relief sought by plaintiffs in Count I is appropriate at this time. Plaintiffs' motion
+for summary judgment on the remaining Counts cannot be granted absent a trial, and therefore the plaintiff's
+second motion for summary judgment as to Counts II through III will be denied at this time..
+        Based on the facts, this court holds that the "on sale" bar and the "public use" bar apply to the '139
+Patent. Therefore, the '139 patent is declared invalid, and the plaintiff's motion for summary judgment under
+the Declaratory Judgment Act, 28 U.S.C. § 2201 will be entered.
+---------------
+Notes:
+1. The Plaintiff's first motion for summary judgment was filed prior to the hearing, and was supported only by affidavit and
+deposition evidence. The court did not have the benefit of all the testimony and exhibits presented at the injunction hearing.
+2. Scott Hydraulics built the first machine at a cost of $47,190. Scott charged Welsh $65,000 for the third model, the same price for
+which it was offered to outside buyers. Scott was clearly motivated by profit and showed no interest in the testing of the machines.
+---------------

@@ -1,0 +1,328 @@
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 1 of 13 PageID #:  1
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+TEXARKANA DIVISION 
+RONALD A. KATZ TECHNOLOGY 
+LICENSING, L.P., 
+Plaintiff, 
+V. 
+GENESYS CONFERENCING, INC.; 
+GLOBAL CROSSING 
+TELECOMMUNICATIONS, INC. D/B/A 
+GLOBAL CROSSING CONFERENCING; 
+and PREMIERE GLOBAL SERVICES, INC. 
+Defendants. 
+CASE NO.. 5~ 6 C f/ 
+Jury Trial Deman ed 1 87 !14 
+PLAINTIFF RONALD A. KATZ TECHNOLOGY LICENSING, L.P.'S 
+COMPLAINT FOR PATENT INFRINGEMENT 
+Plaintiff, Ronald A. Katz Technology Licensing, L.P. ("Katz Technology Licensing"), by 
+counsel, alleges as follows: 
+THE PARTIES 
+1. Plaintiff Katz Technology Licensing is a limited partnership organized under the 
+laws of the State of California, and having a principal place of business at 9220 Sunset Blvd. 
+#315, Los Angeles, California 90069. 
+2. On information and belief, Defendant Genesys Conferencing, Inc. ("Genesys") is 
+a wholly-owned subsidiary of Genesys S .. A., maintaining its principal place of business at 8020 
+Towers Crescent Dr.., Vienna, VA 22182. 
+505993 v2/SD 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 2 of 13 PageID #:  2
+3. On information and belief, Defendant Global Crossing Telecommunications, Inc. 
+d/b/a Global Crossing Conferencing ("Global Crossing") is a telecommunications company 
+maintaining its principal place ofbusiness at 1499 W 121st Ave, Denver, CO 80234-2076 .. 
+4. On information and belief, Defendant Premiere Global Services, Inc. ("Premiere 
+Global Services") is a global outsource provider of business process solutions maintaining its 
+principal place of business at 3399 Peachtree Road NE, The Lenox Building, Suite 700, Atlanta, 
+Georgia 30326. 
+JURISDICTION AND VENUE 
+5.. This is a civil action for patent infringement arising under the United States patent 
+statutes, 35 US .. C. § 1 et seq. 
+6. This Court has jurisdiction over the subject matter of this action under 28 U.S.C. 
+§§ 1331 and 1338(a). 
+7. Genesys is subject to this Court's personal jurisdiction because it does and has 
+done substantial business in this judicial district, including: (i) operating infringing automated 
+telephone meeting centers and conferencing systems that allow their customers, including 
+customers within this State and in this District, to perform meeting and/or calling functions over 
+the telephone; and/or (ii) regularly doing or soliciting business, engaging in other persistent 
+courses of conduct, and/or deriving substantial revenue from services provided to individuals in 
+this State and in this District. 
+8.. Defendant Global Crossing is subject to this Court's personaljurisdiction because 
+it does and has done substantial business in this judicial district, including: (i) operating 
+infringing automated telephone meeting centers, conferencing systems and calling card systems 
+that allow their customers, including customers within this State and in this District, to perform 
+505993 v2/SD 2 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 3 of 13 PageID #:  3
+meeting and/or calling functions over the telephone; and/or (ii) regularly doing or soliciting 
+business, engaging in other persistent courses of conduct, and/or deriving substantial revenue 
+from services provided to individuals in this State and in this District 
+9.. Defendant Premiere Global Services is subject to this Court's personal 
+jurisdiction because it does and has done substantial business in this judicial district, including: 
+(i) operating infringing automated telephone meeting centers and conferencing systems that 
+allow their customers, including customers within this State and in this District, to perform 
+meeting and/or calling functions over the telephone; and/or (ii) regularly doing or soliciting 
+business, engaging in other persistent courses of conduct, and/or deriving substantial revenue 
+from services provided to individuals in this State and in this District. 
+10. 
+1400(b ) .. 
+Venue is proper in this judicial district under 28 U.S.C. §§ 1391(b)-(c) and 
+BACKGROUND FACTS 
+11. Ronald A. Katz ("Mr. Katz"), founder of Katz Technology Licensing, is the sole 
+inventor of each of the patents in suit. Mr. Katz has been widely recognized as one of the most 
+prolific and successful inventors of our time, and his inventions over the last forty-plus years 
+have been utilized by literally millions of people. 
+12. In 1961, Mr. Katz co-founded Telecredit Inc. ("Telecredit"), the first company to 
+provide online, real-time credit authorization, allowing merchants to verify checks over the 
+telephone. Further innovations from Telecredit include the first online, real-time, point-of-sale 
+credit verification terminal, which enabled merchants to verify checks without requiring the 
+assistance of a live operator, and the first device that used and updated magnetically-encoded 
+505993 v2/SD 3 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 4 of 13 PageID #:  4
+cards in automated teller machines. Multiple patents issued from these innovations, including 
+patents co-invented by Mr. Katz. 
+13.. Mr .. Katz's inventions have not been limited to telephonic check verification .. 
+Indeed, Mr. Katz is responsible for advancements in many fields of technology. Among his most 
+prominent and well-known innovations are those in the field of interactive call processing .. Mr. 
+Katz's inventions in that field are directed to the integration of telephonic systems with computer 
+databases and live operator call centers to provide interactive call processing services .. 
+14.. The first of Mr. Katz's interactive call processing patents issued on December 20, 
+1988. More than fifty U.S. patents have issued to Mr. Katz for his inventions in the interactive 
+call processing field, including the patents-in-suit which are in the particular field of multiple 
+party telephone conferencing systems. 
+15. In 1988, Mr. Katz partnered with American Express to establish FDR Interactive 
+Technologies, later renamed Call Interactive, to provide interactive call processing services 
+based on Mr .. Katz's inventions. The American Express business unit involved in this joint 
+venture later became known as First Data. 
+16. Mr. Katz sold his interest in Call Interactive to American Express in 1989 but 
+continued to provide advisory services to Call Interactive until 1992. American Express later 
+spun off the First Data business unit into a separate corporation, and with that new entity went 
+Mr. Katz's interactive call processing patents and the Call Interactive call processing business. 
+The former Call Interactive, now known as First Data Voice Services, continues to provide call 
+processing solutions today. 
+17.. In 1994, Mr. Katz formed Katz Technology Licensing, which acquired the rights 
+to the entire interactive call processing patent portfolio, including the rights to each of the 
+505993 v2/SD 4 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 5 of 13 PageID #:  5
+patents-in-suit (with the exception of U.S. Patent No. 6,157,711, which issued on December 5, 
+2000, with Katz Technology Licensing as assignee), from First Data, the owner of all of the Katz 
+interactive call processing patents at that time. 
+18. The marketplace has clearly recognized the value of Mr. Katz's inventions .. 
+Indeed, over 100 companies, including in some instances direct competitors of the defendants, 
+have licensed the patents-in-suit. Licensees include IBM, Hewlett-Packard, Bank of America, 
+JPMorgan Chase, Wells Fargo, HSBC, AT&T, Verizon, Sprint, Microsoft, Delta Airlines, 
+Merck, Sears, and Home Shopping Network. 
+19.. Each of the defendants employs the inventions of certain of the patents-in-suit. 
+Katz Technology Licensing, through its licensing arm A2D, L.P., has repeatedly attempted to 
+engage each defendant in licensing negotiations, but to date, none of the defendants have agreed 
+to take a license to any of the patents-in-suit. 
+THE PATENTS-IN-SUIT 
+20. On July 3, 1990, the United States Patent and Trademark Office duly and legally 
+issued United States Patent No. 4939773 (the "'773 Patent"), entitled "Multiple Party Telephone 
+Control System," to Ronald A. Katz, sole inventor .. 
+2L On January 22, 1991, the United States Patent and Trademark Office duly and 
+legally issued United States Patent No .. 4987590 (the "'590 Patent"), entitled "Multiple Party 
+Telephone Control System," to Ronald A. Katz, sole inventor. 
+22. On February 25, 1992, the United States Patent and Trademark Office duly and 
+legally issued United States Patent No. 5091933 (the "'933 Patent"), entitled "Multiple Party 
+Telephone Control System," to Ronald A. Katz, sole inventor .. 
+505993 v2/SD 5 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 6 of 13 PageID #:  6
+23. On March 22, 1994, the United States Patent and Trademark Office duly and 
+legally issued United States Patent No. 5297197 (the '" 197 Patent"), entitled "Multiple Party 
+Telephone Control System," to Ronald A. Katz, sole inventor. 
+24. On August 15, 1995, the United States Patent and Trademark Office duly and 
+legally issued United States Patent No. 5442688 (the "'688 Patent"), entitled "Multiple Party 
+Telephone Control System," to Ronald A. Katz, sole inventor. 
+25. On December 5, 2000, the United States Patent and Trademark Office duly and 
+legally issued United States Patent No. 6157711 (the "'711 Patent"), entitled "Multiple Party 
+Telephone Control System," to Ronald A. Katz, sole inventor. 
+COUNT I 
+(PATENT INFRINGEMENT BY GENESYS) 
+26.. Katz Technology Licensing realleges and incorporates by reference paragraphs 
+1-25 of this Complaint as if fully set forth herein. 
+27. Katz Technology Licensing is the sole holder of the entire right, title, and interest 
+in the '773, '590, '933, '197, '688 and '711 Patents (hereinafter "the Patents-in-Suit"). 
+28. Defendant Genesys operates automated telephone conferencing systems that 
+enable its customers to perform multiple-party meetings and various other functions over the 
+telephone. 
+29. Defendant Genesys has directly and contributorily infringed, and induced others 
+to infringe, one or more claims of each of the Patents-in-Suit by making, using, offering to sell, 
+and/or selling within the United States automated multiple-party telephone conferencing 
+systems. 
+30.. Defendant Genesys continues to infringe, contributorily infringe, and induce 
+others to infringe the Patents-in-Suit. 
+505993 v2/SD 6 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 7 of 13 PageID #:  7
+31. Defendant Genesys's infhngement ofthe Patents-in-Suit has been willful. 
+32.. Katz Technology Licensing has been, and continues to be, damaged and 
+irreparably harmed by Defendant Genesys's infringement, which will continue unless Defendant 
+Genesys is enjoined by this Court. 
+COUNT II 
+(PATENT INFRINGEMENT BY GLOBAL CROSSING) 
+33.. Katz Technology Licensing realleges and incorporates by reference paragraphs 
+1-32 as if fully set forth herein. 
+34. Katz Technology Licensing is the sole holder of the entire right, title, and interest 
+in the Patents-in-Suit 
+35. Defendant Global Crossing operates automated telephone conferencing systems 
+that enable its customers to perform multiple-party meetings and various other functions over the 
+telephone, as well as calling-card services that enable its customers to make toll calls billed to a 
+calling card account 
+36. Defendant Global Crossing has directly and contributorily infringed, and induced 
+others to infringe, one or more claims of each of the Patents-in-Suit by making, using, offering to 
+sell, and/or selling within the United States automated multiple-party telephone conferencing 
+systems, and calling card services. 
+37.. Defendant Global Crossing continues to infringe, contributorily infringe, and 
+induce others to infringe the Patents-in-Suit. 
+38.. Defendant Global Crossing's infringement of the Patents-in-Suit has been willful. 
+39. Katz Technology Licensing has been, and continues to be, damaged and 
+irreparably harmed by Defendant Global Crossing's infringement, which will continue unless 
+Defendant Global Crossing is enjoined by this Court. 
+505993 v2/SD 7 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 8 of 13 PageID #:  8
+COUNT III 
+(PATENT INFRINGEMENT BY PREMIERE GLOBAL SERVICES) 
+40. Katz Technology Licensing realleges and incorporates by reference paragraphs 
+1-39 as if fully set forth herein. 
+41. Katz Technology Licensing is the sole holder of the entire right, title, and interest 
+in the Patents-in-Suit. 
+42. Defendant Premiere Global Services operates automated telephone conferencing 
+systems that enable its customers to perform multiple-party meetings and various other functions 
+over the telephone. 
+43.. Defendant Premiere Global Services has directly and contributorily infringed, and 
+induced others to infringe, one or more claims of each of the Patents-in-Suit by making, using, 
+offering to sell, and/or selling within the United States automated multiple-party telephone 
+conferencing systems .. 
+44.. Defendant Premiere Global Services continues to infringe, contributorily infringe, 
+and induce others to infringe the Patents-in-Suit. 
+45.. Defendant Premiere Global Services's infringement of the Patents-in-Suit has 
+been willful. 
+46. Katz Technology Licensing has been, and continues to be, damaged and 
+ineparably harmed by Defendant Premiere Global Services's infringement, which will continue 
+unless Defendant Premiere Global Services is enjoined by this Court. 
+REQUEST FOR RELIEF 
+WHEREFORE, Plaintiff Katz Technology Licensing respectfully requests the following 
+relief: 
+A. A judgment holding Genesys liable for infringement of the Patents-in-Suit; 
+505993 v2/SD 8 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 9 of 13 PageID #:  9
+B. A permanent injunction against Genesys, its officers, agents, servants, employees, 
+attorneys, parent and subsidiary corporations, assigns and successors in interest, and those 
+persons in active concert or participation with them, enjoining them from continued acts of 
+infringement of the Patents-in-Suit; 
+C. An accounting for damages resulting from Genesys's infringement of the Patents-
+in-Suit, together with pre-judgment and post-judgment interest; 
+D.. A judgment holding that Genesys's infringement of the Patents-in-Suit is willful, 
+and a trebling of damages pursuant to 3.5 U.S.C. § 284; 
+E. A judgment holding Defendant Global Crossing liable for infringement of the 
+Patents-in-Suit; 
+F. A permanent injunction against Defendant Global Crossing, its officers, agents, 
+servants, employees, attorneys, parent and subsidiary corporations, assigns and successors in 
+interest, and those persons in active concert or participation with them, enjoining them from 
+continued acts of infringement of the Patents-in-Suit; 
+G. An accounting for damages resulting from Defendant Global Crossing's 
+infringement of the Patents-in-Suit, together with pre-judgment and post~judgment interest; 
+H. A judgment holding Defendant Global Crossing's infringement of the Patents-in-
+Suit is willful, and a trebling of damages pursuant to 35 US.C. § 284; 
+L A judgment holding Defendant Premiere Global Services liable for infringement 
+of the Patents-in-Suit; 
+J. A permanent injunction against Defendant Premiere Global Services, its officers, 
+agents, servants, employees, attorneys, parent and subsidiary corporations, assigns and 
+505993 v2/SD 9 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 10 of 13 PageID #:  10
+successors in interest, and those persons in active concert or participation with them, enjoining 
+them from continued acts of infringement of the Patents-in-Suit; 
+K An accounting for damages resulting from Defendant Premiere Global Services's 
+infringement of the Patents-in-Suit, together with pre-judgment and post-judgment interest; 
+L. A judgment holding that Defendant Premiere Global Services's infringement of 
+the Patents-in-Suit is willful, and a trebling of damages pursuant to 35 U.S. C. § 284; 
+M. A judgment holding this Action an exceptional case, and an award to Plaintiff 
+Katz Technology Licensing for its attorneys' fees and costs pursuant to 35 U.S.C. § 285; and 
+N. Such other relief as the Court deems just and equitable .. 
+505993 v2/SD 10 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 11 of 13 PageID #:  11
+Dated: August U , 2006 
+505993 v2/SD 
+Respectfully submitted, 
+By: /s/ Damon M. Young~ 
+Damon M. Young 
+Lead Attorney 
+State Bar No. 22176700 
+dmyoung64@aol.com 
+YOUNG PICKETT & LEE 
+4122 Texas Boulevard 
+P.O. Box 1897 
+Texarkana, TX 75504-1897 
+Telephone: (903) 794-1303 
+Facsimile: (903) 792-5098 
+Of Counsel: 
+Stephen C. Neal 
+nealsc@cooley .com 
+Ricardo Rodriguez 
+rr@cooley.com 
+Timothy S. Teter 
+teterts@cooley .com 
+COOLEY GODW ARD LLP 
+Five Palo Alto Square 
+3000 El Camino Real 
+Palo Alto, CA 94306-2155 
+Telephone: (650) 843-5000 
+Facsimile: (650) 857-0663 
+Frank V. Pietrantonio 
+fpietrantonio@cooley.com 
+Jonathan G. Graves 
+j graves@cooley.com 
+COOLEY GODWARD LLP 
+One Freedom Square 
+11951 Freedom Drive 
+Reston, VA 20190-5656 
+Telephone: (703) 456-8000 
+Facsimile: (703) 456-8100 
+Attorneys for Plaintiff 
+Ronald A. Katz Technology Licensing, L.P. 
+11 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 12 of 13 PageID #:  12
+DEMAND FOR JURY TRIAL 
+Pursuant to Federal Rule of Civil Procedure 38, Plaintiff Ronald A. Katz Technology 
+Licensing, L.P. hereby demands trial by jury. 
+505993 v2/SD 12 
+Case 5:06-cv-00187-DF   Document 1    Filed 08/21/06   Page 13 of 13 PageID #:  13
+Dated: August zr, 2006 
+505993 v2/SD 
+Respectfully submitted, 
+By: /s/DamonM. Youngq""§b 
+Damon M. Young 
+Lead Attorney 
+State Bar No. 22176700 
+dmyoung64@aol.com 
+YOUNG PICKETT & LEE 
+4122 Texas Boulevard 
+P.O. Box 1897 
+Texarkana, TX 75504-1897 
+Telephone: (903) 794-1303 
+Facsimile: (903) 792-5098 
+Of Counsel: 
+Stephen C. Neal 
+11ealsc@cooley.com 
+Ricardo Rodriguez 
+rr@cooley.com 
+Timothy S. Teter 
+teterts@cooley .com 
+COOLEY GODWARD LLP 
+Five Palo Alto Square 
+3000 El Camino Real 
+Palo Alto, CA 94306-2155 
+Telephone: (650) 843-5000 
+Facsimile: (650) 857-0663 
+Frank V. Pietrantonio 
+fpietrantonio@cooley.com 
+Jonathan G. Graves 
+j graves@cooley.com 
+COOLEY GODWARD LLP 
+One Freedom Square 
+11951 Freedom Drive 
+Reston, VA 20190-5656 
+Telephone: (703) 456-8000 
+Facsimile: (703) 456-8100 
+Attorneysfor Plaintiff 
+Ronald A. Katz Technology Licensing, L.P. 
+13 
+z::::-_ 

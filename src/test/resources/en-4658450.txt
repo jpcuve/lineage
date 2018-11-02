@@ -1,0 +1,360 @@
+Page 1 of 16 
+ 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+ 
+DYNAMIC APPLET  
+TECHNOLOGIES, LLC, 
+Plaintiff, 
+v. 
+HOLLISTER CO., 
+Defendant. 
+Civil Action No. ______________ 
+JURY TRIAL DEMANDED  
+COMPLAINT FOR PATENT INFRINGEMENT 
+Plaintiff Dynamic Applet Technologies, LLC (“DYNAMIC” or “Plaintiff”), for its 
+Complaint against Defendant Hollister Co. (referred to herein as “Hollister” or “Defendant”), 
+alleges the following: 
+NATURE OF THE ACTION 
+1. This is an action for patent infringement arising under the Patent Laws of the 
+United States, 35 U.S.C. § 1 et seq. 
+THE PARTIES 
+2. Plaintiff DYNAMIC is a limited liability company organized under the laws of the 
+State of Texas with a place of business at 17440 N Dallas Parkway, Suite 230, Dallas, Texas 
+75287. DYNAMIC is wholly-owned subsidiary of Parallel Networks, LLC, a Texas limited 
+liability company (“PARALLEL”). 
+3. Upon information and belief, Hollister is a corporation organized and existing 
+under the laws of Ohio, with a place of business at 6301 Fitch Path, New Albany Ohio 43054. 
+Upon information and belief, Hollister sells and offers to sell products and services throughout 
+the United States, including in this judicial district, and introduces products and services that 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 1 of 16 PageID #:  1
+Page 2 of 16 
+ 
+perform infringing processes into the stream of commerce knowing that they would be sold in 
+this judicial district and elsewhere in the United States.   
+JURISDICTION AND VENUE 
+4. This is an action for patent infringement arising under the Patent Laws of the 
+United States, Title 35 of the United States Code. 
+5. This Court has subject matter jurisdiction under 28 U.S.C. §§ 1331 and 1338(a). 
+6. Venue is proper in this judicial district under 28 U.S.C. § 1400(b). 
+7. This Court has personal jurisdiction over the Defendant under the laws of the 
+State of Texas, due at least to their substantial business in Texas and in this judicial district, 
+directly or through intermediaries, including: (i) at least a portion of the infringements alleged 
+herein; and (ii) regularly doing or soliciting business, engaging in other persistent courses of 
+conduct and/or deriving substantial revenue from goods and services provided to individuals in 
+the State of Texas. Further, venue is proper in this district because Defendant has a regular and 
+established place of business in this district. For instance, Defendant has multiple store locations 
+in this judicial district. For example, Defendant has a store location at 6121 West Park Blvd., Ste 
+B113, Plano, TX 75093. See, e.g., 
+https://www.hollisterco.com/webapp/wcs/stores/servlet/StoreLocator?catalogId=10201&langId=
+-1&storeId=10251.  
+BACKGROUND 
+The Invention 
+8. Keith A. Lowery is the inventor of the U.S. Patent No. 6,446,111 (“the ’111 
+Patent”). The ’111 Patent resulted from the pioneering research of Mr. Lowery in the area of 
+website scalability and  how websites could more efficiently and quickly process very large 
+volumes of website visitor requests for web pages.  Mr. Lowery’s research resulted in the 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 2 of 16 PageID #:  2
+Page 3 of 16 
+ 
+development of a method and apparatus for client-server communication involving a 
+dynamically generated, transient applet in the late-1990s.  At the time of Mr. Lowery’s research, 
+the most widely implemented website technology used to process  requests for web pages was 
+client-server architecture.  In that type of system, when website visitors’ requests for web pages 
+were received, websites would process those requests on the website’s page servers and then 
+return the requested web page to the client. Mr. Lowery conceived of the inventions claimed in 
+the ‘111 Patent as a way to off-load the processing of requests for web pages from the website’s 
+page servers to the client’s computers through the use of dynamically generated applets.         
+9. For example, Mr. Lowery developed a method of processing data comprising, 
+receiving a data request from a client device at a server system over a communications link; 
+collecting on the server a plurality of data items in response to the data request; generating an 
+executable applet dynamically in response to the data request, a constituent system associated 
+with the applet including a subset of the data items therein as pre-loaded values; wherein a 
+further constituent system associated with the executable applet comprises a data interface 
+capability configured to provide a plurality of operations on the pre-loaded values, the operations 
+comprising operations associated with the subset of the data items; and transferring the applet to 
+the client device. 
+10. Figure 1 (FIG. 1) of the ’111 Patent set forth below, is a block diagram of a client-
+server system which illustrates the methods claimed in the ’111 Patent. 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 3 of 16 PageID #:  3
+Page 4 of 16 
+ 
+ 
+11. Figure 2 (FIG. 2) of the ’111 Patent set forth below, is a block diagram showing 
+further details of a client-server system constructed to perform the methods claimed in the ’111 
+Patent. 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 4 of 16 PageID #:  4
+Page 5 of 16 
+ 
+ 
+12. Figure 3 (FIG. 3) of the ’111 Patent set forth below, is a flow chart which 
+illustrates the operation of a client-server system constructed to perform the methods claimed in 
+the ’111 Patent. 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 5 of 16 PageID #:  5
+Page 6 of 16 
+ 
+ 
+Advantage Over the Prior Art 
+13. The patented invention  disclosed in the ‘111 Patent, provides many advantages 
+over the prior art, and in particular improved the operations of computers and computer 
+networks. See ’111 Patent at col. 2, ll. 55 – col. 3, ll. 22. One advantage of the patented invention 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 6 of 16 PageID #:  6
+Page 7 of 16 
+ 
+is that it allows for the decrease of the total amount of data transferred between a client and a 
+server thus allowing for increased speed and efficiency. See ’111 Patent at col. 3, ll. 11-17.  
+14. Another advantage of the patented invention is that it allows the client using a 
+computing device that has limited storage capabilities to initiate and complete the transaction 
+without having to load and store a variety of support programs that may be required by the 
+server. See ’111 Patent at col. 2, ll. 67 – col. 3, ll. 5.  
+15. Another advantage of the patented invention is that resources of the client device 
+can be freed by discarding the applet after the transaction. See ’111 Patent at col. 3, ll. 6-10.  
+16. Yet another advantage of the patented invention is the efficiency created by the 
+avoidance of transmitting duplicate data. See ’111 Patent at col. 3, ll. 17-23.  
+17. Because of these significant advantages that can be achieved through the use of 
+the patented invention, DYNAMIC believes that the ’111 Patent is widely implemented. Indeed, 
+the patented invention can be used for a variety of websites in many diverse businesses, 
+including movie, clothing, automobiles, and general and specialty retailers along with entities 
+providing services such as banking, auction, design, travel, and entertainment services. 
+Technological Innovation 
+18. The patented invention disclosed in the ‘111 Patent resolves technical problems 
+related to the transmission of information between a server and client, particularly problems 
+related to the utilization of web page software on client devices connected to web servers.  As the 
+‘111 Patent explains, one of the limitations of the prior art as regards the transmission of 
+information was that many applications required multiple, data-intensive transfers of information 
+between the server and the client device. See ’111 patent, cols. 1-2.  
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 7 of 16 PageID #:  7
+Page 8 of 16 
+ 
+19. The claims of the ‘111 Patent do not merely recite the performance of some well-
+known business practice from the pre-Internet world along with the requirement to perform it on 
+the Internet.  Instead, the claims of the ‘111 Patent recite inventive concepts that are deeply 
+rooted in computer technology, and overcome problems specifically arising  out of how to more 
+quickly and efficiently scale websites to handle very large volumes of requests for web pages 
+through the creation and implementation of dynamically generated applets. 
+20. In addition, the claims of the ‘111 Patent recite inventive concepts that improve 
+the functioning of software applications on client devices, particularly web pages running on web 
+servers the contents of which are accessed by a request from a client device. 
+21. Moreover, the claims of the ‘111 Patent recite inventive concepts that are not 
+merely routine or conventional use of networking techniques.  Instead, the patented invention 
+disclosed in the ‘111 Patent provides a new and novel solution to specific problems related to 
+improving the transmission of information over computer networks in view of the constraints of 
+the transmission network.  
+22. And finally, the patented invention disclosed in the ‘111 Patent does not preempt 
+all the ways that applets may be used to improve the transmission of web page information, nor 
+does the ‘111 Patent preempt any other well-known or prior art technology.   
+23. Accordingly, the claims in the ‘111 Patent recite a combination of elements 
+sufficient to ensure that the claim in substance and in practice amounts to significantly more than 
+a patent-ineligible abstract idea. 
+Prior Litigation 
+24. The ’111 Patent was previously litigated in this District (6-09-cv-00154; 6-10-cv-
+00111; 6-10-cv-00112; 6-10-cv-00275; 6-10-cv-00474; 6-10-cv-00491; 6-10-cv-00506; 6-11-cv-
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 8 of 16 PageID #:  8
+Page 9 of 16 
+ 
+00098; 6-11-cv-00422; 6-11-cv-00631; 6-12-cv-00018; 6-12-cv-00374) and appeals to the 
+Federal Circuit Court of Appeals (2012-1227; 2015-1681; 2016-1944) (collectively “Prior 
+Litigation”). 
+25.  The scope and construction of the claims of the ’111 Patent have been clarified 
+by the Prior Litigation.   
+COUNT I – INFRINGEMENT OF U.S. PATENT NO. 6,446,111 
+26. The allegations set forth in the foregoing paragraphs 1 through 25 are 
+incorporated into this First Claim for Relief. 
+27. On September 3, 2002, the ’111 Patent was duly and legally issued by the United 
+States Patent and Trademark Office under the title “Method and apparatus for client-server 
+communication using a limited capability client over a low-speed communications link[.]”  A 
+true and correct copy of the ’111 Patent is attached as Exhibit A. 
+28. DYNAMIC is the assignee and owner of the right, title and interest in and to the 
+’111 Patent, including the right to assert all causes of action arising under said patent and the 
+right to any remedies for infringement of it.   
+29. Upon information and belief, the Defendant has and continues to directly infringe 
+one or more claims of the ’111 Patent by making, using, and/or providing and causing to be used 
+products, specifically one or more web pages that utilized executable applets, which by way of 
+example include https://www.hollisterco.com/shop/wd (the “Accused Instrumentalities”). 
+30. Upon information and belief, Defendant has directly infringed at least claim 17 of 
+the ‘111 Patent by making, using, and/or providing and causing to be used one or more 
+computers or servers that transmit information utilizing one or more executable applets.  
+Collectively, the computers or servers are referred to herein as the “Accused Instrumentality”.   
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 9 of 16 PageID #:  9
+Page 10 of 16 
+ 
+31. Upon information and belief, the Accused Instrumentality performs a method for 
+processing data. 
+32. Upon information and belief, the Accused Instrumentality includes a website such 
+as ‘https://www.hollisterco.com/shop/wd’ that is hosted on a server that is coupled to a 
+communications link (e.g., the Internet) and is operable to receive a request from a client device 
+(e.g., a computer) accessing the website. 
+33. Upon information and belief, the server collects a plurality of data items, e.g., data 
+necessary to generate a web page including data necessary to respond to the specific client 
+request.  One non-limiting example of a plurality of data items collected as a function of the 
+request is the information collected in response to the client’s request for the web page 
+‘https://www.hollisterco.com/shop/wd/p/long-sleeve-t-shirt-dress-
+10279232?categoryId=12600&seq=01&ofp=true’. This specific information includes data items 
+such as ‘Long-Sleeve T-Shirt Dress’, ‘188175_04’, ‘A sporty T-shirt dress made with supersoft 
+knit fabric, featuring a crew neckline and stripes, Imported’, ‘Online Exclusive’, ‘S’, etc. 
+referenced from line #3987 - line #4116 in Hollister’s Source Code (Hollister Exhibit 1). 
+34. Upon information and belief, an executable applet is dynamically generated in 
+specific response to the request, e.g., by selecting data responsive to the request. For example, 
+one or more applets are returned by the Accused Instrumentality (that can include existing code 
+and prewritten procedures) that are suitable for execution on the client. One non-limiting 
+example of an executable applet is the program code that can be used by a client device, which is 
+JSON code, referenced from line #3987 - line #4116 in Hollister’s Source Code (Hollister 
+Exhibit 1) which is constructed at the server by combining the requisite functionality with the 
+necessary data at the time of and in response to the client request. The requisite functionality is 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 10 of 16 PageID #:  10
+Page 11 of 16 
+ 
+present in the form of attributes such as ‘name’, ‘prodImg’, ‘longDesc’, ‘shortDesc’ and 
+‘OFPModelSize’ (Hollister Exhibit 1: line #3987 - line #4116) corresponding to the data items 
+present in the program code referenced from line #3987 - line #4116 in Hollister’s Source Code 
+(Hollister Exhibit 1). The functionality provided by the JSON is providing the client device with 
+the ability to read, write, and/or modify the data associated in the attributes. See the limitations 
+discussed below. The JSON code can be requested both in a web browser and outside a web 
+browser using command line software and can execute on the client device (see, e.g., Hollister 
+Exhibit 2). 
+35. Upon information and belief, the one or more applets returned by the Accused 
+Instrumentality have an associated constituent system comprising a subset of data items which is 
+included in the response to the client request as data retrieved as a function of the request. One 
+non-limiting example is the subset of data items such as ‘Long-Sleeve T-Shirt Dress’, 
+‘188175_04’, ‘A sporty T-shirt dress made with supersoft knit fabric, featuring a crew neckline 
+and stripes, Imported’, ‘Online Exclusive’, ‘S’, etc. referenced from line #3987 - line #4116 in 
+Hollister’s Source Code (Hollister Exhibit 1), that is incorporated and utilized by the program 
+code for further operations. At least one data item in the applet is a preloaded value. One non-
+limiting example is the subset of data items such as ‘Long-Sleeve T-Shirt Dress’, ‘188175_04’, 
+‘A sporty T-shirt dress made with supersoft knit fabric, featuring a crew neckline and stripes, 
+Imported’, ‘Online Exclusive’, ‘S’, etc. referenced from line #3987 - line #4116 in Hollister’s 
+Source Code (Hollister Exhibit 1). 
+36. Upon information and belief, the Accused Instrumentality has a further 
+constituent system associated with the applet having a data interface capability configured as 
+required by this claim element. The program code referenced from line #3987 - line #4116 in 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 11 of 16 PageID #:  11
+Page 12 of 16 
+ 
+Hollister’s Source Code (Hollister Exhibit 1) comprises attributes such as ‘name’, ‘prodImg’, 
+‘longDesc’, ‘shortDesc’ and ‘OFPModelSize’ (Hollister Exhibit 1: line #3987 - line #4116) that 
+provide data interface capability by allowing the client to access and use data such as  ‘Long-
+Sleeve T-Shirt Dress’, ‘188175_04’, ‘A sporty T-shirt dress made with supersoft knit fabric, 
+featuring a crew neckline and stripes, Imported’, ‘Online Exclusive’, ‘S’, etc. referenced from 
+line #3987 - line #4116 in Hollister’s Source Code (Hollister Exhibit 1). Furthermore, the 
+program code is configured to provide a plurality of operations on the preloaded values because 
+it allows the client device to read, write and/or modify the data referenced from line #3987 - line 
+#4116 in Hollister’s Source Code (Hollister Exhibit 1). 
+37. Upon information and belief, the program code provides operations associated 
+with the subset of the data items because it allows the client device to read, write, and/or modify 
+the data in the attributes in the dynamic program code referenced from line #3987 - line #4116 in 
+Hollister’s Source Code (Hollister Exhibit 1). 
+38. Upon information and belief, the applet is operable to be transferred to the client 
+device. The above identified code in Hollister’s Source Code (Hollister Exhibit 1) is to be sent 
+by the server over the Internet and received by the client device. One non-limiting example is 
+executable program code dynamically constructed at the server which can be referenced from 
+line #3987 - line #4116 in Hollister’s Source Code (Hollister Exhibit 1), that is transferred in a 
+single transmission over a communications link to the client device. 
+39. The Accused Instrumentality infringed and continues to infringe claim 17 of the 
+‘111 Patent during the pendency of the ‘111 Patent. 
+40. Claim 22 of the ‘111 Patent recites a method of processing data according to 
+claim 17, wherein the communications link comprises a wireless link.   
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 12 of 16 PageID #:  12
+Page 13 of 16 
+ 
+41. Upon information and belief, the above requested web page may be accessed 
+using a wireless communication link, namely “Wi-Fi”, which is commonly used to provide 
+wireless communication at home and business locations to provide access to the Internet and, 
+therefore, the Accused Instrumentality. Similarly, the Accused Instrumentality is accessible 
+using other wireless communication links, such as cellular phone networks like “Edge”, “3G”, 
+and “WiMAX” operated by numerous well-known service providers.  
+42. The Accused Instrumentality infringed and continues to infringe claim 22 of the 
+‘111 Patent during the pendency of the ‘111 Patent. 
+43. Claim 23 of the ‘111 Patent recites a method of processing data according to 
+claim 17 and further comprising manipulating the pre-loaded values using a plurality of 
+operations in the further constituent system associated with the applet, the operations comprising 
+operations specific to the pre-loaded values and wherein the pre-loaded values are non-
+updateable.   
+44. Upon information and belief, the Accused Instrumentality has a capability that 
+further comprises substantially all functionality required by the pre-loaded values. One or more 
+of the executable applets included in the web page includes a data interface capability providing 
+operations to alter the preloaded values to substantially all of their possible states. 
+45. Upon information and belief, the Accused Instrumentality has a further 
+constituent system associated with the applet having a data interface capability configured as 
+required by this claim element. The program code referenced from line #3987 - line #4116 in 
+Hollister’s Source Code (Hollister Exhibit 1) comprises attributes such as ‘name’, ‘prodImg’, 
+‘longDesc’, ‘shortDesc’ and ‘OFPModelSize’ (Hollister Exhibit 1: line #3987 - line #4116) that 
+provide data interface capability by allowing the client to access and use data such as ‘Long-
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 13 of 16 PageID #:  13
+Page 14 of 16 
+ 
+Sleeve T-Shirt Dress’, ‘188175_04’, ‘A sporty T-shirt dress made with supersoft knit fabric, 
+featuring a crew neckline and stripes, Imported’, ‘Online Exclusive’, ‘S’, etc. referenced from 
+line #3987 - line #4116 in Hollister’s Source Code (Hollister Exhibit 1). Furthermore, the 
+program code is configured to provide a plurality of operations on the preloaded values because 
+it allows the client device to read, write and/or modify the data referenced from line #3987 - line 
+#4116 in Hollister’s Source Code (Hollister Exhibit 1). These pre-loaded values are non-
+updateable. 
+46. The Accused Instrumentality infringed and continues to infringe claim 23 of the 
+‘111 Patent during the pendency of the ‘111 Patent. 
+47. Claim 26 of the ‘111 Patent recites a method according to claim 17, wherein the 
+pre-loaded values are non-updateable. 
+48. Upon information and belief, the one or more of the executable applets includes 
+pre-loaded values which are non-updateable. One non-limiting example is the subset of data 
+items such as ‘Long-Sleeve T-Shirt Dress’, ‘188175_04’, ‘A sporty T-shirt dress made with 
+supersoft knit fabric, featuring a crew neckline and stripes, Imported’, ‘Online Exclusive’, ‘S’, 
+etc. referenced from line #3987 - line #4116 in Hollister’s Source Code (Hollister Exhibit 1). 
+49. The Accused Instrumentality infringed and continues to infringe claim 26 of the 
+‘111 Patent during the pendency of the ‘111 Patent. 
+50. Upon information and belief, since at least the time of receiving this Complaint, 
+the Defendant has induced and continues to induce others to infringe at least claims 17, 22, 23, 
+and 26 of the ’111 Patent under 35 U.S.C. § 271(b) by, among other things, and with specific 
+intent or willful blindness, actively aiding and abetting others to infringe, including but not 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 14 of 16 PageID #:  14
+Page 15 of 16 
+ 
+limited to Beretta’s partners and customers, whose use of the Accused Instrumentalities 
+constitutes direct infringement of at least claims 17, 22, 23, and 26 of the ’111 Patent.   
+51. In particular, the Defendant’s actions that aid and abet others such as their 
+partners and customers to infringe include advertising and distributing the Accused 
+Instrumentalities and providing instruction materials, training, and services regarding the 
+Accused Instrumentalities.  On information and belief, the Defendant has engaged in such 
+actions with specific intent to cause infringement or with willful blindness to the resulting 
+infringement because the Defendant has had actual knowledge of the ’111 Patent and that its acts 
+were inducing infringement of the ’111 Patent since at least the time of receiving this Complaint. 
+52. On information and belief, the Defendant’s infringement has been and continues 
+to be willful. 
+53. DYNAMIC has been harmed by the Defendant’s infringing activities.  
+JURY DEMAND 
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, DYNAMIC demands a trial 
+by jury on all issues triable as such. 
+PRAYER FOR RELIEF 
+WHEREFORE, Plaintiff DYNAMIC demands judgment for itself and against Defendant 
+as follows: 
+A. An adjudication that the Defendant has infringed the ’111 Patent; 
+B. An award of damages to be paid by Hollister adequate to compensate DYNAMIC 
+for Hollister’s past infringement of the ’111 Patent, and any continuing or future infringement 
+through the date such judgment is entered, including interest, costs, expenses and an accounting 
+of all infringing acts including, but not limited to, those acts not presented at trial; 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 15 of 16 PageID #:  15
+Page 16 of 16 
+ 
+C. A declaration that this case is exceptional under 35 U.S.C. § 285, and an award of 
+Plaintiff’s reasonable attorneys’ fees; and 
+D. An award to DYNAMIC of such further relief at law or in equity as the Court 
+deems just and proper. 
+Dated: December 20, 2017 
+ 
+ 
+DEVLIN LAW FIRM LLC 
+/s/ Robert Kiddie  
+Robert Kiddie 
+Texas Bar No. 24060092 
+rkiddie@devlinlawfirm.com 
+Timothy Devlin 
+tdevlin@devlinlawfirm.com 
+James M. Lennon 
+(to be admitted pro hac vice) 
+1306 N. Broom St., 1st Floor 
+Wilmington, Delaware 19806 
+Telephone: (302) 449-9010 
+Facsimile: (302) 353-4251 
+ 
+Attorneys for Plaintiff Dynamic Applet 
+Technologies, LLC 
+ 
+Case 4:17-cv-00878-ALM-KPJ   Document 1   Filed 12/20/17   Page 16 of 16 PageID #:  16

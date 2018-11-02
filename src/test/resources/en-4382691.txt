@@ -1,0 +1,277 @@
+ 1 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF TEXAS 
+MARSHALL DIVISION 
+ 
+CRX TECH, LLC,  
+ Plaintiff, 
+ 
+v. 
+ 
+LITE-ON, INC. AND LITE-ON 
+TECHNOLOGY CORPORATION, 
+ 
+ Defendants. 
+ 
+ 
+Case No.  2:17-cv-00734 
+ 
+ 
+JURY TRIAL DEMANDED 
+ 
+ 
+COMPLAINT FOR PATENT INFRINGEMENT 
+This is an action for patent infringement arising under the Patent Laws of the United 
+States of America, 35 U.S.C. § 1 et seq., in which Plaintiff CRX Tech, LLC (“CRX” or 
+“Plaintiff”) makes the following allegations against Defendants Lite-On, Inc. ("Lite-On") and 
+Lite-On Technology Corporation ("LTC") (collectively, “Defendants”). 
+PARTIES 
+1. CRX Tech, LLC is a Texas limited liability company and has a place of business 
+at 1601 Elm Street, Suite 4360, Dallas, Texas 75201.  
+2. On information and belief, Lite-On is a California corporation located at 720 
+South Hillview Drive, Milpitas, California 95035.  Upon information and belief, Lite-On is a 
+subsidiary of LTC. On information and belief, LTC is a Taiwanese entity located at 392 Ruey 
+Kwang Road, Neihu, Taipei, Taiwan 114.  
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 1 of 11 PageID #:  1
+ 
+ 2 
+JURISDICTION AND VENUE 
+3. This action arises under the patent laws of the United States, Title 35 of the 
+United States Code. Accordingly, this Court has subject matter jurisdiction under 28 U.S.C. 
+§§ 1331 and 1338(a). 
+4. This Court has personal jurisdiction over Defendants in this action because, 
+among other reasons, Defendants have committed acts within the Eastern District of Texas 
+giving rise to this action and have established minimum contacts with the forum state of Texas. 
+Lite-On also has a Sales Office and regular and established place of business at 8917 
+Honeysuckle Drive, Argyle, Texas, which is within the Eastern District of Texas (Sherman 
+division). Defendants directly and/or through subsidiaries or intermediaries (including 
+distributors, retailers, and others), both individually and in joint enterprise with each other, have 
+committed and continue to commit acts of infringement in this District by, among other things, 
+making, using, importing, offering for sale, and/or selling products that infringe the patent-in-
+suit. Thus, Defendants purposefully availed themselves of the benefits of doing business in the 
+State of Texas and the exercise of jurisdiction over Defendants would not offend traditional 
+notions of fair play and substantial justice. 
+5. Venue is proper in this District under 28 U.S.C. §§ 1391 (c) and 1400(b) because 
+LTC is a foreign corporation not resident in the United States and has committed acts of patent 
+infringement in the District.  Brunette Machine Works, Ltd. v. Kockum Industries, Inc., 406 U. S. 
+706, 714 (1972). Venue is also proper as to at least Lite-On because it maintains at least one 
+established and regular place of business in this District – a Sales Office at 8917 Honeysuckle 
+Drive, Argyle, Texas, which is within the Eastern District of Texas (Sherman division) - and has 
+committed acts of patent infringement in this District as well. 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 2 of 11 PageID #:  2
+ 
+ 3 
+BACKGROUND 
+6. The inventions disclosed and claimed in the patent in suit were invented by 
+Michael L. Wach in the early 2000s.  Mr. Wach is the founder of Cirrex Corporation and Cirrex 
+Systems, LLC, and a recipient of the Coulter Award for Innovation and Entrepreneurship.  He is 
+an inventor of more than fifty granted U.S. patents.  Cirrex is a pioneering photonics company 
+that has engaged in research and development backed by more than $20 million in venture 
+capital.  Cirrex created optical technologies that advanced the fields of healthcare, 
+communications and instrumentation. 
+7. As disclosed in the patent in suit, Mr. Wach invented a novel system for reducing 
+unwanted longitudinal reflection in optical systems utilizing semiconductor gain mediums. At 
+the time of the claimed inventions, the optical semiconductor industry struggled with minimizing 
+reflections from facets of semiconductor devices. Longitudinal reflections diminished the 
+performance and utility of optical systems, which require precise light emissions.  Conventional 
+methods to suppress unwanted reflections were difficult and expensive to fabricate and produced 
+unwanted light beam behavior and wavelength distortion.   
+8. Antireflective coatings were attempted to reduce unwanted reflection and 
+longitudinal modes.  These coatings were formed by depositing a stack of thin-film layers having 
+high-low and alternating refractive index interfaces between layers set up as a pattern of 
+constructive and destructive interference that minimized reflection from facets. But there were 
+difficulties associated with designing and fabricating these coatings for practical application.  In 
+addition, antireflective coatings were inherently difficult for antireflection over a broad spectral 
+band.   
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 3 of 11 PageID #:  3
+ 
+ 4 
+9. For light emission diode (LED) products, such as Defendants’ accused products, 
+conventional solutions to the problems of semiconductor facet reflection and unwanted 
+longitudinal modes produce light that is deteriorated due to residual, unwanted reflection from 
+the facet that is insufficiently repressed. 
+10. Mr. Wach’s company, Cirrex, searched for better solutions.  Mr. Wach discovered 
+that unwanted longitudinal reflections and facet reflections could be suppressed and minimized 
+by applying a patterned surface to semiconductor facets.  This improved technique also avoided 
+the drawbacks of the conventional solutions at the time.  Mr. Wach’s inventions satisfied the 
+need for a system and method that allowed amplification of an optical signal while suppressing 
+light from an optical amplifier.   
+11. One of the novel patterned surfaces that Mr. Wach introduced to the facets of 
+semiconductor gain mediums was modeled on the eye pattern of nocturnal insects, such as a 
+“motheye,” which provides a gradual change of the refractive index between the facet’s surface 
+and the neighboring medium.  Use of this novel approach resulted in a gradual change that 
+softened the sudden change in the refractive index that caused unwanted surface reflections, 
+thereby considerably reducing the reflectance of the facet.   
+12. Mr. Wach’s inventions are embodied in U.S Patent No. 6,483,635, titled 
+“Apparatus for Light Amplification,” which issued on November 19, 2002 (the “’635 Patent,” 
+“asserted patent,” or “patent-in-suit”).   
+13. The ’635 patent has been cited as prior art by over fifty-five later patents, 
+including patents assigned to 3M and Hewlett-Packard. 
+14. In addition to the “motheye” patterned structure, the ’635 patent introduced the 
+use of other patterned structures to control unwanted reflections, including lines, cones, conical 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 4 of 11 PageID #:  4
+ 
+ 5 
+posts, holes, grids and microlens arrays.  These patterned structures are useful not only for 
+reducing longitudinal modes and facet reflection, but also for mode adaption, mode shaping and 
+beam shaping.   
+15. Mr. Wach’s inventive use of patterned structures is particularly beneficial because 
+the patterned structures can be formed by relatively cost-effective techniques, such as etching 
+directly into a semiconductor material or other substrate.   
+16. At the time of Mr. Wach’s inventions, the LED industry was in its infancy.  Since 
+then, LED based products, including Defendants’ accused products, have evolved to utilize the 
+’635 patent to focus visible light emissions, making the LED products more useful for 
+applications such as general lighting, communications and display backlighting. 
+17. CRX is the owner by assignment of the ’635 Patent. The ’635 Patent was duly and 
+legally issued by the United States Patent and Trademark Office on November 19, 2002. A true 
+and correct copy of the ’635 Patent is included as Exhibit A. 
+COUNT I 
+INFRINGEMENT OF THE ’635 PATENT 
+18. CRX references and incorporates by reference paragraphs 1 through 18 of this 
+Complaint. 
+19. On information and belief, Defendants make, use, import, offer to sell and/or sell 
+in the United States products that infringe various claims of the ’635 Patent, and continue to do 
+so. These include without limitation the Lite-On LED Middle Power family of products, 
+including, for example, the LED Middle Power 5630 AZKxx Series including, e.g., the LTW-
+5630AZK27, LTW-5630AZK30, LTW-5630AZK35, LTW-5630AZK40, LTW-5630AZK50, 
+LTW-5630AZK57, and LTW-5630AZK65, as well as Lite-On’s LED products including and/or 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 5 of 11 PageID #:  5
+ 
+ 6 
+utilizing a patterned substrate (collectively, the “accused products”). The accused products 
+include, by way of further example, Lite-On’s LED components, LED modules, displays, 
+televisions and lighting products that include LED dies and products utilizing a patterned 
+substrate and/or Lite-On’s LED Middle Power family of products. 
+20. The accused products include a system for reducing reflection within an optical 
+system, comprising a semiconductor gain medium comprising a front facet and a rear facet, and 
+the semiconductor gain medium producing light energy when excited. The representative LTW-
+5630AZK27 accused product, for example, is a light emitting diode that includes a 
+semiconductor gain medium that produces light energy when excited. Two top views of the light 
+emitting diode for the LTW-5630AZK27 are shown below. The top view on the left has the 
+packaging on, covering the light emitting diode. The top view on the right has the packaging 
+removed, so that the light emitting diode is visible and can be seen. 
+ 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 6 of 11 PageID #:  6
+ 
+ 7 
+21. The semiconductor gain medium of the accused products includes both a front 
+facet and a rear facet. A microscopic cross-section of the LTW-5630AZK27 accused product 
+shows infringing components of A (red): a semiconductor gain medium; B (blue): a front facet; 
+and C (purple): a rear facet. 
+ 
+22. The accused products also comprise a patterned relief surface disposed on one of 
+the facets. As can be seen by the below blown-up photograph, the patterned relief surface of the 
+representative LTW-5630AZK27 is disposed on the rear facet: 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 7 of 11 PageID #:  7
+ 
+ 8 
+               
+23. The placement of the patterned relief surface leads to reducing reflection of light 
+through at least one of said front and rear facets.   At least one of said front facet and said rear 
+facet allows part to transmit therethrough.  For example, in the LTW-5630AZK27 accused 
+product, the patterned relief surface disposed on the rear facet of the semiconductor gain medium 
+reduces unwanted reflection in the front facet.  The front facet allows part of the light energy to 
+transmit therethrough.  
+24. On information and belief, Defendants have directly infringed and continue to 
+directly infringe the ’635 Patent by, among other things, making, using, importing, offering for 
+sale, and/or selling the accused products. On information and belief, the accused products 
+infringe one or more claims of the ’635 Patent, including at least claim 1. 
+25. By making, using, importing, offering for sale, and/or selling the accused 
+products that infringe claims of the ’635 Patent, Defendants have injured CRX and are liable to 
+CRX for infringement of the ’635 Patent pursuant to 35 U.S.C. § 271(a) directly and/or under the 
+doctrine of equivalents. 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 8 of 11 PageID #:  8
+ 
+ 9 
+26. In addition, Defendants actively induce others, including without limitation 
+customers and end users of the accused products and related products, to directly infringe each 
+and every claim limitation, including without limitation claim 1 of the ’635 Patent, in violation 
+of 35 U.S.C. § 271(b). Upon information and belief, Defendants’ customers and/or end users 
+have directly infringed and are directly infringing each and every claim limitation, including 
+without limitation claim 1 of the ’635 Patent. Defendants have actual knowledge of the ’635 
+Patent at least as of service of this Complaint. Defendants are knowingly inducing their 
+customers and end users to directly infringe claims of the ’635 Patent, with the specific intent to 
+encourage such infringement, and knowing that the induced acts constitute patent infringement. 
+Defendants’ inducement includes, for example, providing technical and user guides, product data 
+sheets, demonstrations, installation guides, and other forms of support that induce their 
+customers and end users to directly infringe claims of the ’635 Patent. Defendants also induce 
+their customers to directly infringe claims of the ’635 patent by, e.g., selling infringing products 
+to overseas customers with knowledge and intent that the customer will import, use, sell and/or 
+offer to sell infringing products in the United States. Defendants design the accused products to 
+operate in a manner such that when they are used by their customers and end users as intended, 
+they infringe the ’635 patent. 
+27. To the extent discovery shows that Defendants’ infringement of claims of the 
+’635 Patent is or has been willful and/or egregious, CRX reserves the right to request such a 
+finding at time of trial. 
+28. As a result of Defendants’ infringement of the ’635 Patent, CRX has suffered 
+monetary damages for Defendants’ infringement, but in no event less than a reasonable royalty 
+for the use made of the invention by Defendants, together with interest and costs as fixed by the 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 9 of 11 PageID #:  9
+ 
+ 10 
+Court, and CRX will continue to suffer damages in the future unless Defendants’ infringing 
+activities are enjoined by this Court. 
+29. Unless a permanent injunction is issued enjoining Defendants and their agents, 
+employees, representatives, affiliates, and all others acting or in active concert therewith from 
+infringing the ’635 Patent, CRX will be irreparably harmed. 
+ 
+PRAYER FOR RELIEF 
+Plaintiff respectfully requests the following relief from this Court: 
+A. A judgment that Defendants have infringed and/or induced infringement of one or 
+more claims of the ’635 Patent; 
+B. A permanent injunction enjoining Defendants and their officers, directors, agents, 
+affiliates, employees, divisions, branches, subsidiaries, parents, and all others acting in active 
+concert or participation with Defendants, from infringing the ’635 Patent; 
+C. A judgment and order requiring Defendants to pay CRX damages, costs, 
+expenses, and prejudgment and post-judgment interest for Defendants’ acts of infringement in 
+accordance with 35 U.S.C. § 284;  
+D. A judgment and order requiring Defendants to provide accountings and to pay 
+supplemental damages to CRX, including, without limitation, prejudgment and post-judgment 
+interest;  
+E. A judgment and order finding that this is an exceptional case within the meaning 
+of 35 U.S.C. § 285 and awarding to CRX its reasonable attorneys’ fees against Defendants; and 
+F. Any and all other relief to which CRX may show itself to be entitled. 
+ 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 10 of 11 PageID #:  10
+ 
+ 11 
+JURY TRIAL DEMANDED 
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, CRX requests a trial by jury 
+of any issues so triable by right. 
+Dated:  November 8, 2017 
+ 
+ 
+ 
+ 
+RUSS AUGUST & KABAT 
+ 
+/s/ Marc A. Fenster   
+Marc A. Fenster (CA SBN 181067) 
+Benjamin T. Wang (CA SBN 228712) 
+Jacob R. Buczko (CA SBN 269408) 
+Timothy T. Hsieh (CA SBN 255953) 
+RUSS, AUGUST & KABAT 
+12424 Wilshire Boulevard, 12th Floor 
+Los Angeles, California 90025 
+Telephone: (310) 826-7474  
+Facsimile: (310) 826-6991 
+Email: mfenster@raklaw.com  
+Email: bwang@raklaw.com 
+Email: jbuczko@raklaw.com 
+ 
+Elizabeth DeRieux 
+State Bar No. 05770585 
+D. Jeffrey Rambin 
+State Bar No. 00791478 
+CAPSHAW DERIEUX LLP 
+114 E. Commerce Ave. 
+Gladewater, Texas 75647 
+Tel. 903/236-9800 
+Fax 903/236-8787 
+Email: ederieux@capshawlaw.com 
+Email: jrambin@capshawlaw.com 
+ 
+Attorneys for Plaintiff CRX Tech, LLC 
+ 
+ 
+Case 2:17-cv-00734   Document 1   Filed 11/08/17   Page 11 of 11 PageID #:  11

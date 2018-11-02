@@ -1,0 +1,211 @@
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 1 of 7 PageID #:  1
+UNITED STATES DISTRICT COURT 
+TYLER DIVISION 
+Rainin Instrument, LLC, a Delaware limited 
+liability company, 
+Plaintiff, 
+v. 
+USA Scientific, Inc., a Florida corporation, 
+Defendant. 
+COMPLAINT FOR PATENT INFRINGEMENT 
+Plaintiff Rainin Instrument, LLC ("Rainin") alleges as follows: 
+PARTIES 
+I. Rainin is a Delaware limited liability company with its principal place of business 
+located at 7500 Edgewater Drive, Oakland, CA 94621. 
+2. USA Scientific, Inc. ("USA Scientific") is a Florida corporation with its principal 
+place ofbusiness located at 346 SW 57th Avenue, Ocala, FL 34474. USA Scientific is a 
+subsidiary ofEppendorf AG, a German corporation headquartered in Germany. 
+JURISDICTION AND VENUE 
+3. This is an action for patent infringement arising under the patent laws of the 
+United States of America, 35 U.S.C. section I, et seq., including 35 U.S.C. § 271. This Court 
+has subject matter jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1338(a) in that this is a civil 
+action arising out of the patent laws of the United States of America. 
+4. Venue in the Eastern District of Texas is proper pursuant to 28 U.S.C. §§ 1391(b) 
+and (c) and 1400(b) because, on information and belief, a substantial part of the events or 
+omissions giving rise to Rainin's claims occurred in this judicial district, and USA Scientific 
+1 
+pa-1066497 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 2 of 7 PageID #:  2
+may be found and/or resides in this judicial district. Such events include, inter alia, USA 
+Scientific's sale and arrangement for sale of infringing products throughout the State of Texas 
+and in this judicial district. USA Scientific regularly and deliberately places infringing products 
+in the stream of commerce with the knowledge and intent that these infringing products will be 
+used, sold, or offered for sale in the State of Texas and in this judicial district. 
+FACTS 
+5. Rainin is dedicated to the development, manufacture, and distribution of the 
+world's most advanced pipetting products and services. Rainin is a leading provider of 
+ergonomic and traditional pipettes and pipette tips, and holds numerous patents relating to those 
+products. 
+6. On January 2, 200 I, the United States Patent and Trademark Office issued U.S. 
+Patent No. 6,168,761, entitled "Pipette with Improved Pipette Tip and Mounting Shaft" (the 
+'"761 Patent"), a copy of which is attached as Exhibit A. 
+7. On January 9, 2001, the United States Patent and Trademark Office issued U.S. 
+Patent No. 6,171,553, entitled "Pipette with Improved Pipette Tip and Mounting Shaft" (the 
+"'553 Patent"), a copy of which is attached as Exhibit B. 
+8. Since their issuance, the '761 and '553 Patents have been in full force and effect. 
+Rainin is the owner of the entire right, title, and interest in and to the '761 and '553 Patents, 
+including the right to sue for infringement thereof, by assignment from the assignee-at-issue, 
+Rainin Instrument Co., Inc. 
+9. Rainin has sold and/or sells pipettes and pipette tips that individually or in 
+combination embody the inventions claimed in the '761 and '553 Patents under the name 
+"L TS™". The L TS™ pipette-tip combination supplies a reliable seal with a substantial 
+reduction in the force required for a user to mount and eject the pipette tip on and from the 
+mounting shaft of the pipette, as well as excellent resistance to transverse rocking or dislodging 
+of the pipette tip on the mounting shaft that might otherwise occur during "touching off' of the 
+pipette tip by a user when dispensing liquid. The reduced forces provided by the inventions of 
+2 
+pa-1066497 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 3 of 7 PageID #:  3
+the '761 and '553 Patents minimize the risks of repetitive pipetting-related hand stress and 
+injuries to pipette users. 
+10. On information and belief, Defendant USA Scientific designs, manufactures, and 
+markets pipette tips, including tips marketed under the name "TipOne® L," that are specifically 
+designed and marketed for use with Rainin LTS™ pipettes. For example, on the USA Scientific 
+website, USA Scientific markets its TipOne® L tips as follows: 
+Break free from locked-in consumables! TipOne® Lis guaranteed to fit 
+your Rainin® LiteTouch™ pipettors. Now you can have TipOne® quality 
+and convenience for all the pipettors in your lab, including the light force 
+LTS™brand. 
+11. Rainin notified USA Scientific that USA Scientific's marketing and sales of its 
+TipOne® L tips constitute infringement, inducing infringement, and/or contributory 
+infringement of the '761 and '553 Patents. 
+FIRST COUNT 
+(Patent Infringement- U.S. Patent No. 6,168,761) 
+12. Rainin incorporates by reference paragraphs 1 through 11 of this Complaint and 
+realleges them as though fully set forth herein. 
+13. USA Scientific has infringed and is continuing to infringe the '761 Patent in 
+violation of35 U.S.C. § 271(a) by engaging in acts that include making, using, offering to sell, 
+and/or selling within the United States, and/or importing into the United States, pipette tips 
+incorporating the patented invention described and claimed in the '761 Patent. These products 
+include USA Scientific's TipOne® L pipette tips. 
+14. USA Scientific actively and knowingly induces infringement of the '761 Patent 
+within the United States in violation of35·U.S.C. § 271(b) by causing third parties to practice the 
+invention claimed in the '761 Patent within the United States, in connection with USA 
+Scientific's advertising, marketing, sales, distribution, and information dissemination concerning 
+its TipOne® L pipette tips. 
+3 
+pa-1066497 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 4 of 7 PageID #:  4
+15. USA Scientific knowingly contributes to the infringement of the '761 Patent by 
+selling and/or offering to sell within the United States TipOne® L pipette tips, which are a 
+material part of practicing the invention claimed in the '761 Patent. USA Scientific knows that 
+the TipOne® L pipette tips are especially made or adapted for use in the infringement of the '761 
+Patent and are not a staple article or commodity of commerce suitable for substantial 
+noninfringing use. 
+16. Third parties directly infringe the '761 Patent by using USA Scientific TipOne® 
+L pipette tips that are manufactured, marketed, and/or sold by USA Scientific to practice the 
+invention claimed in the '761 Patent. 
+17. USA Scientific is aware that such third parties thereby directly infringe the '761 
+Patent. 
+18. The activities of USA Scientific have been without express or implied license 
+from Rainin. 
+19. USA Scientific will continue to infringe the '761 Patent unless enjoined by this 
+Court. As a result of the infringing conduct of USA Scientific, Rainin has suffered and will 
+continue to suffer irreparable harm for which there is no adequate remedy at law. Accordingly, 
+Raininis entitled to temporary, preliminary, and permanent injunctive relief against such 
+infringement pursuant to 35 U.S.C. § 283 and under traditional principles of equity. 
+20. As a result of the infringement of the '761 Patent by USA Scientific, Rainin has 
+been damaged and will be damaged further, and is entitled to be compensated for such damages 
+pursuant to 35 U.S.C. § 284 in an amount that cannot presently be ascertained, but that will be 
+determined at trial. Rainin is entitled to recover damages adequate to compensate it for the 
+infringement complained of herein, but in no event less than a reasonable royalty. 
+21. On information and belief, USA Scientific's past and continuing infringement of 
+the '761 Patent has been deliberate and willful, and this case is therefore an exceptional case, 
+which warrants an award of treble damages and attorneys' fees to Rainin in accordance with 35 
+U.S.C. §§ 284 and 285. 
+4 
+pa-1066497 
+: i 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 5 of 7 PageID #:  5
+SECOND COUNT 
+(Patent Infringement- U.S. Patent No. 6,171,553) 
+22. Rainin incorporates by reference paragraphs 1 through 21 of this Complaint and 
+realleges them as though fully set forth herein. 
+23. USA Scientific has infringed and is continuing to infringe the '553 Patent in 
+violation of35 U.S.C. § 27l(a) by engaging in acts that include making and using the patented 
+invention described and claimed in the '553 Patent. 
+24. USA Scientific actively and knowingly induces infringement of the '553 Patent 
+within the United States in violation of35 U.S.C. § 27l(b) by causing third parties to practice the 
+invention claimed in the '553 Patent within the United States, in connection with USA 
+Scientific's advertising, marketing, sales, distribution, and information dissemination concerning 
+its TipOne® L pipette tips. 
+25. USA Scientific knowingly contributes to the infringement of the '553 Patent by 
+selling and/or offering to sell within the United States TipOne® L pipette tips, which are a 
+material part of practicing the invention claimed in the '553 Patent. USA Scientific knows that 
+the TipOne® L pipette tips are especially made or adapted for use in the infringement of the '553 
+Patent and are not a staple article or commodity of commerce suitable for substantial 
+noninfringing use. 
+26. Third parties directly infringe the '553 Patent by using USA Scientific TipOne® 
+L pipette tips that are manufactured, marketed, and/or sold by USA Scientific to practice the 
+invention claimed in the '553 Patent. 
+27. USA Scientific is aware that such third parties thereby directly infringe the '553 
+Patent. 
+28. The activities of USA Scientific have been without express or implied license 
+from Rainin. 
+5 
+pa-1066497 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 6 of 7 PageID #:  6
+29. USA Scientific will continue to infringe the '553 Patent unless enjoined by this 
+Court. As a result of the infringing conduct of USA Scientific, Rainin has suffered and will 
+continue to suffer irreparable harm for which there is no adequate remedy at law. Accordingly, 
+Rainin· is entitled to temporary, preliminary, and permanent injunctive relief against such 
+infringement pursuant to 35 U.S.C. § 283 and under traditional principles of equity. 
+30. As a result of the infringement of the '553 Patent by USA Scientific, Rainin has 
+been damaged and will be damaged further, and is entitled to be compensated for such damages 
+pursuant to 35 U.S.C. § 284 in an amount that cannot presently be ascertained, but that will be 
+determined at trial. Rainin is entitled to recover damages adequate to compensate it for the 
+infringement complained of herein, but in no event less than a reasonable royalty. 
+31. On information and belief, USA Scientific's past and continuing infringement of 
+the '553 Patent has been deliberate and willful, and this case is therefore an exceptional case, 
+which warrants an award of treble damages and attorneys' fees to Rainin in accordance with 35 
+U.S.C. §§ 284 and 285. 
+PRAYER FOR RELIEF 
+WHEREFORE, Rainin requests that the Court: 
+A. Adjudge that the '761 and '553 Patents are valid and enforceable; 
+B. Adjudge that USA Scientific is infringing and has infringed, and has 
+contributed to and/or induced infringement of, the '761 and '553 Patents, and that such 
+infringement is willful and deliberate; 
+C. Enjoin USA Scientific and its affiliates, subsidiaries, officers, directors, 
+employees, agents, representatives, licensees, successors, assigns and all those acting for it and 
+on its behalf, or acting in concert with them, from further infringement of the '761 and '553 
+Patents, inducing infringement of the '761 and '553 Patents, and contributing to infringement of 
+the '761 and '553 Patents; 
+D. Award compensatory damages to Rainin, together with interest; 
+6 
+pa-1066497 
+Case 6:06-cv-00252-LED   Document 1    Filed 06/08/06   Page 7 of 7 PageID #:  7
+E. Award treble damages to Rainin for Defendant USA Scientific's willful 
+infringement oftbe '761 and '553 Patents; 
+F. Award Rainin its costs and attorneys' fees pursuant to 35 U.S.C. § 285; 
+G. Award Rainin such other and further relief as it deems just and proper. 
+DEMAND FOR JURY TRIAL 
+Pursuant to Federal Rule of Civil Procedure 38(b), PlaintiffRainin hereby demands a jury 
+trial on all issues so triable. 
+Dated: June 8, 2006 
+pa-1066497 
+By: !AIL) 
+~~~~~~~~~~~~~~~~ 
+T. Jolm Wa , Jr. (Tex. Bar No. 00794818) 
+LeadAtto ey 
+Law Office ofT. Jolm Ward, Jr., P.C. 
+Ill West Tyler Street 
+Longview, Texas 75601 
+Telephone: (903) 757-6400 
+Fax: (903) 757-2323 
+e-mail: jw@jwfirm.com 
+OF COUNSEL: 
+Harold J. McElhinny 
+MORRISON & FOERSTER.LLP 
+425 Market Street 
+San Francisco, CA 94105-2482 
+Telephone: ( 415) 268-7000 
+Fax: (415) 268-7522 
+Emily A. Evans 
+Shantanu Basu 
+MORRISON & FOERSTER LLP 
+755 Page Mill Road 
+Palo Alto CA 94304-1018 
+Telephone: (650) 813-5600 
+Fax: (650) 494-0792 
+Attorneys for P1aintiffRainin Instrument, LLC 
+7 
