@@ -4,11 +4,13 @@ import javax.persistence.*;
 
 @Table(name = "companies")
 @NamedQueries({
-        @NamedQuery(name = Company.COMPANY_ALL, query = "select c from Company c")
+        @NamedQuery(name = Company.COMPANY_ALL, query = "select c from Company c"),
+        @NamedQuery(name = Company.COMPANY_BY_NAME, query = "select c from Company c where name = ?1")
 })
 @Entity
 public class Company {
     public static final String COMPANY_ALL = "company.all";
+    public static final String COMPANY_BY_NAME = "company.byName";
     @Id
     @Column(name = "id", nullable = false)
     @GeneratedValue

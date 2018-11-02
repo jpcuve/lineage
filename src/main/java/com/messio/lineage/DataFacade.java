@@ -47,6 +47,15 @@ public class DataFacade {
                 .getResultList();
     }
 
+    public Optional<Company> findCompanyByName(String name){
+        return em
+                .createNamedQuery(Company.COMPANY_BY_NAME, Company.class)
+                .setParameter(1, name)
+                .getResultList()
+                .stream()
+                .findFirst();
+    }
+
     public List<Long> findExtractsContainingText(String text){
         return em
                 .createNamedQuery(Extract.EXTRACT_IDS_LIKE, Long.class)

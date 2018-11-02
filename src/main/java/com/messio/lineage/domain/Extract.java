@@ -26,10 +26,7 @@ public class Extract {
     @Basic
     @Column(name = "lang")
     private String lang;
-    @Basic
-    @Column(name = "sentence_start")
-    private int sentenceStart;
-    @Basic
+    @Lob
     @Column(name = "sentences")
     private String sentences;
     @Basic
@@ -65,14 +62,6 @@ public class Extract {
 
     public void setLang(String lang) {
         this.lang = lang;
-    }
-
-    public int getSentenceStart() {
-        return sentenceStart;
-    }
-
-    public void setSentenceStart(int sentenceStart) {
-        this.sentenceStart = sentenceStart;
     }
 
     public String getSentences() {
