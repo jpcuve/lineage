@@ -1,7 +1,5 @@
 package com.messio.lineage.transfer;
 
-import java.util.List;
-
 public class NEREntity {
     private String name;
     private String type;

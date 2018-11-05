@@ -22,7 +22,7 @@ import java.util.Arrays;
 @SpringBootApplication
 public class LineageApplication extends SpringBootServletInitializer {
 	private static final Logger LOGGER = LoggerFactory.getLogger(LineageApplication.class);
-	public static final String BASE_FOLDER = "src/test/resources";
+	public static final String BASE_FOLDER = "C:\\Users\\jpc\\PycharmProjects\\ops-lineage\\resources";
 	private final ObjectMapper mapper = new ObjectMapper();
 	private final DataFacade facade;
 
