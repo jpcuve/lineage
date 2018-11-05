@@ -18,6 +18,9 @@ public class Company {
     @Basic
     @Column(name = "name")
     private String name;
+    @Basic
+    @Column(name = "irrelevant")
+    private boolean irrelevant;
 
     public Long getId() {
         return id;
@@ -33,5 +36,13 @@ public class Company {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public boolean isIrrelevant() {
+        return irrelevant;
+    }
+
+    public void setIrrelevant(boolean irrelevant) {
+        this.irrelevant = irrelevant;
     }
 }

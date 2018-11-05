@@ -13,15 +13,27 @@
   </div>
   <div *ngIf="extractValue">
     <pre>{{extractValue.extract.sentences}}</pre>
-    <input pRadioButton type="radio" name="parent" [(ngModel)]="extractValue.extract.relation" value="0"/>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="0"/>
     <span>No relation</span>
     <br/>
-    <input pRadioButton type="radio" name="parent" [(ngModel)]="extractValue.extract.relation" value="1"/>
-    <span>{{extractValue.one.name}} is parent of {{extractValue.two.name}}</span>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="1"/>
+    <span>
+      <i class="pi pi-user"></i>
+      {{extractValue.one.name}}
+      <span style="font-style: italic;">is parent of</span>
+      <i class="pi pi-user"></i>
+      {{extractValue.two.name}}
+    </span>
     <br/>
-    <input pRadioButton type="radio" name="parent" [(ngModel)]="extractValue.extract.relation" value="2"/>
-    <span>{{extractValue.two.name}} is parent of {{extractValue.one.name}}</span>
+    <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="2"/>
+    <span>
+      <i class="pi pi-user"></i>
+      {{extractValue.two.name}}
+      <span style="font-style: italic;">is parent of</span>
+      <i class="pi pi-user"></i>
+      {{extractValue.one.name}}
+    </span>
   </div>
-  <i class="pi pi-user">zzz</i>
+
 </div>
 <router-outlet></router-outlet>

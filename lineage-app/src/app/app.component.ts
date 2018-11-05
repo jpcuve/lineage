@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {ExtractValue, RemoteService} from "./remote.service";
 
 @Component({
@@ -6,7 +6,7 @@ import {ExtractValue, RemoteService} from "./remote.service";
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
   extractIds: number[];
   currentIndex: number = -1;
   extractValue: ExtractValue;
@@ -20,7 +20,10 @@ export class AppComponent implements OnInit {
 
   private getModel(): void {
     if (this.currentIndex >= 0){
-      this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => this.extractValue = m)
+      this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => {
+        this.extractValue = m;
+        console.log('Relation: ', this.extractValue.extract.relation);
+      })
     }
   }
 
@@ -38,7 +41,6 @@ export class AppComponent implements OnInit {
 
   next(): void {
     if (this.currentIndex >= 0){
-      this.save();
       this.currentIndex = (this.currentIndex + 1) % this.extractIds.length;
       this.getModel();
     }
@@ -46,12 +48,19 @@ export class AppComponent implements OnInit {
 
   prev(): void {
     if (this.currentIndex >= 0){
-      this.save();
       this.currentIndex = (this.currentIndex - 1 + this.extractIds.length) % this.extractIds.length;
       this.getModel();
     }
   }
 
-  ngOnInit(): void {
+  get relation(): number {
+    return this.extractValue.extract.relation;
+  }
+
+  set relation(r: number) {
+    console.log('Setting relation to: ', r);
+    this.extractValue.extract.relation = r;
+    this.save();
+    this.next();
   }
 }
