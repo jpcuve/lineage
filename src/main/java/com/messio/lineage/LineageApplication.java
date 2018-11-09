@@ -99,7 +99,6 @@ public class LineageApplication extends SpringBootServletInitializer {
 	@Autowired
 	public LineageApplication(Environment environment, DataFacade facade){
 	    this.facade = facade;
-	    load();
 		if (Arrays.asList(environment.getActiveProfiles()).contains("dev")){
 			LOGGER.info("Found dev profile, initializing database");
 			load();
