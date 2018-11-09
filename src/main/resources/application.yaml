@@ -10,6 +10,9 @@ spring:
 
 logging:
   level:
+    com:
+      messio:
+        lineage: info
     org:
       hibernate:
-        SQL: debug
+        SQL: info
