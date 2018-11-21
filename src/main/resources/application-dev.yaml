@@ -4,10 +4,12 @@ spring:
     username: sa
     password:
     driver-class-name: org.h2.Driver
+    platform: h2
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
+    generate-ddl: true
   h2:
     console:
       enabled: true

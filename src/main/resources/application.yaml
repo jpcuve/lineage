@@ -4,6 +4,7 @@ spring:
     username: darts
     password: target
     driver-class-name: com.mysql.cj.jdbc.Driver
+    platform: mysql
   jpa:
     hibernate:
       ddl-auto: none

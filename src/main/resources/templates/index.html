@@ -1,0 +1,11 @@
+{{>header}}
+<h1>Mustache with Spring Boot</h1>
+<div>Product List
+{{#productList}}
+    <div>
+    {{>product}}
+    </div>
+    <br/>
+{{/productList}}
+</div>
+{{>footer}}

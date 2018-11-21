@@ -67,32 +67,35 @@ public class LineageApplication extends SpringBootServletInitializer {
     }
 
     private void load(){
-        Path startPath = new File(BASE_FOLDER).toPath();
-        try{
-            Files.
-                    walk(startPath).
-                    filter(p -> Files.isRegularFile(p) &&
-                            p.getFileName().toString().startsWith("organisations-") &&
-                            p.getFileName().toString().endsWith(".json")).
-                    forEach(p -> {
-                        String s = p.getFileName().toString();
-                        long decisionId = Long.parseLong(s.substring(s.indexOf('-') + 1, s.lastIndexOf('.')));
-                        File textFile = new File(String.format("%s/en-%s.txt", BASE_FOLDER, decisionId));
-                        if (textFile.exists()){
-                            LOGGER.info("Processing: {}", s);
-                            try{
-                                String text = new String(
-                                        Files.readAllBytes(textFile.toPath()), Charset.forName("UTF-8")
-                                ).replace("\r\n", "\n");
-                                NEREntity[] entities = mapper.readValue(p.toFile(), NEREntity[].class);
-                                process(decisionId, "en", text, entities, 100);
-                            } catch(IOException e){
-                                LOGGER.error("Cannot read file", e);
+	    File startFolder = new File(BASE_FOLDER);
+	    if (startFolder.exists() && startFolder.isDirectory()){
+            Path startPath = startFolder.toPath();
+            try{
+                Files.
+                        walk(startPath).
+                        filter(p -> Files.isRegularFile(p) &&
+                                p.getFileName().toString().startsWith("organisations-") &&
+                                p.getFileName().toString().endsWith(".json")).
+                        forEach(p -> {
+                            String s = p.getFileName().toString();
+                            long decisionId = Long.parseLong(s.substring(s.indexOf('-') + 1, s.lastIndexOf('.')));
+                            File textFile = new File(String.format("%s/en-%s.txt", BASE_FOLDER, decisionId));
+                            if (textFile.exists()){
+                                LOGGER.info("Processing: {}", s);
+                                try{
+                                    String text = new String(
+                                            Files.readAllBytes(textFile.toPath()), Charset.forName("UTF-8")
+                                    ).replace("\r\n", "\n");
+                                    NEREntity[] entities = mapper.readValue(p.toFile(), NEREntity[].class);
+                                    process(decisionId, "en", text, entities, 100);
+                                } catch(IOException e){
+                                    LOGGER.error("Cannot read file", e);
+                                }
                             }
-                        }
-                    });
-        } catch(IOException e){
-            LOGGER.error("Error initializing test database", e);
+                        });
+            } catch(IOException e){
+                LOGGER.error("Error initializing test database", e);
+            }
         }
     }
 
