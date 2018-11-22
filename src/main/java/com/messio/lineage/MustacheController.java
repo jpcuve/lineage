@@ -16,6 +16,11 @@ public class MustacheController {
         this.facade = facade;
     }
 
+    @GetMapping
+    public String index(final Model model){
+        return "index";
+    }
+
     @GetMapping("/companies")
     public String getCompanies(final Model model){
         model.addAttribute("companyList", facade.findCompanies());
