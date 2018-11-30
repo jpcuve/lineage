@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+</head>
+<body>
+{{#plain}}
+Zaza sort du trou
+{{/plain}}
+<br/>
+{{#plain}}
+Other
+{{/plain}}
+<br/>
+{{#content}}
+This is in memory
+{{/content}}
+{{content.recall}}
+<br/>
+{{content.recall}}
+<br/>
+{{#content}}
+Another part
+{{/content}}
+{{content.recall}}
+<br/>
+{{content.recall}}
+</body>
+</html>

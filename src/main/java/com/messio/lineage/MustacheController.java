@@ -26,4 +26,9 @@ public class MustacheController {
         model.addAttribute("companyList", facade.findCompanies());
         return "companies";
     }
+
+    @GetMapping("/test")
+    public String getTest(final Model model){
+        return "test";
+    }
 }

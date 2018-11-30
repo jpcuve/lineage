@@ -10,19 +10,31 @@ import java.io.Writer;
 
 @ControllerAdvice  // injects stuff into all models
 public class MustacheAdvice {
-    @ModelAttribute("layout")
-    public Mustache.Lambda layout(){
-        return new Mustache.Lambda() {
-            private String body;
+    public class Memory implements Mustache.Lambda {
+        private String recall;
 
-            @Override
-            public void execute(Template.Fragment fragment, Writer writer) throws IOException {
-                body = fragment.execute();
-            }
+        @Override
+        public void execute(Template.Fragment fragment, Writer writer) throws IOException {
+            recall = fragment.execute();
+        }
 
-            public String getBody() {
-                return body;
-            }
-        };
+        public String getRecall() {
+            return recall;
+        }
+    }
+
+    @ModelAttribute("plain")
+    public Mustache.Lambda plain(){
+        return (fragment, writer) -> writer.write(fragment.execute());
+    }
+
+    @ModelAttribute("content")
+    public Mustache.Lambda content(){
+        return new Memory();
+    }
+
+    @ModelAttribute("title")
+    public Mustache.Lambda title(){
+        return new Memory();
     }
 }
