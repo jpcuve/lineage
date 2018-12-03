@@ -1,25 +1,28 @@
 package com.messio.lineage;
 
 import com.samskivert.mustache.Mustache;
-import com.samskivert.mustache.Template;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ModelAttribute;
 
-import java.io.IOException;
 import java.io.Writer;
 
 @ControllerAdvice  // injects stuff into all models
 public class MustacheAdvice {
-    public class Memory implements Mustache.Lambda {
-        private String recall;
+    public class Template implements Mustache.Lambda {
+        private String content;
+        private String title;
 
         @Override
-        public void execute(Template.Fragment fragment, Writer writer) throws IOException {
-            recall = fragment.execute();
+        public void execute(com.samskivert.mustache.Template.Fragment fragment, Writer writer) {
+            content = fragment.execute();
         }
 
-        public String getRecall() {
-            return recall;
+        public String getContent() {
+            return content;
+        }
+
+        public String getTitle() {
+            return title;
         }
     }
 
@@ -28,13 +31,13 @@ public class MustacheAdvice {
         return (fragment, writer) -> writer.write(fragment.execute());
     }
 
-    @ModelAttribute("content")
-    public Mustache.Lambda content(){
-        return new Memory();
+    @ModelAttribute("template")
+    public Template content(){
+        return new Template();
     }
 
     @ModelAttribute("title")
-    public Mustache.Lambda title(){
-        return new Memory();
+    public Mustache.Lambda title(@ModelAttribute Template template){
+        return (fragment, writer) -> template.title = fragment.execute();
     }
 }
