@@ -11,27 +11,27 @@
     <button pButton (click)="prev()" icon="pi pi-arrow-left"></button>
     <button pButton (click)="next()" icon="pi pi-arrow-right"></button>
   </div>
-  <div *ngIf="extractValue">
-    <pre>{{extractValue.extract.sentences}}</pre>
+  <div *ngIf="appValue">
+    <pre>{{appValue.extract.sentences}}</pre>
     <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="0"/>
     <span>No relation</span>
     <br/>
     <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="1"/>
     <span>
       <i class="pi pi-user"></i>
-      {{extractValue.one.name}}
+      {{appValue.one.name}}
       <span style="font-style: italic;">is parent of</span>
       <i class="pi pi-user"></i>
-      {{extractValue.two.name}}
+      {{appValue.two.name}}
     </span>
     <br/>
     <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="2"/>
     <span>
       <i class="pi pi-user"></i>
-      {{extractValue.two.name}}
+      {{appValue.two.name}}
       <span style="font-style: italic;">is parent of</span>
       <i class="pi pi-user"></i>
-      {{extractValue.one.name}}
+      {{appValue.one.name}}
     </span>
   </div>
 

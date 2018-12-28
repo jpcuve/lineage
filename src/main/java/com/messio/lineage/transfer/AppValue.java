@@ -3,18 +3,18 @@ package com.messio.lineage.transfer;
 import com.messio.lineage.domain.Company;
 import com.messio.lineage.domain.Extract;
 
-public class ExtractValue {
+public class AppValue {
     private Extract extract;
     private Company one;
     private Company two;
 
-    public ExtractValue(Extract extract, Company one, Company two) {
+    public AppValue(Extract extract, Company one, Company two) {
         this.extract = extract;
         this.one = one;
         this.two = two;
     }
 
-    public ExtractValue() {
+    public AppValue() {
     }
 
     public Extract getExtract() {

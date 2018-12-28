@@ -1,5 +1,6 @@
-import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
-import {ExtractValue, RemoteService} from "./remote.service";
+import {Component} from '@angular/core';
+import {RemoteService} from "./remote.service";
+import {AppValue} from "./app-value";
 
 @Component({
   selector: 'app-root',
@@ -9,20 +10,20 @@ import {ExtractValue, RemoteService} from "./remote.service";
 export class AppComponent {
   extractIds: number[];
   currentIndex: number = -1;
-  extractValue: ExtractValue;
+  appValue: AppValue;
 
   constructor(private remoteService: RemoteService) {
   }
 
   private save(): void {
-    this.remoteService.save(this.extractValue).subscribe(m => m);
+    this.remoteService.save(this.appValue).subscribe(m => m);
   }
 
   private getModel(): void {
     if (this.currentIndex >= 0){
       this.remoteService.extract(this.extractIds[this.currentIndex]).subscribe(m => {
-        this.extractValue = m;
-        console.log('Relation: ', this.extractValue.extract.relation);
+        this.appValue = m;
+        console.log('Relation: ', this.appValue.extract.relation);
       })
     }
   }
@@ -31,7 +32,7 @@ export class AppComponent {
     this.currentIndex = -1;
     this.remoteService.query(query).subscribe(extractIds => {
       this.extractIds = extractIds;
-      this.extractValue = undefined;
+      this.appValue = undefined;
       if (extractIds.length > 0){
         this.currentIndex = 0;
         this.getModel();
@@ -54,12 +55,12 @@ export class AppComponent {
   }
 
   get relation(): number {
-    return this.extractValue.extract.relation;
+    return this.appValue.extract.relation;
   }
 
   set relation(r: number) {
     console.log('Setting relation to: ', r);
-    this.extractValue.extract.relation = r;
+    this.appValue.extract.relation = r;
     this.save();
     this.next();
   }

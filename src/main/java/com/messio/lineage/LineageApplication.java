@@ -23,8 +23,8 @@ import java.util.Arrays;
 public class LineageApplication extends SpringBootServletInitializer {
 	private static final Logger LOGGER = LoggerFactory.getLogger(LineageApplication.class);
 	public static final String BASE_FOLDER = "C:\\Users\\jpc\\PycharmProjects\\ops-lineage\\resources";
-	private final ObjectMapper mapper = new ObjectMapper();
 	private final DataFacade facade;
+	private final ObjectMapper mapper;
 
 	private void process(long decisionId, String language, String text, NEREntity[] entities, int maximumDistance){
         for (int i = 0; i < entities.length; i++){
@@ -100,8 +100,9 @@ public class LineageApplication extends SpringBootServletInitializer {
     }
 
 	@Autowired
-	public LineageApplication(Environment environment, DataFacade facade){
+	public LineageApplication(Environment environment, DataFacade facade, ObjectMapper mapper){
 	    this.facade = facade;
+	    this.mapper = mapper;
 		if (Arrays.asList(environment.getActiveProfiles()).contains("dev")){
 			LOGGER.info("Found dev profile, initializing database");
 			load();
