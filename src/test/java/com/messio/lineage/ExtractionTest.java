@@ -15,6 +15,41 @@ public class ExtractionTest {
     public static final int DISTANCE = 100;
 
     @Test
+    public void testOffset() throws Exception {
+        ObjectMapper mapper = new ObjectMapper();
+        String baseFolder = "src/test/resources";
+        Path startPath = new File(baseFolder).toPath();
+        Files.
+                walk(startPath).
+                filter(p -> Files.isRegularFile(p) &&
+                        p.getFileName().toString().startsWith("organisations-") &&
+                        p.getFileName().toString().endsWith(".json")).
+                forEach(p -> {
+                    String s = p.getFileName().toString();
+                    long decisionId = Long.parseLong(s.substring(s.indexOf('-') + 1, s.lastIndexOf('.')));
+                    File textFile = new File(String.format("%s/en-%s.txt", baseFolder, decisionId));
+                    if (textFile.exists()){
+//                        System.out.println(textFile.getAbsolutePath());
+                        try {
+                            String text = new String(Files.readAllBytes(textFile.toPath()), Charset.forName("UTF-8")).replace("\r\n", " ");
+                            NEREntity[] entities = mapper.readValue(p.toFile(), NEREntity[].class);
+                            for (NEREntity entity: entities){
+                                String name = entity.getName();
+                                for (NERMention mention: entity.getMentions()){
+                                    int offset = mention.getOffset();
+                                    String match = text.substring(offset, offset + name.length());
+                                    System.out.printf("File: %s, begin offset: %s%n", textFile.getName(), offset);
+                                    System.out.printf("%s | %s%n", name, match);
+                                }
+                            }
+                        } catch(IOException e){
+                            e.printStackTrace();
+                        }
+                    }
+                });
+    }
+
+    @Test
     public void testExtraction() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
         String baseFolder = "src/test/resources";
