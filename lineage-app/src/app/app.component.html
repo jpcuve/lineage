@@ -12,7 +12,7 @@
     <button pButton (click)="next()" icon="pi pi-arrow-right"></button>
   </div>
   <div *ngIf="appValue">
-    <pre>{{appValue.extract.sentences}}</pre>
+    <pre [innerHTML]="hi(appValue.extract.sentences, query.value)"></pre>
     <input pRadioButton type="radio" name="parent" [(ngModel)]="relation" [value]="0"/>
     <span>No relation</span>
     <br/>

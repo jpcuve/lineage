@@ -5,7 +5,6 @@ import com.samskivert.mustache.Template;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ModelAttribute;
 
-import java.io.IOException;
 import java.io.Writer;
 import java.util.HashMap;
 
@@ -13,7 +12,7 @@ import java.util.HashMap;
 public class MustacheAdvice {
     public class MapLambda extends HashMap<String, Object> implements Mustache.Lambda {
         @Override
-        public void execute(Template.Fragment fragment, Writer writer) throws IOException {
+        public void execute(Template.Fragment fragment, Writer writer) {
             put("content", fragment.execute());
         }
     }

@@ -28,6 +28,10 @@ export class AppComponent {
     }
   }
 
+  hi(text: string, sub: string){
+    return text.replace(sub, '<span class="hi">$&</span>');
+  }
+
   fetch(query: string): void {
     this.currentIndex = -1;
     this.remoteService.query(query).subscribe(extractIds => {
