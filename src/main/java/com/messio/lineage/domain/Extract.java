@@ -3,14 +3,13 @@ package com.messio.lineage.domain;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Table(name = "extracts")
 @Entity
 @NamedQueries({
         @NamedQuery(
                 name = Extract.EXTRACT_IDS_LIKE,
-                query = "select e.id from Extract e where e.relation is null and e.sentences like ?1 order by e.id"
+                query = "select e.id from Extract e where e.relation is null and e.sentences like ?1 and e.one.irrelevant = false and e.two.irrelevant = false order by e.id"
         )
 })
 @JsonIgnoreProperties("companies")

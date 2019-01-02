@@ -29,7 +29,8 @@ export class AppComponent {
   }
 
   hi(text: string, sub: string){
-    return text.replace(sub, '<span class="hi">$&</span>');
+    var regEx = new RegExp(sub, "ig"); // case insensitive
+    return text.replace(regEx, '<span class="hi">$&</span>');
   }
 
   fetch(query: string): void {
